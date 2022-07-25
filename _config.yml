@@ -128,6 +128,10 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  members:
+    output: false
+  news:
+    output: false
 
 permalink: pretty
 
