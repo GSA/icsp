@@ -1,8 +1,9 @@
 ---
 title: Office Management Budget
+layout: page
 section: products
 ---
-<p><strong>Analytical Perspectives Chapters from the President’s Budget Requests</strong> </p>                   
+<p><strong>Analytical Perspectives Chapters from the President's Budget Requests</strong> </p>                   
 <ul>
   <li>
     <strong>Fiscal Year 2019</strong>

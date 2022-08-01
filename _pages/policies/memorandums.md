@@ -1,5 +1,6 @@
 ---
 title: Memorandums Issued to the Federal Statistical System Agencies
+layout: page
 section: policies
 ---
 <ul>

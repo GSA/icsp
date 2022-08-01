@@ -1,5 +1,6 @@
 ---
 title: statistical Policy Directives
+layout: page
 section: policies
 ---
 <ul>

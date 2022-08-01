@@ -1,5 +1,6 @@
 ---
 title: Legislation and Related Policy Guidance for the Federal Statistical System
+layout: page
 section: policies
 ---
 <ul>      

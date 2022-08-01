@@ -1,5 +1,6 @@
 ---
 title: OMB's Statistical Standards & Programs
+layout: page
 section: products
 ---
 <ul>

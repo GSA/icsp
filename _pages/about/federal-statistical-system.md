@@ -1,11 +1,12 @@
 ---
 title: Federal Statistical System
+layout: page
 section: about
 ---
-<p> The Federal Statistical System has a long history of collecting data to produce high quality official statistics. Comprised of 13 principal statistical agencies and 90 plus additional agencies and units engaged in statistical activities, the Federal Statistical System obtains statistical policy guidance and coordination functions from the Office of Management and Budget (OMB), in which leadership of the Interagency for Statistical Policy (ICSP) is located. OMB’s responsibilities include but are not limited to:</p>
+<p> The Federal Statistical System has a long history of collecting data to produce high quality official statistics. Comprised of 13 principal statistical agencies and 90 plus additional agencies and units engaged in statistical activities, the Federal Statistical System obtains statistical policy guidance and coordination functions from the Office of Management and Budget (OMB), in which leadership of the Interagency for Statistical Policy (ICSP) is located. OMB's responsibilities include but are not limited to:</p>
 						
 <ul role="list">
-  <li>Ensuring that agencies’ budget proposals are consistent with Statistical System priorities </li>
+  <li>Ensuring that agencies' budget proposals are consistent with Statistical System priorities </li>
   <li>Developing and implementing government-wide policies, principles, standards, and guidelines</li>
   <li>	Evaluating statistical program performance and agency compliance with policies, principles, standards, and guidelines</li>
   <li>	Approving all agency information collections</li>

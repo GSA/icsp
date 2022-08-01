@@ -1,5 +1,6 @@
 ---
 title: Interagency Council on Statistical Policy
+layout: page
 section: products
 ---
 <p><strong>Interagency Reports</strong></p>

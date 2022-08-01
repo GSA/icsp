@@ -1,5 +1,6 @@
 ---
 title: Jeanne E. Griffith Mentoring Award
+layout: page
 section: announcements
 ---
 <p>The Jeanne E. Griffith Mentoring Award recognizes individuals working in federal, state, and local government agencies for their efforts in mentoring junior statistical staff. </p> 
@@ -16,7 +17,7 @@ section: announcements
   <li>Carol G. Crawford (U.S. Government Accountability Office), 2018</li>
   <li>Cynthia Ogden (National Center for Health Statistics), 2017</li>
   <li>Diane L. Willimack (U.S. Census Bureau), 2016</li>
-  <li>Aldo “Skip” Vecchia (United States Geological Survey), 2015</li>
+  <li>Aldo "Skip" Vecchia (United States Geological Survey), 2015</li>
   <li>J. Gregory Robinson (U.S. Census Bureau) and Kenneth Schoendorf (National Center for Health Statistics), 2014</li>
   <li>Brian Harris-Kojetin (Office of Management and Budget), 2013</li>
   <li>Bill Mockovak (Bureau of Labor Statistics), 2012</li>
