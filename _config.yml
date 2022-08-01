@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Agency Name
+title: Interagency Council on Statistical Policy
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -79,26 +79,84 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
-    children:
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
+  - name: About Us
+    url: /about/
+  - name: Strategic Priorities
+    url: /strategic-priorities/
+  - name: ICSP Subcommittees
+    url: /subcommittees/
+  - name: Policies
+    url: /policies/
+  - name: Products
+    url: /products/
+  - name: Announcements
+    url: /announcements/
 
-secondary_navigation:
-  - name: Secondary link
-    url: "#main-content"
-  - name: Another secondary link
-    url: "#main-content"
+about_nav:
+  - name: About Us
+    url: /about/
+  - name: Office of the Chief Statistician
+    url: /about/office-chief-statistictian/
+  - name: Interagency Council on Statistical Policy
+    url: /about/council-members/
+  - name: Federal Statistical System
+    url: /about/federal-statistical-system
+    
+strategic-priorities_nav:
+  - name: Strategic Priorities
+    url: /strategic-priorities/
+  - name: Data Quality
+    url: /strategic-priorities/data-quality/
+  - name: Autonomy and Objectivity
+    url: /strategic-priorities/autonomy-objectivity/
+  - name: Blended Data
+    url: /strategic-priorities/blended-data/
+  - name: Title III Regulations
+    url: /strategic-priorities/title-iii-regulations/
+  - name: Statistical Office Role
+    url: /strategic-priorities/statistical-office-role/
+  - name: Cross-Council Collaborations
+    url: /strategic-priorities/criss-council-collaborations/
+  - name: Staff Development
+    url: /strategic-priorities/staff-development/
+  - name: Data Protection
+    url: /strategic-priorities/data-protection
+
+subcommittees_nav:
+  - name: ICSP Subcommittees
+    url: /icsp-subcommittees/
+  - name: American Community Survey
+    url: /icsp-subcommittees/american-committee-survey/
+  - name: Standard Application Process
+    url: /icsp-subcommittees/standard-application-process/
+
+policies_nav:
+  - name: Policies
+    url: /policies/
+  - name: Legislation and Related Policy Guidance
+    url: /policies/legislation-policy-guidance
+  - name: Memorandums Issued to the Federal Statistical System Agencies
+    url: /policies/memorandums
+  - name: Statistical Policy Directives
+    url: /policies/statistical-policy-directives
+  - name: Related Links
+    url: /policies/related-links/
+    
+products_nav:
+  - name: Products
+    url: /products/
+  - name: Office of Management and Budget
+    url: /products/omb/
+  - name: Interagency Council on Statistical Policy
+    url: /products/icsp/
+  - name: Related Links
+    url: /products/related-links
+
+announcements_nav:
+  - name: Announcements
+    url: /announcements/
+  - name: Community News
+    url: /announcements/
 
 # Search.gov configuration
 #
@@ -199,8 +257,26 @@ exclude:
   - Gemfile.lock
 
 assets:
+  digest: false
+  autoprefixer:
+    browsers:
+      - "> 2%"
+      - "last 2 versions"
+      - "IE 11"
+      - "not dead"
+  compression: true
   sources:
+    - node_modules/uswds/dist
     - node_modules/uswds/dist/img
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
+    - _assets/img
+    - _assets/js
+    - _assets/css
+  defaults:
+    js:  { integrity: false }
+    css: { integrity: false }
+    img: { integrity: false }
+  features:
+    integrity: false
