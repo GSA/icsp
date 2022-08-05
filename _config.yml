@@ -96,11 +96,11 @@ about_nav:
   - name: About Us
     url: /about/
   - name: Office of the Chief Statistician
-    url: /about/office-chief-statistictian/
+    url: /about/office-chief-statistician/
   - name: Interagency Council on Statistical Policy
     url: /about/council-members/
   - name: Federal Statistical System
-    url: /about/federal-statistical-system
+    url: /about/federal-statistical-system/
     
 strategic-priorities_nav:
   - name: Strategic Priorities
@@ -189,6 +189,8 @@ collections:
   members:
     output: false
   news:
+    output: false
+  agencies:
     output: false
 
 permalink: pretty
