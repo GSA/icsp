@@ -1,51 +1,22 @@
-{% comment %} 
-The sidenav is not loaded by default on the main pages. To include this navigation you can either use the
-_layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
-{% endcomment %}
 
-<aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
-  <nav>
-    <ul class="usa-sidenav">
-      <li class="usa-sidenav__item">
-        <a href="">Parent link</a>
-      </li>
-      <li class="usa-sidenav__item">
-        <a href="" class="usa-current">Current page</a>
-        <ul class="usa-sidenav__sublist">
-          <li class="usa-sidenav__item">
-            <a href="">Child link</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="" class="usa-current">Child link</a>
-            <ul class="usa-sidenav__sublist">
-              <li class="usa-sidenav__item">
-                <a href="">Grandchild link</a>
-              </li>
-              <li class="usa-sidenav__item">
-                <a href="">Grandchild link</a>
-              </li>
-              <li class="usa-sidenav__item">
-                <a href="" class="usa-current">Grandchild link</a>
-              </li>
-              <li class="usa-sidenav__item">
-                <a href="">Grandchild link</a>
-              </li>
-            </ul>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="">Child link</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="">Child link</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="">Child link</a>
-          </li>
-        </ul>
-      </li>
-      <li class="usa-sidenav__item">
-        <a href="">Parent link</a>
-      </li>
+{% if include.menu %}
+  {% case include.menu %}
+    {% when "about_nav" %}
+      {% assign nav = site.about_nav %}
+    {% when "group_navigation" %}
+      {% assign nav = site.group_navigation %}
+    {% when "resource_navigation" %}
+      {% assign nav = site.resource_navigation %}
+    {% when "events_navigation" %}
+      {% assign nav = site.events_navigation %}
+  {% endcase %}
+<aside id="sidenav" class="grid-col-12 usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+  <nav role="navigation" aria-label="Side navigation">
+    <ul class="usa-sidenav" role="menu">
+    {% for nav_item in nav %}
+      {% include navitem.html nav_item = nav_item %}
+    {% endfor %}
     </ul>
   </nav>
 </aside>
+{% endif %}
