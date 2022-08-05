@@ -18,11 +18,12 @@ This template is for a single page that does not have a date associated with it.
   </div>
   <div class="grid-container">
     <div class="grid-row grid-gap margin-top-6">
-      {% if page.sidenav %}
-        {% include sidenav.html menu=page.sidenav %}
+      {% if page.section %}
+        {% assign nav = page.section| append: '_nav' %}
+        {% include sidenav.html menu=nav %}
         <div id="content" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
       {% else %}
-        <div id="content" class="usa-layout-docs__main desktop:grid-col-12 usa-prose"></div>
+        <div id="content" class="usa-layout-docs__main desktop:grid-col-12 usa-prose">
       {% endif %}
           {{ content }}
       </div>
