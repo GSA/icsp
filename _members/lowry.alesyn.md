@@ -1,6 +1,5 @@
 ---
-first: Alesyn
-last: Lowry
-photo: female.png
-agency: National Aeronautics and Space Administration
+name: Alesyn Lowry
+agency_long: National Aeronautics and Space Administration
+agency_short: NASA
 ---
