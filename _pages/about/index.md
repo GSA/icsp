@@ -23,7 +23,7 @@ section: about
   <li>Providing opportunities for training in statistical policy functions to employees of the Federal Government</li>
 </ul>
 <hr>
-<h3>Principal Statistical Agencies</h3>
+<h3 class="bg-primary text-white radius-lg padding-1 font-sans-xs">Principal Statistical Agencies</h3>
 <div class="grid-row grid-gap">
 {% for agency in site.agencies %}
   <div class="tablet:grid-col-6 padding-y-2">
@@ -32,7 +32,7 @@ section: about
         <img src="{{ site.baseurl }}/assets/img/agency_logos/{{ agency.short }}.png" alt="{{ agency.title }} logo">
       </div> 
       <div class="grid-col-8 padding-right-2">
-        <p><a href="{{ agency.url }}" target="_blank" class="usa-link--external text-no-underline">{{ agency.title }}</a></p>
+        <p><a href="{{ agency.url }}" target="_blank" class="usa-link--external text-no-underline text-primary">{{ agency.title }}</a></p>
       </div>
     </div>
   </div>
