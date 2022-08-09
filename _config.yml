@@ -102,7 +102,7 @@ about_nav:
   - name: Federal Statistical System
     url: /about/federal-statistical-system/
     
-strategic-priorities_nav:
+strategic_priorities_nav:
   - name: Strategic Priorities
     url: /strategic-priorities/
   - name: Data Quality
@@ -116,11 +116,11 @@ strategic-priorities_nav:
   - name: Statistical Office Role
     url: /strategic-priorities/statistical-office-role/
   - name: Cross-Council Collaborations
-    url: /strategic-priorities/criss-council-collaborations/
+    url: /strategic-priorities/cross-council-collaboration/
   - name: Staff Development
     url: /strategic-priorities/staff-development/
   - name: Data Protection
-    url: /strategic-priorities/data-protection
+    url: /strategic-priorities/data-protection/
 
 subcommittees_nav:
   - name: ICSP Subcommittees
@@ -134,11 +134,11 @@ policies_nav:
   - name: Policies
     url: /policies/
   - name: Legislation and Related Policy Guidance
-    url: /policies/legislation-policy-guidance
+    url: /policies/legislation-policy-guidance/
   - name: Memorandums Issued to the Federal Statistical System Agencies
-    url: /policies/memorandums
+    url: /policies/memorandums/
   - name: Statistical Policy Directives
-    url: /policies/statistical-policy-directives
+    url: /policies/statistical-policy-directives/
   - name: Related Links
     url: /policies/related-links/
     
@@ -150,7 +150,7 @@ products_nav:
   - name: Interagency Council on Statistical Policy
     url: /products/icsp/
   - name: Related Links
-    url: /products/related-links
+    url: /products/related-links/
 
 announcements_nav:
   - name: Announcements
