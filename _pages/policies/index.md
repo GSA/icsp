@@ -4,10 +4,10 @@ permalink: /policies/
 layout: page
 section: policies
 ---
-{% assign pages = site.pages | where: "section", "policies" | where_exp: "permalink", "item.permalink != '/policies/'"%}
+{% assign pages = site.pages | where: "section", "policies" %}
 {% for page in pages %}
-{% unless page.permalink %}
-<h3>{{ page.title }}</h3>
-<p>{{ page.content | render }}</p>
-{% endunless %}
+{% unless page.permalink %}{% unless page.skip %}
+<h3 class="bg-primary text-white radius-lg padding-1 font-sans-xs">{{ page.title }}</h3>
+{{ page.content | render }}
+{% endunless %}{% endunless %}
 {% endfor %}

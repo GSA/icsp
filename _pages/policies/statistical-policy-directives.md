@@ -1,5 +1,5 @@
 ---
-title: statistical Policy Directives
+title: Statistical Policy Directives
 layout: page
 section: policies
 ---
@@ -52,10 +52,10 @@ section: policies
 
     <ul >
       <li style="margin-bottom:15px">
-        <a href="https://www.govinfo.gov/content/pkg/FR-2010-07-07/pdf/2010-16368.pdf"  target="_blank">2010 Standards for Delineating Metropolitan and Micropolitan Statistical Areas; Notice</a></span><span style="color:#0a2458"> (correction) (July 7, 2010)
+        <a href="https://www.govinfo.gov/content/pkg/FR-2010-07-07/pdf/2010-16368.pdf"  target="_blank">2010 Standards for Delineating Metropolitan and Micropolitan Statistical Areas; Notice</a><span style="color:#0a2458"> (correction) (July 7, 2010) </span>
       </li>
       <li style="margin-bottom:15px">
-        <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/fedreg_2010/06282010_metro_standards-Complete.pdf"  target="_blank">2010 Standards for Delineating Metropolitan and Micropolitan Statistical Areas; Notice</a></span><span style="color:#0a2458"> (June 28, 2010)
+        <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/fedreg_2010/06282010_metro_standards-Complete.pdf"  target="_blank">2010 Standards for Delineating Metropolitan and Micropolitan Statistical Areas; Notice</a><span style="color:#0a2458"> (June 28, 2010)</span>
       </li>
       <li style="margin-bottom:15px">
         <a href="https://www.whitehouse.gov/wp-content/uploads/2018/09/Bulletin-18-04.pdf" target="_blank">OMB Bulletin No. 18-04, Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses o of the Delineations of These Areas</a>
