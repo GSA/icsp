@@ -23,7 +23,7 @@ section: products
         <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-7-2.pdf" target="_blank">Strengthening Federal Statistics</a>
       </li>
       <li>
-        <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" target="_blank">Building and Using Evidence to Improve Government Effectiveness </a
+        <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" target="_blank">Building and Using Evidence to Improve Government Effectiveness </a>
       </li>
     </ul>
   </li>
@@ -45,7 +45,7 @@ section: products
     <a href="https://www.whitehouse.gov/wp-content/uploads/2020/12/statistical-programs-20192020.pdf" target="_blank"><span>Fiscal Year 2019/2020</span></a>
   </li>
   <li style="margin-bottom:15px">
-    <a href="https://www.whitehouse.gov/wp-content/uploads/2018/05/statistical-programs-2018.pdf" target="_blank"><span>Fiscal Year 2018&nbsp;</span></a>
+    <a href="https://www.whitehouse.gov/wp-content/uploads/2018/05/statistical-programs-2018.pdf" target="_blank"><span>Fiscal Year 2018</span></a>
   </li>
   <li style="margin-bottom:15px">
     <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/information_and_regulatory_affairs/statistical-programs-2017.pdf"  target="_blank"><span>Fiscal Year 2017</span></a>
