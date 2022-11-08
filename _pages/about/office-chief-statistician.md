@@ -1,6 +1,21 @@
 ---
-title: Office of the Chief Statistician
+title: Office of the Chief Statistician of the U.S.
 layout: page
 section: about
 ---
-<p>The U.S. Chief Statistician promotes integration across the federal statistical system by chairing the Interagency Council on Statistical Policy (ICSP). The chief statistician also represents the U.S. as a member of the United Nations Statistical Commission and serves as chief of the Statistical and Science Policy Branch, supervising a staff of senior scientists and statisticians who assist with implementation of the federal statistical program and oversee government-wide implementation of the Information Quality Act.</p>
+<p>
+
+
+The CSOTUS leads and coordinates the decentralized U.S. Federal statistical system, along with the ICSP. CSOTUS is assisted by a staff of senior statisticians. The Office of the Chief Statistician of the U.S. and leaders of the statistical system are working together to provide strategic vision and robust implementation in support of the U.S. Federal statistical system's critical longstanding - and expanding - role for supporting evidence-informed decision-making. The responsibilities of the CSOTUS, derived from statutes - including the Paperwork Reduction Act of 1995 (PRA) and the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) - include: 
+<ul>
+<li>Coordinating the activities of the U.S. Federal statistical system to ensure the efficiency and effectiveness of the system; and the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes </li>
+<li>Ensuring that agencies' budget proposals are consistent with U.S. Federal statistical system priorities </li>
+<li>Developing and implementing U.S. government-wide statistical policies, principles, standards, guidelines, and regulations, including those required by the Evidence Act to bolster trust in the U.S. Federal statistical system, enhance the ability of statistical agencies and units to acquire Federal data for statistical purposes, and promote the expansion of safe and secure access to protected statistical data </li>
+<li>Evaluating statistical program performance and agency compliance with policies, principles, standards, guidelines, and regulations </li>
+<li>Approving statistical agency information collections and regulations </li>
+<li>Promoting the sharing of statistical information, consistent with privacy rights and confidentiality pledges Coordinating U.S. participation in international statistical activities, including the development of comparable statistics, and also representing the U.S. as a member of the United Nations Statistical Commission, among other international bodies </li>
+<li>Chairing the ICSP and working with other interagency councils to promote U.S. Federal statistical system priorities and to facilitate statistical functions and activities </li>
+<li>Providing opportunities for training in statistical policy functions to employees of the Federal Government </li>
+</ul>
+For more information, visit the <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/"  target="_blank">CSOTUS website</a>. 
+</p>
