@@ -1,5 +1,5 @@
 ---
-name: Amy Ritualo
+name: Amy Ritualo*
 department: Department of State
 title: State
 ---

@@ -1,5 +1,6 @@
 ---
-name: Peggy Carr
-department: Department of Education,National Center for Education Statistics
+name: Peggy Carr*
+department: Department of Education
+sub-department: National Center for Education Statistics^
 title: NCES
 ---
