@@ -51,3 +51,9 @@ $theme-show-notifications: false;
     display: block;
   }
 }
+
+@supports (-webkit-mask:url()) {
+  .usa-link--external::after {
+    -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/contain;
+  }
+}
