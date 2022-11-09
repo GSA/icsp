@@ -1,5 +1,7 @@
 ---
 name: Patricia Hu
-agency_long: Department of Transportation
-agency_short: DOT
+department: Department of Transportation
+title: DOT
+bio-image: environmental_protection_agency_seal.png
+bio-image-alt-text: Environmental Protection Agency
 ---

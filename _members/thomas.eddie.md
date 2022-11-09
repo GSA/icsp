@@ -1,5 +1,7 @@
 ---
 name: Eddie Thomas
-agency_long: Department of Veteran Affairs
-agency_short: VA
+department: Department of Veteran Affairs
+title: 
+bio-image: environmental_protection_agency_seal.png
+bio-image-alt-text: Environmental Protection Agency
 ---

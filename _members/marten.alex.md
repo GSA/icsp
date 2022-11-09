@@ -1,5 +1,7 @@
 ---
 name: Alex Marten
-agency_long: Environmental Protection Agency
-agency_short: EPA
+department: Environmental Protection Agency
+title: EPA
+bio-image: environmental_protection_agency_seal.png
+bio-image-alt-text: Environmental Protection Agency
 ---

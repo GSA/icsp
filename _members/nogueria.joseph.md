@@ -1,7 +1,7 @@
 ---
-name: William Beach
-department: Department of Labor,Bureau of Labor Statistics
-title: DOL
+name: Joseph Nogueira
+department: Department of Defense
+title: DOD
 bio-image: environmental_protection_agency_seal.png
 bio-image-alt-text: Environmental Protection Agency
 ---

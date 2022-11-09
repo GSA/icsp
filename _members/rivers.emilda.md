@@ -1,5 +1,7 @@
 ---
 name: Emilda Rivers
-agency_long: National Science Foundation
-agency_short: NSF
+department: National Science Foundation
+title: NSF
+bio-image: environmental_protection_agency_seal.png
+bio-image-alt-text: Environmental Protection Agency
 ---

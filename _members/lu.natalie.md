@@ -1,7 +1,7 @@
 ---
-name: William Beach
-department: Department of Labor,Bureau of Labor Statistics
-title: DOL
+name: Natalie Lu
+department: Social Security Administration
+title: SSA
 bio-image: environmental_protection_agency_seal.png
 bio-image-alt-text: Environmental Protection Agency
 ---

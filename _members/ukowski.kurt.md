@@ -1,5 +1,7 @@
 ---
 name: Kurt Usowski
-agency_long: Department of Housing and Urban Development
-agency_short: HUD
+department: Department of Housing and Urban Development
+title: 
+bio-image: environmental_protection_agency_seal.png
+bio-image-alt-text: Environmental Protection Agency
 ---

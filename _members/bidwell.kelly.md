@@ -1,5 +1,7 @@
 ---
 name: Kelly Bidwell
-agency_long: General Services Administration
-agency_short: GSA
+department: General Services Administration
+title: GSA
+bio-image: environmental_protection_agency_seal.png
+bio-image-alt-text: Environmental Protection Agency
 ---
