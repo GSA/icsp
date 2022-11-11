@@ -1,5 +1,5 @@
 ---
-title: Products
+title: U.S. Federal Statistical System - Wide Products
 layout: page
 permalink: /products/
 skip: true
@@ -8,7 +8,7 @@ skip: true
 publications, presentations, and other products in an effort to promote understanding of its 
 initiatives, priorities, budgets, and activities. Products on this page are grouped by the entity from which they are published.</p>
 
-<h2>Community News and Upcoming Events</h2>
+<h3>Community News and Upcoming Events</h3>
 
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
@@ -16,7 +16,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li>The Federal Committee on Statistical Methodology Research and Policy Conference was held on October 25-27, 2022. For more information, visit the <a href="https://www.fcsm.gov/" class="usa-link--external">FCSM website</a>. </li>
   <li><a href="https://www.whitehouse.gov/wp-content/uploads/2022/07/Flexibilities-and-Best-Practices-Under-SPD-15.pdf" class="usa-link--external">OMB issued a plain language discussion of the current flexibilities of and best practices for collecting and reporting detailed Race and Ethnicity data under current standards in July 2022</a>. For more information, visit the <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external">CSOTUS website</a>. </li>
 </ul>
-<h2>Office of the Chief Statistician of the U.S. / Office of Management and Budget</h2>
+<h3>Office of the Chief Statistician of the U.S. / Office of Management and Budget</h3>
 <p>The Office of Management and Budget (OMB) and the Chief Statistician of the U.S. (CSOTUS) report on the priorities of the U.S.
 Federal statistical system and the budgets of statistical agencies, units, and programs through two key publicly available
 documents: 1) Chapters in the Analytical Perspectives (AP) volume of the President's Budget, and 2) Reports to the Congress
@@ -26,40 +26,40 @@ relevant AP chapters. Highlights of those most relevant to the U.S. Federal stat
 
 <ul class="usa-list">
   <li>
-    <span>FY2023</span>
+    <span>FY 2023</span>
     <ul>
       <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
       <li> Report: <i>Forthcoming</i></li>
     </ul>
   </li>
   <li>
-    <span>FY2021/2022</span>
+    <span>FY 2021/2022</span>
     <ul>
       <li> Report: <i>Forthcoming</i></li>
     </ul>
   </li>
   <li>
-    <span>FY2019/2020</span>
+    <span>FY 2019/2020</span>
     <ul>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_15_statistics-fy2019.pdf" class="usa-link--external">Strengthening Federal Statistics</a></li>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external">Building and Using Evidence to Improve Government Effectiveness</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2020/12/statistical-programs-20192020.pdf" class="usa-link--external">Statistical Programs of the United States Government</a></li>
+      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_15_statistics-fy2019.pdf" class="usa-link--external">Strengthening Federal Statistics 2019/2020</a></li>
+      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external">Building and Using Evidence to Improve Government Effectiveness 2019/2020</a></li>
+      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2020/12/statistical-programs-20192020.pdf" class="usa-link--external">Statistical Programs of the United States Government 2019/2020</a></li>
     </ul>
   </li>
   <li>
-    <span>FY2018</span>
+    <span>FY 2018</span>
     <ul>
-      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-7-2.pdf" class="usa-link--external">Strengthening Federal Statistics</a></li>
-      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" class="usa-link--external">Building and Using Evidence to Improve Government Effectiveness</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/05/statistical-programs-2018.pdf" class="usa-link--external">Statistical Programs of the United States Government</a></li>
+      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-7-2.pdf" class="usa-link--external">Strengthening Federal Statistics 2018</a></li>
+      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" class="usa-link--external">Building and Using Evidence to Improve Government Effectiveness 2018</a></li>
+      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/05/statistical-programs-2018.pdf" class="usa-link--external">Statistical Programs of the United States Government 2018</a></li>
     </ul>
   </li>
   <li>
-    <span>FY2017</span>
+    <span>FY 2017</span>
     <ul>
-      <li> AP: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/ap_16_statistics.pdf" class="usa-link--external">Strengthening Federal Statistics</a></li>
-      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2017-PER/pdf/BUDGET-2017-PER-4-3.pdf" class="usa-link--external">Building and Using Evidence to Improve Government Effectiveness</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/information_and_regulatory_affairs/statistical-programs-2017.pdf" class="usa-link--external">Statistical Programs of the United States Government</a></li>
+      <li> AP: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/ap_16_statistics.pdf" class="usa-link--external">Strengthening Federal Statistics 2017</a></li>
+      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2017-PER/pdf/BUDGET-2017-PER-4-3.pdf" class="usa-link--external">Building the Capacity to Produce and Use Evidence</a></li>
+      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/information_and_regulatory_affairs/statistical-programs-2017.pdf" class="usa-link--external">Statistical Programs of the United States Government 2017</a></li>
     </ul>
   </li>
 </ul>
@@ -88,7 +88,7 @@ for recent years back to 2017 are linked here:
 <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/reports/pei_schedule_release_dates_2018_all_v2.pdf" class="usa-link--external">2018</a>
 <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf" class="usa-link--external">2017</a></p>
 
-<h2>Interagency Council on Statistical Policy</h2>
+<h3>Interagency Council on Statistical Policy</h3>
 <p>The ICSP, in its role advising and assisting the Chief Statistician of the U.S. on challenges and opportunities facing the U.S. Federal statistical system, produces reports and publications, as needed, to address such challenges and opportunities. Some example products include: </p>
 
 ICSP Products:
@@ -97,19 +97,19 @@ ICSP Products:
     <span>2022:</span>
     <ul>
       <li>The Use of Private Datasets by Federal Statistical Programs: Extent, Challenges, and Lessons Learned</li>
-      <li><a href="">Federal statistical datasets allowing disaggregation of Asian, Native Hawaiian, and Other Pacific Islander communities.</a> <i style="color: red">Developer Note: Need new URL for this link.</i></li>
+      <li><a href="https://nces.ed.gov/FCSM/index.asp">Federal statistical datasets allowing disaggregation of Asian, Native Hawaiian, and Other Pacific Islander communities.</a></li>
     </ul>
   </li>
   <li>
     <span>2021:</span>
     <ul>
-      <li><a href="">Statistical Agency Changes in Response to the COVID-19 Pandemic</a> <i style="color: red">Developer Note: Need new URL for this link.</i></li>
+      <li><a href="{{ site.baseurl }}/assets/docs/ICSP-COVID-19-Report_011521.pdf">Statistical Agency Changes in Response to the COVID-19 Pandemic</a></li>
     </ul>
   </li>
   <li>
     <span>2005:</span>
     <ul>
-      <li><a href="">Principles for Modernizing Production of Federal Statistics</a> <i style="color: red">Developer Note: Need new URL for this link.</i></li>
+      <li><a href="{{ site.baseurl }}/assets/docs/ICSP Principles 2018/pdf">Principles for Modernizing Production of Federal Statistics</a></li>
     </ul>
   </li>
 </ul>
@@ -117,17 +117,17 @@ ICSP Products:
 <p>In addition, ICSP members engage with the public and important stakeholder bodies to communicate with and hear directly
 from the public, as well as to publicly share their perspectives on the work of the U.S. Federal statistical system.</p>
 
-<h2>Federal Committee on Statistical Methodology</h2>
+<h3>Federal Committee on Statistical Methodology</h3>
 <p>The FCSM, in its role advising and assisting the CSOTUS and ICSP on technical challenges and opportunities facing the U.S.
 Federal statistical system, produces technical products, including reports and publications, as needed, to address such
 challenges and opportunities.</p>
 
 <p>Products of the FCSM are available on the <a href="https://www.fcsm.gov/" class="usa-link--external">FCSM website.</a></p>
 
-<h2>Related Links</h2>
+<h3>Related Links</h3>
 <ul class="usa-list" role="list">
   <li role="listitem"><a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external">Chief Statistician of the U.S.</a></li>
   <li role="listitem"><a href="https://www.fcsm.gov/" class="usa-link--external">Federal Committee on Statistical Methodology</a></li>
-  <li role="listitem"><a href="https://cybercemetery.unt.edu/archive/cep/20171002195205/https:/www.cep.gov/en.html" class="usa-link--external">Commision on Evidence-Based Policy Making</a></li>
-  <li role="listitem"><a href="https://www.whitehouse.gov/" class="usa-link--external">Advisory Committee on Data for Evidence-Building</a></li>
+  <li role="listitem"><a href="https://cybercemetery.unt.edu/archive/cep/20171002195205/https:/www.cep.gov/en.html" class="usa-link--external">Commission on Evidence-Based Policy Making</a></li>
+  <li role="listitem"><a href="https://www.bea.gov/evidence" class="usa-link--external">Advisory Committee on Data for Evidence-Building</a></li>
 </ul>
