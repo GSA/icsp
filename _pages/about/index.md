@@ -1,5 +1,5 @@
 ---
-title: ICSP - About Us
+title: About Us
 permalink: /about/
 layout: page
 ---
