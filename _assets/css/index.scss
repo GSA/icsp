@@ -57,3 +57,7 @@ $theme-show-notifications: false;
     -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/contain;
   }
 }
+
+.usa-list li {
+  max-width: unset;
+}
