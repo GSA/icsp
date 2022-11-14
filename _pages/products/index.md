@@ -12,9 +12,9 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
-  <li>The Advisory Committee for Data on Evidence Building issued its final report with recommendations on October 14, 2022. For more information, visit the <a href="https://www.bea.gov/evidence" class="usa-link--external">ACDEB website</a>. </li>
-  <li>The Federal Committee on Statistical Methodology Research and Policy Conference was held on October 25-27, 2022. For more information, visit the <a href="https://www.fcsm.gov/" class="usa-link--external">FCSM website</a>. </li>
-  <li><a href="https://www.whitehouse.gov/wp-content/uploads/2022/07/Flexibilities-and-Best-Practices-Under-SPD-15.pdf" class="usa-link--external">OMB issued a plain language discussion of the current flexibilities of and best practices for collecting and reporting detailed Race and Ethnicity data under current standards in July 2022</a>. For more information, visit the <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external">CSOTUS website</a>. </li>
+  <li class="maxw-full">The Advisory Committee for Data on Evidence Building issued its final report with recommendations on October 14, 2022. For more information, visit the <a href="https://www.bea.gov/evidence" class="usa-link--external">ACDEB website</a>. </li>
+  <li class="maxw-full">The Federal Committee on Statistical Methodology Research and Policy Conference was held on October 25-27, 2022. For more information, visit the <a href="https://www.fcsm.gov/" class="usa-link--external">FCSM website</a>. </li>
+  <li class="maxw-full"><a href="https://www.whitehouse.gov/wp-content/uploads/2022/07/Flexibilities-and-Best-Practices-Under-SPD-15.pdf" class="usa-link--external">OMB issued a plain language discussion of the current flexibilities of and best practices for collecting and reporting detailed Race and Ethnicity data under current standards in July 2022</a>. For more information, visit the <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external">CSOTUS website</a>. </li>
 </ul>
 <h3>Office of the Chief Statistician of the U.S. / Office of Management and Budget</h3>
 <p>The Office of Management and Budget (OMB) and the Chief Statistician of the U.S. (CSOTUS) report on the priorities of the U.S.
@@ -109,7 +109,7 @@ ICSP Products:
   <li>
     <span>2005:</span>
     <ul>
-      <li><a href="{{ site.baseurl }}/assets/docs/ICSP Principles 2018/pdf">Principles for Modernizing Production of Federal Statistics</a></li>
+      <li><a href="{{ site.baseurl }}/assets/docs/ICSP Principles 2018.pdf">Principles for Modernizing Production of Federal Statistics</a></li>
     </ul>
   </li>
 </ul>
