@@ -1,5 +1,5 @@
 ---
-name: Eddie Thomas
-agency_long: Department of Veteran Affairs
-agency_short: VA
+name: Eddie Thomas*
+department: Department of Veteran Affairs
+title: VA
 ---
