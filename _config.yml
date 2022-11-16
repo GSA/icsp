@@ -86,15 +86,6 @@ primary_navigation:
   - name: Products
     url: /products/
 
-about_nav:
-  - name: About Us
-    url: /about/
-  - name: Office of the Chief Statistician
-    url: /about/office-chief-statistician/
-  - name: Interagency Council on Statistical Policy
-    url: /about/council-members/
-  - name: Federal Statistical System
-    url: /about/federal-statistical-system/
     
 strategic_priorities_nav:
   - name: Strategic Priorities
