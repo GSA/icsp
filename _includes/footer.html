@@ -1,113 +1,59 @@
-<footer class="usa-footer site-footer" role="contentinfo">
-  <div class="footer-section-bottom bg-base-lighter">
-    <div class="grid-container">
-      <div class="grid-row padding-3">
-        <div class="tablet:grid-col">
-          <h4>Documentation</h4>
-          <ul class="add-list-reset">
-            <li>Footer link</li>
-            <li>Footer link</li>
-            <li>Footer link</li>
-          </ul>
+<footer class="usa-footer usa-footer--big">
+    <div class="grid-container margin-top-2 margin-bottom-2">
+        {% if page.title == "Home" %}
+        <div class="border-top-1px border-base-light margin-bottom-2"></div>
+        {% endif %}
+        <div class="grid-row flex-align-start flex-justify">
+            <a class="usa-button usa-button--outline border-0" id="toTopBtn" title="Go to top" href="">Return to top</a>
         </div>
-        <div class="tablet:grid-col">
-          <h4>Features</h4>
-          <ul class="add-list-reset">
-            <li>Footer link</li>
-            <li>Footer link</li>
-            <li>Footer link</li>
-          </ul>
-        </div>
-        <div class="tablet:grid-col">
-          <h4>Getting Started</h4>
-          <ul class="add-list-reset">
-            <li>Footer link</li>
-            <li>Footer link</li>
-            <li>Footer link</li>
-          </ul>
-        </div>
-      </div>
     </div>
-  </div>
-  <div class="usa-identifier">
-    <section
-      class="usa-identifier__section usa-identifier__section--masthead"
-      aria-label="General Services Administration"
-    >
-      <div class="usa-identifier__container">
-        <div class="usa-identifier__logos">
-          <a href="" class="usa-identifier__logo"
-            ><img
-              class="usa-identifier__logo-img"
-              src="{{ site.baseurl }}/assets/img/gsa-logo.png"
-              alt="General Services Administration logo"
-              role="img"
-          /></a>
+
+    <div class="footer-section-bottom bg-base-lighter">
+        <div class="grid-container">
+            <div class="grid-row padding-3">
+                <div class="tablet:grid-col">
+                    <h4>Accessibility</h4>
+                </div>
+                <div class="tablet:grid-col">
+                    <h4>FOIA</h4>
+                </div>
+                <div class="tablet:grid-col">
+                    <h4>Privacy Statement</h4>
+                </div>
+            </div>
         </div>
-        <div class="usa-identifier__identity" aria-label="Agency description">
-          <p class="usa-identifier__identity-domain">icsp.gov</p>
-          <p class="usa-identifier__identity-disclaimer">
-            An official website of the <a class="usa-link usa-identifier__required-link usa-link--external" href="https://www.gsa.gov/">General Services Administration</a>
-          </p>
+    </div>
+
+    <div class="usa-footer__primary-section">
+        <div class="grid-container">
+            <div class="grid-row grid-gap">
+                <nav class="usa-footer__nav " aria-label="Footer navigation">
+
+                    <div class=" mobile-lg:grid-col-12">
+                        <section class=" usa-footer__primary-content usa-footer__primary-content--collapsible">
+                            <h4 class="usa-footer__primary-link">Related Federal Websites</h4>
+                            <ul class="usa-list usa-list--unstyled footerLinksFourColumns">
+                                <li class="cdo_custom_footer_links">
+                                    <a href="https://apps.bea.gov/fesac/" title="Federal Economic Statistics Advisory Committee">Federal Economic Statistics Advisory Committee</a>
+                                </li>
+                                <li class="cdo_custom_footer_links">
+                                    <a href="https://www.census.gov/about/adrm/fsrdc.html" title=">Federal Statistical Research Data Centers">Federal Statistical Research Data Centers</a>
+                                </li>
+                                <li class="cdo_custom_footer_links">
+                                    <a href="https://beta.nsf.gov/funding/opportunities/methodology-measurement-statistics-mms" title="National Science Foundation's Methodology, Measurement, and Statistics">National Science Foundation's Methodology, Measurement, and Statistics</a>
+                                </li>
+                                <li class="cdo_custom_footer_links">
+                                    <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" title="Office of Management and Budget's Statistical Programs and Standards">Office of Management and Budget's Statistical Programs and Standards</a>
+                                </li>
+                                <li class="cdo_custom_footer_links">
+                                    <a href="https://ncses.nsf.gov/about/standard-application-process" title="Standard Application Process Program Management Office">Standard Application Process Program Management Office</a>
+                                </li>             
+                            </ul>
+                        </section>
+
+                    </div>
+                </nav>
+            </div>
         </div>
-      </div>
-    </section>
-    <nav
-      class="usa-identifier__section usa-identifier__section--required-links"
-      aria-label="Important links,"
-    >
-      <div class="usa-identifier__container">
-        <ul class="usa-identifier__required-links-list">
-          <li class="usa-identifier__required-links-item">
-            <a
-              href="https://www.gsa.gov/about-us"
-              class="usa-identifier__required-link usa-link usa-link--external"
-              >About GSA</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/website-information/accessibility-aids/" class="usa-identifier__required-link usa-link usa-link--external"
-              >Accessibility support</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/reference/freedom-of-information-act-foia" class="usa-identifier__required-link usa-link usa-link--external"
-              >FOIA requests</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/reference/civil-rights-programs/the-no-fear-act-library/" class="usa-identifier__required-link usa-link usa-link--external"
-              >No FEAR Act data</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/about-us/organization/gsa-office-of-inspector-general/" class="usa-identifier__required-link usa-link usa-link--external"
-              >Office of the Inspector General</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/reference/reports/budget-performance/" class="usa-identifier__required-link usa-link usa-link--external"
-              >Performance reports</a
-            >
-          </li>
-          <li class="usa-identifier__required-links-item">
-            <a href="https://www.gsa.gov/website-information/website-policies/" class="usa-identifier__required-link usa-link usa-link--external"
-              >Privacy policy</a
-            >
-          </li>
-        </ul>
-      </div>
-    </nav>
-    <section
-      class="usa-identifier__section usa-identifier__section--usagov"
-      aria-label="U.S. government information and services,"
-    >
-      <div class="usa-identifier__container">
-        <div class="usa-identifier__usagov-description">
-          Looking for U.S. government information and services?
-        </div>
-        <a href="https://www.usa.gov/" class="usa-link">Visit USA.gov</a>
-      </div>
-    </section>
-  </div>
+    </div>
 </footer>

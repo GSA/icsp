@@ -81,16 +81,10 @@ primary_navigation:
     url: /
   - name: About Us
     url: /about/
-  - name: Strategic Priorities
-    url: /strategic-priorities/
-  - name: ICSP Subcommittees
-    url: /subcommittees/
   - name: Policies
     url: /policies/
   - name: Products
     url: /products/
-  - name: Announcements
-    url: /announcements/
 
 about_nav:
   - name: About Us
