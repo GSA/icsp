@@ -5,7 +5,7 @@
         <div class="border-top-1px border-base-light margin-bottom-2"></div>
         {% endif %}
         <div class="grid-row flex-align-start flex-justify">
-            <a class="usa-button usa-button--outline border-0" id="toTopBtn" title="Go to top" href="">Return to top</a>
+            <a id="toTopBtn" title="Go to top" href="">Return to top</a>
         </div>
     </div>
 
@@ -93,19 +93,21 @@
                             <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
                                 <div class="grid-container padding-y-1 desktop:padding-0">
                                     <div class="grid-row">
-                                        <div class="grid-col-fill txt-align-footer">
-                                            <span class="font-ui-3xs">Contact Us:</span>
-                                        </div>
+                                        <div class="grid-col-fill txt-align-footer font-sans-lg"><b>Contact Us:</b></div>
+                                    </div>
+                                    <br />
+                                    <div class="grid-row">
                                         <div class="grid-col-fill txt-align-footer">
                                             <a class="custom-link-color" href="mailto:icspsupport@gsa.gov">icspsupport@gsa.gov</a>
                                         </div>
                                     </div>
+                                    <br />
                                     <div class="grid-row margin-top-1">
                                         <div class="grid-col-auto">
-                                            {%- assign exec="/assets/images/exec-office-logo.png"-%}
+                                            {%- assign exec="/assets/img/exec-office-logo.png"-%}
                                             <img class="usa-footer__logo-img" alt="Office of Managemnet and Budget Logo" src="{{site.baseurl}}{{-exec-}}">
                                         </div>
-                                        <div class="grid-col-fill txt-align-footer">
+                                        <div class="grid-col-fill txt-align-footer  margin-top-4 margin-left-2">
                                             <a href="https://www.whitehouse.gov/omb/" target="_blank"><span>Office of Managemnet and Budget</span></a>
                                         </div>
                                     </div>
