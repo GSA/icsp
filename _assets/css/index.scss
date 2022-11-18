@@ -52,18 +52,16 @@ $theme-show-notifications: false;
   }
 }
 
-@supports (mask: url("")) {
+@supports (-webkit-mask:url()) {
     .usa-link--external::after {
-    background-image: url(../img/usa-icons-bg/launch--blue-60v.svg);
-    background-position: 50% 60%;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    content: "";
-    display: inline;
-    margin-left: 2px;
-    padding-left: 0.65em;
-}
+        -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/contain;
     }
+}
+
+.custom-link-li {
+    padding-bottom: 1.25rem;
+    line-height: 1.1;
+}
 
 .usa-prose-width{
     max-width:100% !important;
