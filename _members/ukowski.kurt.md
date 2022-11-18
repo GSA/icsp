@@ -1,5 +1,5 @@
 ---
-name: Kurt Usowski
-agency_long: Department of Housing and Urban Development
-agency_short: HUD
+name: Kurt Usowski*
+department: Department of Housing and Urban Development
+title: HUD
 ---

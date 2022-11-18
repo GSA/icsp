@@ -1,5 +1,6 @@
 ---
 name: Mary Bohman
-agency_long: Nuclear Regulatory Commission
-agency_short: NRC
+department: Department of Commerce
+sub-department: Bureau of Economic Analysis^
+title: DOC
 ---
