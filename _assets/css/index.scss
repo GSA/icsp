@@ -52,8 +52,8 @@ $theme-show-notifications: false;
   }
 }
 
-
-.usa-link--external::after {
+@supports (mask: url("")) {
+    .usa-link--external::after {
     background-image: url(../img/usa-icons-bg/launch--blue-60v.svg);
     background-position: 50% 60%;
     background-repeat: no-repeat;
@@ -63,6 +63,7 @@ $theme-show-notifications: false;
     margin-left: 2px;
     padding-left: 0.65em;
 }
+    }
 
 .usa-prose-width{
     max-width:100% !important;
