@@ -1,8 +1,9 @@
 ---
-title: U.S. Federal Statistical System - Wide Products
+title:  StatsPolicy - Products
 layout: page
 permalink: /products/
 skip: true
+tagline_title: U.S. Federal Statistical System - Wide Products
 ---
 <p>The U.S. Federal statistical system collaborates on development of several periodic and one-time reports, 
 publications, presentations, and other products in an effort to promote understanding of its 
