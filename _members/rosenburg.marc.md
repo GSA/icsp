@@ -1,5 +1,5 @@
 ---
-name: Marc Rosenburg*
-department: Department of Homeland Security
-title: DHS
+name: Marc Rosenburg
+agency_long: Department of Homeland Security
+agency_short: DHS
 ---

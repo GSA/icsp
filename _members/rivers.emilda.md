@@ -1,6 +1,5 @@
 ---
-name: Emilda Rivers*
-department: National Science Foundation
-sub-department: National Center for Science and Engineering Statistics^
-title: NSF
+name: Emilda Rivers
+agency_long: National Science Foundation
+agency_short: NSF
 ---

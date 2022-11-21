@@ -1,6 +1,5 @@
 ---
 name: Spiro Stefanou
-department: Department of Agriculture
-sub-department: Economic Research Service^
-title: NASS
+agency_long: Department of Agriculture
+agency_short: USDA
 ---

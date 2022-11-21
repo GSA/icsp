@@ -1,6 +1,5 @@
 ---
-name: Hubert Hamar*
-department: Department of Agriculture
-sub-department: National Agricultural Statistics Service^
-title: USDA
+name: Hubert Hamar
+agency_long: Department of Agriculture
+agency_short: USDA
 ---

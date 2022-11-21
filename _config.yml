@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: StatsPolicy
+title: Interagency Council on Statistical Policy
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -81,11 +81,26 @@ primary_navigation:
     url: /
   - name: About Us
     url: /about/
+  - name: Strategic Priorities
+    url: /strategic-priorities/
+  - name: ICSP Subcommittees
+    url: /subcommittees/
   - name: Policies
     url: /policies/
   - name: Products
     url: /products/
+  - name: Announcements
+    url: /announcements/
 
+about_nav:
+  - name: About Us
+    url: /about/
+  - name: Office of the Chief Statistician
+    url: /about/office-chief-statistician/
+  - name: Interagency Council on Statistical Policy
+    url: /about/council-members/
+  - name: Federal Statistical System
+    url: /about/federal-statistical-system/
     
 strategic_priorities_nav:
   - name: Strategic Priorities
