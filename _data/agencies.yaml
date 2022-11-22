@@ -18,7 +18,7 @@
   department: Department of Labor
   url: https://www.bls.gov/
 
-- image: /assets/img/agency_logos/BTS.png
+- image: /assets/img/agency_logos/DOT.png
   title: Bureau of Transportation Statistics
   department: Department of Transportation
   url: https://www.bts.gov/
@@ -53,7 +53,7 @@
   department: National Science Foundation
   url: https://ncses.nsf.gov/
 
-- image: /assets/img/agency_logos/SSA.png
+- image: /assets/img/agency_logos/ORSSA.png
   title: Office of Research, Evaluation and Statistics
   department: Social Security Administration
   url: https://www.ssa.gov/policy/about/ORES.html
