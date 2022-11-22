@@ -56,24 +56,6 @@ $theme-show-notifications: false;
     .usa-link--external::after {
         -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
         color: cornflowerblue;
-        background-size: 100%;
-    }
-}
-
-@media screen and (max-width: 640px){
-    .usa-link--external::after {
-        background-image: url(../img/usa-icons/launch.svg);
-        color: cornflowerblue;
-        background-size: 100%;
-        width: 1.75ex;
-        content: "";
-        height: 1.75ex;
-        margin-left: 2px;
-        background-position: center;
-        background-repeat: no-repeat;
-        display: inline;
-        padding-left: 1.75ex;
-        vertical-align: middle;
     }
 }
 
