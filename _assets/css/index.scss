@@ -54,13 +54,9 @@ $theme-show-notifications: false;
 
 @supports (-webkit-mask:url()) {
     .usa-link--external::after {
-        -webkit-mask: url(../img/usa-icons/launch.svg);
+        -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
         padding-left: 12px;
         color: cornflowerblue;
-        background-repeat: no-repeat;
-        background-position: 50% 60%;
-        background-size: 100%;
-        display: inline;
     }
 }
 
