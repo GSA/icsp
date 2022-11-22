@@ -55,7 +55,6 @@ $theme-show-notifications: false;
 @supports (-webkit-mask:url()) {
     .usa-link--external::after {
         -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
-        padding-left: 12px;
         color: cornflowerblue;
         background-size: 100%;
     }
