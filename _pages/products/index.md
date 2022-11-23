@@ -9,7 +9,7 @@ tagline_title: U.S. Federal Statistical System - Wide Products
 publications, presentations, and other products in an effort to promote understanding of its 
 initiatives, priorities, budgets, and activities. Products on this page are grouped by the entity from which they are published.</p>
 
-<h2 class="font-sans-md">Community News and Upcoming Events</h2>
+<h2 class="font-serif-lg">Community News and Upcoming Events</h2>
 
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
@@ -17,7 +17,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li class="maxw-full">The Federal Committee on Statistical Methodology Research and Policy Conference was held on October 25-27, 2022. For more information, visit the <a href="https://www.fcsm.gov/" class="usa-link--external" target="_blank">FCSM website</a>. </li>
   <li class="maxw-full"><a href="https://www.whitehouse.gov/wp-content/uploads/2022/07/Flexibilities-and-Best-Practices-Under-SPD-15.pdf" class="usa-link--external" target="_blank">OMB issued a plain language discussion of the current flexibilities of and best practices for collecting and reporting detailed Race and Ethnicity data under current standards in July 2022</a>. For more information, visit the <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external" target="_blank">CSOTUS website</a>. </li>
 </ul>
-<h3>Office of the Chief Statistician of the U.S. / Office of Management and Budget</h3>
+<h3 class="font-serif-lg">Office of the Chief Statistician of the U.S. / Office of Management and Budget</h3>
 <p>The Office of Management and Budget (OMB) and the Chief Statistician of the U.S. (CSOTUS) report on the priorities of the U.S.
 Federal statistical system and the budgets of statistical agencies, units, and programs through two key publicly available
 documents: 1) Chapters in the Analytical Perspectives (AP) volume of the President's Budget, and 2) Reports to the Congress
@@ -89,7 +89,7 @@ for recent years back to 2017 are linked here:
 <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/reports/pei_schedule_release_dates_2018_all_v2.pdf" class="usa-link--external" target="_blank">2018</a>
 <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf" class="usa-link--external" target="_blank">2017</a></p>
 
-<h3>Interagency Council on Statistical Policy</h3>
+<h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
 <p>The ICSP, in its role advising and assisting the Chief Statistician of the U.S. on challenges and opportunities facing the U.S. Federal statistical system, produces reports and publications, as needed, to address such challenges and opportunities. Some example products include: </p>
 
 ICSP Products:
@@ -118,14 +118,14 @@ ICSP Products:
 <p>In addition, ICSP members engage with the public and important stakeholder bodies to communicate with and hear directly
 from the public, as well as to publicly share their perspectives on the work of the U.S. Federal statistical system.</p>
 
-<h3>Federal Committee on Statistical Methodology</h3>
+<h3 class="font-serif-lg">Federal Committee on Statistical Methodology</h3>
 <p>The FCSM, in its role advising and assisting the CSOTUS and ICSP on technical challenges and opportunities facing the U.S.
 Federal statistical system, produces technical products, including reports and publications, as needed, to address such
 challenges and opportunities.</p>
 
 <p>Products of the FCSM are available on the <a href="https://www.fcsm.gov/" class="usa-link--external" target="_blank">FCSM website.</a></p>
 
-<h3>Related Links</h3>
+<h3 class="font-serif-lg">Related Links</h3>
 <ul class="usa-list" role="list">
   <li role="listitem"><a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external" target="_blank">Chief Statistician of the U.S.</a></li>
   <li role="listitem"><a href="https://www.fcsm.gov/" class="usa-link--external" target="_blank">Federal Committee on Statistical Methodology</a></li>
