@@ -21,13 +21,13 @@ This template is for a single page that does not have a date associated with it.
     </div>
   </div>
   <div class="grid-container">
-    <div class="grid-row grid-gap margin-top-6">
+    <div class="grid-row grid-gap margin-top-2">
       {% if page.section %}
         {% assign nav = page.section| append: '_nav' %}
         {% include sidenav.html menu=nav %}
         <div id="content" class="usa-layout-docs__main desktop:grid-col-9">
       {% else %}
-        <div id="content" class="usa-layout-docs__main desktop:grid-col-12">
+        <div id="content" class="usa-layout-docs__main desktop:grid-col-12 line-height-sans-5">
       {% endif %}
           {{ content }}
       </div>
