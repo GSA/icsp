@@ -58,8 +58,13 @@ $theme-show-notifications: false;
   }
 }
 
-.usa-list li {
+.usa-list li,
+.usa-prose > p {
   max-width: unset;
+}
+
+.usa-prose h2 {
+  font-size: 1.264em;
 }
 
 .usa-prose-width{
