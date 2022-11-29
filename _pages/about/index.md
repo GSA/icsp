@@ -1,7 +1,8 @@
 ---
-title: About Us
+title: StatsPolicy - About Us
 permalink: /about/
 layout: page
+tagline_title: About Us
 ---
 
 {% include about/federal-statistical-system.html%}
