@@ -130,14 +130,6 @@ policies_nav:
 products_nav:
   - name: Products
     url: /products/
-  - name: Office of Management and Budget
-    url: /products/omb/
-  - name: OMB's Statistical Standards & Programs
-    url: /products/omb-statistical-standards-programs/
-  - name: Interagency Council on Statistical Policy
-    url: /products/icsp/
-  - name: Related Links
-    url: /products/related-links/
 
 announcements_nav:
   - name: Announcements
