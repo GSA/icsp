@@ -1,7 +1,6 @@
 ---
 title:  StatsPolicy - Products
 layout: page
-section: products
 permalink: /products/
 skip: true
 tagline_title: U.S. Federal Statistical System - Wide Products
