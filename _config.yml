@@ -126,10 +126,6 @@ policies_nav:
     url: /policies/statistical-policy-directives/
   - name: Related Links
     url: /policies/related-links/
-    
-products_nav:
-  - name: Products
-    url: /products/
 
 announcements_nav:
   - name: Announcements
