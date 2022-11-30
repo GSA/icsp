@@ -142,3 +142,21 @@ $theme-show-notifications: false;
 .div-line {
     border-right: 20px solid white;
 }
+
+.home-page-backgrund {
+    background-image: url("../assets/img/home-page.jpg");
+    background-repeat: no-repeat;
+    font-size: 1.06rem;
+    line-height: 1.5;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.home-page-container{
+    max-width:30rem;
+    padding:1rem;
+    color:black
+}
