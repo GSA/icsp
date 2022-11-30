@@ -10,7 +10,7 @@ tagline_title: U.S. Federal Statistical System - Wide Products
 publications, presentations, and other products in an effort to promote understanding of its 
 initiatives, priorities, budgets, and activities. Products on this page are grouped by the entity from which they are published.</p>
 
-<h2 class="font-serif-lg">Community News and Upcoming Events</h2>
+<h2 class="font-serif-lg" id="community-news">Community News and Upcoming Events</h2>
 
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
