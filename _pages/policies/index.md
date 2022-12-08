@@ -29,7 +29,7 @@ skip: true
 <p>The White House <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/federal-collection-information/">Office of Information and Regulatory Affairs</a> issues government-wide guidance to implement the information collection requirements of the <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/5_cfr_1320.pdf" class="usa-link--external" target="_blank">Paperwork Reduction Act.</a> These include regulations on <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/5_cfr_1320.pdf" class="usa-link--external" target="_blank">Controlling Paperwork Burdens on the Public</a> and much more.</p>
 
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/2021/04/standards_stat_surveys.pdf" class="usa-link--external" target="_blank">Statistical Policy Directive No. 2: Standards and Guidelines for Statistical Surveys</a> establishes practices required across the survey lifecycle, with an emphasis on the planning and collection phases. Supplemental materials include:
-<ul>
+<ul class="usa-list">
   <li><a href="https://www.govinfo.gov/content/pkg/FR-2006-09-22/pdf/06-8044.pdf" class="usa-link--external" target="_blank">Federal Register Notice</a></li>
   <li><a href="https://www.gpo.gov/fdsys/pkg/FR-2016-10-12/pdf/2016-24607.pdf" class="usa-link--external" target="_blank">Addendum: Standards and Guidelines for Cognitive Interviews</a></li>
   <li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/pmc_survey_guidance_2006.pdf" class="usa-link--external" target="_blank">Guidance on Agency Survey and Statistical Information Collections</a></li>
@@ -41,7 +41,7 @@ skip: true
 <h2>Confidentiality, Data Access, and Data Sharing</h2>
 
 <p>The <a href="https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title44%2Fchapter35%2Fsubchapter3&edition=prelim" class="usa-link--external" target="_blank">Confidential Information Protection and Statistical Efficiency Act</a> (CIPSEA) established a uniform policy to protect the confidentiality of data gathered for statistical purposes and evidence building.
-<ul>
+<ul class="usa-list">
   <li><a href="https://www.govinfo.gov/content/pkg/FR-2007-06-15/pdf/E7-11542.pdf" class="usa-link--external" target="_blank">Implementation Guidance for the Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002</a></li>
 </ul>
 </p>
@@ -55,7 +55,7 @@ skip: true
 <h2>Data Dissemination</h2>
 
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/statpolicy/dir_3_fr_09251985.pdf" class="usa-link--external" target="_blank">Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
-<ul>
+<ul class="usa-list">
   <li>Schedule of Release Dates for Principal Federal Economic Indicators: 
   <a href="https://www.whitehouse.gov/wp-content/uploads/2022/09/pfei_schedule_release_dates_2023.pdf" class="usa-link--external" target="_blank">2023</a>, 
   <a href="https://www.whitehouse.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf" class="usa-link--external" target="_blank">2022</a>, 
@@ -76,10 +76,10 @@ skip: true
 <h2>Classification Standards</h2>
 
 <p>Through <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external" target="_blank">Directive No. 7: Metropolitan Statistical Areas</a>, OMB delineates Metropolitan Statistical Areas, Metropolitan Divisions, Micropolitan Statistical Areas, Combined Statistical Areas, and New England City and Town Areas for use in Federal statistical activities. OMB issues periodic updates of the areas between decennial censuses based on Census Bureau data.
-<ul>
+<ul class="usa-list">
   <li>
     <span><a href="https://www.govinfo.gov/content/pkg/FR-2021-07-16/pdf/2021-15159.pdf" class="usa-link--external" target="_blank">2020 Standards for Delineating Core Based Statistical Areas</a></span>
-    <ul>
+    <ul class="usa-list">
       <li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/bulletins/2017/b-17-01.pdf" class="usa-link--external" target="_blank">OMB Bulletin No. 17-01, Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses of the Delineations of These Areas</a></li>
     </ul>
   </li>
@@ -87,7 +87,7 @@ skip: true
 </p>
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2021-12-21/pdf/2021-27536.pdf" class="usa-link--external" target="_blank">Directive No. 8: North American Industry Classification System: Classification of Establishments</a> (NAICS) is a system for classifying establishments (individual business locations) by type of economic activity. NAICS helps ensure that establishment data produced across the Federal statistical system are comparable and can be used together in analysis.
-<ul>
+<ul class="usa-list">
   <li><a href="https://www.govinfo.gov/content/pkg/FR-2021-12-21/pdf/2021-27536.pdf" class="usa-link--external" target="_blank">NAICS 2022</a></li>
   <li><a href="https://www.govinfo.gov/content/pkg/FR-2016-08-08/pdf/2016-18774.pdf" class="usa-link--external" target="_blank">NAICS 2017</a></li>
   <li>More information can be found at: <a href="https://www.census.gov/naics/" class="usa-link--external" target="_blank">Census NAICS</a></li>
@@ -95,13 +95,13 @@ skip: true
 </p>
 
 <p><a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank">Directive No. 10: Standard Occupational Classification (SOC) System</a> classifies all occupations in the economy, including private, public, and military occupations, to facilitate comparability across occupational data produced for statistical purposes by Federal agencies.
-<ul>
+<ul class="usa-list">
   <li>More information can be found at: <a href="https://www.bls.gov/SOC/" class="usa-link--external" target="_blank">BLS Standard Occupational Classification (SOC)</a></li>
 </ul>
 </p>
 
 <p><a href="https://www.gpo.gov/fdsys/pkg/FR-1997-10-30/pdf/97-28653.pdf" class="usa-link--external" target="_blank">Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity</a> provides a minimum standard for maintaining, collecting, and presenting data on race and ethnicity for all Federal reporting purposes.
-<ul>
+<ul class="usa-list">
   <li><em>Announcement:</em> <a href="https://www.whitehouse.gov/omb/briefing-room/2022/06/15/reviewing-and-revising-standards-for-maintaining-collecting-and-presenting-federal-data-on-race-and-ethnicity/" class="usa-link--external" target="_blank">Reviewing and Revising Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity</a></li>
   <li><a href="https://www.whitehouse.gov/wp-content/uploads/2022/07/Flexibilities-and-Best-Practices-Under-SPD-15.pdf" class="usa-link--external" target="_blank">Flexibilities and Best Practices for Implementing the 1997 Standards for Maintaining, Collecting, And Presenting Federal Data on Race and Ethnicity (Statistical Policy Directive No. 15)</a></li>
 </ul>
