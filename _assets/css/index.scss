@@ -53,10 +53,21 @@ $theme-show-notifications: false;
 }
 
 @supports (-webkit-mask:url()) {
-    .usa-link--external::after {
-        -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
-        color: cornflowerblue;
-    }
+  .usa-link--external::after {
+    -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
+    display: inline-block !important;
+    color: cornflowerblue;
+  }
+}
+
+.usa-list li,
+.usa-prose > ul li,
+.usa-prose > p {
+  max-width: unset;
+}
+
+.usa-prose h2 {
+  font-size: 1.264em;
 }
 
 .custom-link-li {
@@ -168,4 +179,3 @@ $theme-show-notifications: false;
 .min-height{
     min-height:400px;
 }
-
