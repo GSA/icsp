@@ -7,7 +7,7 @@ This appears at the top of the page letting the user know it's an official gover
   <a class="usa-skipnav" href="#sidenav">Skip to secondary navigation</a>
   <a class="usa-skipnav" href="#content">Skip to main content</a>
   {% else %}
-  <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+  <a class="usa-skipnav" href="#main-content" tabindex="1">Skip to main content</a>
   {% endif %}
   <div class="usa-banner">
     <div class="usa-accordion">
@@ -20,7 +20,7 @@ This appears at the top of the page letting the user know it's an official gover
             <p class="usa-banner__header-text">An official website of the United States government</p>
             <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
           </div>
-          <button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+          <button class="usa-accordion__button usa-banner__button" tabindex="2" aria-expanded="false" aria-controls="gov-banner">
             <span class="usa-banner__button-text">Here's how you know</span>
           </button>
         </div>
