@@ -179,3 +179,14 @@ $theme-show-notifications: false;
 .min-height{
     min-height:400px;
 }
+
+.text-icsp-blue {
+  color: #007dbc;
+}
+
+a.text-icsp-blue {
+  &:hover {
+    color: black;
+    text-decoration: underline;
+  }
+}
