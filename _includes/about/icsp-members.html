@@ -10,8 +10,8 @@
             </div>
             <div class="grid-col-8 padding-right-2">
                 <h3>{{ member.name }}</h3>
-                {% if member.sub-department%}
-                <p class="usa-prose-width">{{ member.department }},{{member.sub-department}}</p>
+                {% if member.sub-department %}
+                <p class="usa-prose-width">{{ member.department }}, {{member.sub-department}}</p>
                 {% else %}
                 <p class="usa-prose-width">{{ member.department }}</p>
                 {% endif %}
