@@ -194,3 +194,9 @@ a.text-icsp-blue {
 .margin-bottom-quarter {
   margin-bottom: 0.25rem;
 }
+
+@media (min-width: 40em) {
+  .usa-identifier__required-links-list {
+    column-gap: 1.75rem;
+  }
+}

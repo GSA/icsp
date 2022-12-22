@@ -1,5 +1,6 @@
 ---
-title: Laws, Policies, and Guidance Relevant to the U.S. Federal Statistical System
+title: Policies
+tagline_title: Laws, Policies, and Guidance Relevant to the U.S. Federal Statistical System
 layout: page
 permalink: /policies/
 skip: true
