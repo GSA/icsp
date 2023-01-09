@@ -92,8 +92,8 @@ primary_navigation:
         url: /about/#members
       - name: Principal Statistical Agencies and Recognized Units
         url: /about/#principal-agencies
-      - name: Others
-        url: /about/#others
+      - name: Cross-System Initiatives
+        url: /about/#initiatives
   - name: Policies
     url: /policies/
   - name: Products
