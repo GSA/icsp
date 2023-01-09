@@ -1,5 +1,5 @@
 ---
-title: StatsPolicy - About Us
+title: About Us
 permalink: /about/
 layout: page
 tagline_title: About Us

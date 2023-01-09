@@ -179,3 +179,24 @@ $theme-show-notifications: false;
 .min-height{
     min-height:400px;
 }
+
+.text-icsp-blue {
+  color: #007dbc;
+}
+
+a.text-icsp-blue {
+  &:hover {
+    color: black;
+    text-decoration: underline;
+  }
+}
+
+.margin-bottom-quarter {
+  margin-bottom: 0.25rem;
+}
+
+@media (min-width: 40em) {
+  .usa-identifier__required-links-list {
+    column-gap: 1.75rem;
+  }
+}

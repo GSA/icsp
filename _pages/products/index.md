@@ -1,5 +1,5 @@
 ---
-title:  StatsPolicy - Products
+title:  Products
 layout: page
 permalink: /products/
 skip: true
