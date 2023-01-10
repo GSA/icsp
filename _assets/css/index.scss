@@ -167,7 +167,7 @@ $theme-show-notifications: false;
 }
 
 .home-page-container{
-    max-width:30rem;
+    max-width:40rem;
     padding:1rem;
     color:black
 }
@@ -199,4 +199,17 @@ a.text-icsp-blue {
   .usa-identifier__required-links-list {
     column-gap: 1.75rem;
   }
+}
+
+.circle-image{
+  background: #f0ebe5;
+  border-radius: 50%;
+  width: 145px;
+  height: 100px;
+}
+.circle-icon{
+  width: 85px;
+  height: 80px;
+  padding-left: 15px;
+  padding-top: 15px;
 }
