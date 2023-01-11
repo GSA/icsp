@@ -167,7 +167,7 @@ $theme-show-notifications: false;
 }
 
 .home-page-container{
-    max-width:30rem;
+    max-width:40rem;
     padding:1rem;
     color:black
 }
@@ -177,7 +177,7 @@ $theme-show-notifications: false;
 }
 
 .min-height{
-    min-height:400px;
+    min-height:450px;
 }
 
 .text-icsp-blue {
@@ -200,3 +200,18 @@ a.text-icsp-blue {
     column-gap: 1.75rem;
   }
 }
+
+.carousel-item__content {
+  background: white;
+  opacity: 0.9;
+  max-width: 38rem;
+}
+
+.font-size-106rem{
+  font-size: 1.06rem !important;
+}
+
+p, li:not(.usa-identifier__required-links-item){
+  font-size: 1.06rem;
+}
+
