@@ -201,15 +201,12 @@ a.text-icsp-blue {
   }
 }
 
-.circle-image{
-  background: #f0ebe5;
-  border-radius: 50%;
-  width: 145px;
-  height: 100px;
+.carousel-item__content {
+  background: white;
+  opacity: 0.9;
+  max-width: 38rem;
 }
-.circle-icon{
-  width: 85px;
-  height: 80px;
-  padding-left: 15px;
-  padding-top: 15px;
+
+.font-size-106rem{
+  font-size: 1.06rem !important;
 }
