@@ -211,6 +211,7 @@ a.text-icsp-blue {
   font-size: 1.06rem !important;
 }
 
-p, li{
+p, li:not(.usa-identifier__required-links-item){
   font-size: 1.06rem;
 }
+
