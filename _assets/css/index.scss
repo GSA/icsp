@@ -177,7 +177,7 @@ $theme-show-notifications: false;
 }
 
 .min-height{
-    min-height:400px;
+    min-height:450px;
 }
 
 .text-icsp-blue {
@@ -209,4 +209,8 @@ a.text-icsp-blue {
 
 .font-size-106rem{
   font-size: 1.06rem !important;
+}
+
+p, li{
+  font-size: 1.06rem;
 }
