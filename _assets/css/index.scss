@@ -51,3 +51,173 @@ $theme-show-notifications: false;
     display: block;
   }
 }
+
+@supports (-webkit-mask:url()) {
+  .usa-link--external::after {
+    -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
+    display: inline-block !important;
+    color: cornflowerblue;
+  }
+}
+
+.usa-list li,
+.usa-prose > ul li,
+.usa-prose > p {
+  max-width: unset;
+}
+
+.usa-prose h2 {
+  font-size: 1.264em;
+}
+
+.custom-link-li {
+    padding-bottom: 1.25rem;
+    line-height: 1.1;
+}
+
+.usa-prose-width{
+    max-width:100% !important;
+}
+
+@media screen and (min-width: 640px) {
+    .usa-banner__button[aria-expanded="true"]::after {
+        background-color: transparent !important;
+        background-image: url("../img/angle-arrow-up-primary.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 0.5rem;
+        content: "";
+        display: inline-block;
+        width: 0.5rem;
+        margin-left: 4px;
+        transform: rotate(0deg) !important;
+    }
+
+    .usa-banner__button[aria-expanded="true"]:hover::after {
+        background-image: url("../img/angle-arrow-up-primary-hover.svg"), linear-gradient(transparent, transparent);
+        background-color: transparent !important;
+        transform: rotate(0deg) !important;
+    }
+
+    .usa-banner__button::after {
+        background-image: url("../img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 0.5rem;
+        content: '';
+        display: inline-block;
+        width: 0.5rem;
+        margin-left: 4px;
+        background-color: transparent !important;
+    }
+
+    .usa-banner__button:hover::after {
+        background-image: url("../img/angle-arrow-down-primary-hover.svg"), linear-gradient(transparent, transparent);
+        background-color: transparent !important;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .usa-banner__button[aria-expanded="true"]::after {
+        border: 0;
+        background-image: url("../img/close-blue-60v-alt.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 1rem;
+        content: '';
+        display: inline-block;
+        height: 3rem;
+        width: 3rem;
+        margin-left: 0;
+        background-color: transparent !important;
+    }
+
+    .usa-banner__header-action::after {
+        background-image: url("../img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 0.5rem;
+        content: '';
+        display: inline-block;
+        height: 0.5rem;
+        width: 0.5rem;
+        margin-left: 2px;
+        background-color: transparent !important;
+    }
+}
+
+.usa-list li {
+    max-width: unset;
+}
+
+.div-line {
+    border-right: 3px solid #f0f0f0;
+}
+
+.home-page-backgrund {
+    background-image: url("../assets/img/home-page.jpg");
+    background-repeat: no-repeat;
+    font-size: 1.06rem;
+    line-height: 1.5;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.home-page-container{
+    max-width:40rem;
+    padding:1rem;
+    color:black
+}
+
+.div-line-bottom {
+    border-bottom: 3px solid #f0f0f0;
+}
+
+.min-height{
+    min-height:450px;
+}
+
+.text-icsp-blue {
+  color: #007dbc;
+}
+
+a.text-icsp-blue {
+  &:hover {
+    color: black;
+    text-decoration: underline;
+  }
+}
+
+.margin-bottom-quarter {
+  margin-bottom: 0.25rem;
+}
+
+@media (min-width: 40em) {
+  .usa-identifier__required-links-list {
+    column-gap: 1.75rem;
+  }
+}
+
+.carousel-item__content {
+  background: white;
+  opacity: 0.9;
+  max-width: 38rem;
+}
+
+.font-size-106rem{
+  font-size: 1.06rem !important;
+}
+
+p, li:not(.usa-identifier__required-links-item){
+  font-size: 1.06rem;
+}
+
+.padding-right-13px{
+  padding-right: 13px;
+}
+.padding-right-10px{
+  padding-right: 10px;
+}

@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Interagency Council on Statistical Policy
+title: StatsPolicy
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -81,26 +81,24 @@ primary_navigation:
     url: /
   - name: About Us
     url: /about/
-  - name: Strategic Priorities
-    url: /strategic-priorities/
-  - name: ICSP Subcommittees
-    url: /subcommittees/
+    children:
+      - name: Federal Statistical System
+        url: /about/#fss
+      - name: Office of the Chief Statistician of the U.S.
+        url: /about/#office-chief
+      - name: Interagency Council on Statistical Policy
+        url: /about/#icsp
+      - name: ICSP Members
+        url: /about/#members
+      - name: Principal Statistical Agencies and Recognized Units
+        url: /about/#principal-agencies
+      - name: Cross-System Initiatives
+        url: /about/#initiatives
   - name: Policies
     url: /policies/
   - name: Products
     url: /products/
-  - name: Announcements
-    url: /announcements/
 
-about_nav:
-  - name: About Us
-    url: /about/
-  - name: Office of the Chief Statistician
-    url: /about/office-chief-statistician/
-  - name: Interagency Council on Statistical Policy
-    url: /about/council-members/
-  - name: Federal Statistical System
-    url: /about/federal-statistical-system/
     
 strategic_priorities_nav:
   - name: Strategic Priorities
@@ -141,18 +139,6 @@ policies_nav:
     url: /policies/statistical-policy-directives/
   - name: Related Links
     url: /policies/related-links/
-    
-products_nav:
-  - name: Products
-    url: /products/
-  - name: Office of Management and Budget
-    url: /products/omb/
-  - name: OMB's Statistical Standards & Programs
-    url: /products/omb-statistical-standards-programs/
-  - name: Interagency Council on Statistical Policy
-    url: /products/icsp/
-  - name: Related Links
-    url: /products/related-links/
 
 announcements_nav:
   - name: Announcements
