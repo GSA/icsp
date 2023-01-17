@@ -1,5 +1,6 @@
 ---
-name: Patricia Hu
-agency_long: Department of Transportation
-agency_short: DOT
+name: Patricia Hu*
+department: Department of Transportation
+sub-department: Bureau of Transportation Statistics^
+title: DOT
 ---

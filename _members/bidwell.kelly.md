@@ -1,5 +1,5 @@
 ---
-name: Kelly Bidwell
-agency_long: General Services Administration
-agency_short: GSA
+name: Kelly Bidwell*
+department: General Services Administration
+title: GSA
 ---
