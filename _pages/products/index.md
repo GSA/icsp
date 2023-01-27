@@ -3,7 +3,7 @@ title:  Products
 layout: page
 permalink: /products/
 skip: true
-tagline_title: U.S. Federal Statistical System - Wide Products
+tagline_title: U.S. Federal Statistical System-Wide Products
 ---
 
 <p>The U.S. Federal statistical system collaborates on development of several periodic and one-time reports, 
@@ -109,7 +109,7 @@ ICSP Products:
     </ul>
   </li>
   <li>
-    <span>2005:</span>
+    <span>2018:</span>
     <ul>
       <li><a href="{{ site.baseurl }}/assets/docs/ICSP Principles 2018.pdf">Principles for Modernizing Production of Federal Statistics</a></li>
     </ul>
