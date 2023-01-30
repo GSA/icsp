@@ -28,40 +28,40 @@ relevant AP chapters. Highlights of those most relevant to the U.S. Federal stat
 
 <ul class="usa-list">
   <li>
-    <span>FY 2023</span>
+    <span>FY 2023:</span>
     <ul>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
-      <li> Report: <i>Forthcoming</i></li>
+      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a>;</li>
+      <li> Report: <i>Forthcoming</i>;</li>
     </ul>
   </li>
   <li>
-    <span>FY 2021/2022</span>
+    <span>FY 2021/2022:</span>
     <ul>
-      <li> Report: <i>Forthcoming</i></li>
+      <li> Report: <i>Forthcoming</i>;</li>
     </ul>
   </li>
   <li>
-    <span>FY 2019/2020</span>
+    <span>FY 2019/2020:</span>
     <ul>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_15_statistics-fy2019.pdf" class="usa-link--external" target="_blank">Strengthening Federal Statistics 2019/2020</a></li>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external" target="_blank">Building and Using Evidence to Improve Government Effectiveness 2019/2020</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2020/12/statistical-programs-20192020.pdf" class="usa-link--external" target="_blank">Statistical Programs of the United States Government 2019/2020</a></li>
+      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_15_statistics-fy2019.pdf" class="usa-link--external" target="_blank">Strengthening Federal Statistics 2019/2020</a>;</li>
+      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external" target="_blank">Building and Using Evidence to Improve Government Effectiveness 2019/2020</a>;</li>
+      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2020/12/statistical-programs-20192020.pdf" class="usa-link--external" target="_blank">Statistical Programs of the United States Government 2019/2020</a>;</li>
     </ul>
   </li>
   <li>
-    <span>FY 2018</span>
+    <span>FY 2018:</span>
     <ul>
-      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-7-2.pdf" class="usa-link--external" target="_blank">Strengthening Federal Statistics 2018</a></li>
-      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" class="usa-link--external" target="_blank">Building and Using Evidence to Improve Government Effectiveness 2018</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/05/statistical-programs-2018.pdf" class="usa-link--external" target="_blank">Statistical Programs of the United States Government 2018</a></li>
+      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-7-2.pdf" class="usa-link--external" target="_blank">Strengthening Federal Statistics 2018</a>;</li>
+      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" class="usa-link--external" target="_blank">Building and Using Evidence to Improve Government Effectiveness 2018</a>;</li>
+      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/05/statistical-programs-2018.pdf" class="usa-link--external" target="_blank">Statistical Programs of the United States Government 2018</a>;</li>
     </ul>
   </li>
   <li>
-    <span>FY 2017</span>
+    <span>FY 2017:</span>
     <ul>
-      <li> AP: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/ap_16_statistics.pdf" class="usa-link--external" target="_blank">Strengthening Federal Statistics 2017</a></li>
-      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2017-PER/pdf/BUDGET-2017-PER-4-3.pdf" class="usa-link--external" target="_blank">Building the Capacity to Produce and Use Evidence</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/information_and_regulatory_affairs/statistical-programs-2017.pdf" class="usa-link--external" target="_blank">Statistical Programs of the United States Government 2017</a></li>
+      <li> AP: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/ap_16_statistics.pdf" class="usa-link--external" target="_blank">Strengthening Federal Statistics 2017</a>;</li>
+      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2017-PER/pdf/BUDGET-2017-PER-4-3.pdf" class="usa-link--external" target="_blank">Building the Capacity to Produce and Use Evidence</a>;</li>
+      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/information_and_regulatory_affairs/statistical-programs-2017.pdf" class="usa-link--external" target="_blank">Statistical Programs of the United States Government 2017</a>.</li>
     </ul>
   </li>
 </ul>
