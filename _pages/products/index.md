@@ -83,12 +83,12 @@ information through public announcements. Recent announcements are available bel
 calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year. Schedules
 for recent years back to 2017 are linked here: 
 <a href="https://www.whitehouse.gov/wp-content/uploads/2022/09/pfei_schedule_release_dates_2023.pdf" class="usa-link--external" target="_blank">2023</a>, 
-<a href="https://www.whitehouse.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf" class="usa-link--external" target="_blank">2022</a>
-<a href="https://www.whitehouse.gov/wp-content/uploads/2020/09/pfei_schedule_release_dates_2021.pdf" class="usa-link--external" target="_blank">2021</a>
-<a href="https://www.whitehouse.gov/wp-content/uploads/2019/09/pfei_schedule_release_dates_2020.pdf" class="usa-link--external" target="_blank">2020</a>
-<a href="https://www.whitehouse.gov/wp-content/uploads/2018/09/pfei_schedule_releasedates_2019.pdf" class="usa-link--external" target="_blank">2019</a>
-<a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/reports/pei_schedule_release_dates_2018_all_v2.pdf" class="usa-link--external" target="_blank">2018</a>
-<a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf" class="usa-link--external" target="_blank">2017</a></p>
+<a href="https://www.whitehouse.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf" class="usa-link--external" target="_blank">2022</a>,
+<a href="https://www.whitehouse.gov/wp-content/uploads/2020/09/pfei_schedule_release_dates_2021.pdf" class="usa-link--external" target="_blank">2021</a>,
+<a href="https://www.whitehouse.gov/wp-content/uploads/2019/09/pfei_schedule_release_dates_2020.pdf" class="usa-link--external" target="_blank">2020</a>,
+<a href="https://www.whitehouse.gov/wp-content/uploads/2018/09/pfei_schedule_releasedates_2019.pdf" class="usa-link--external" target="_blank">2019</a>,
+<a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/reports/pei_schedule_release_dates_2018_all_v2.pdf" class="usa-link--external" target="_blank">2018</a>,
+<a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf" class="usa-link--external" target="_blank">2017</a>.</p>
 
 <h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
 <p>The ICSP, in its role advising and assisting the Chief Statistician of the U.S. on challenges and opportunities facing the U.S. Federal statistical system, produces reports and publications, as needed, to address such challenges and opportunities. Some example products include: </p>
