@@ -5,7 +5,7 @@ section: products
 ---
 <p><strong>Interagency Reports</strong></p>
 <ul>
-  <li><a href="{{ site.baseurl }}/assets/docs/icsp-covid-19-report.pdf" target="_blank">Statistical Agency Changes in Response to the COVID-19 Pandemic</a>
+  <li><a href="{{ site.baseurl }}/assets/docs/icsp-covid-19-report.pdf" target="_blank" rel="noopener" >Statistical Agency Changes in Response to the COVID-19 Pandemic</a>
   </li>
 </ul>
 
