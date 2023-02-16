@@ -15,7 +15,7 @@ skip: true
 
 <p>The <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35&edition=prelim" class="usa-link--external" target="_blank">Paperwork Reduction Act of 1995 (44 U.S.C. chapter 35, Subchapter I)</a> is part of the U.S. Code regarding Coordination of Federal Information. Among other things, it established the role of the Chief Statistician of the United States and the Interagency Council on Statistical Policy, and enumerates responsibilities and authorities bestowed on them. It also governs information creation, collection, disclosure, maintenance, use, sharing and dissemination by or for the Federal government.</p>
 
-<p>The <a href="https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title44%2Fchapter35%2Fsubchapter3&edition=prelim" class="usa-link--external" target="_blank">Confidential Information Protection and Statistical Efficiency Act of 2018 (44 U.S.C. Chapter 35, Subchapter III, CIPSEA 2018)</a>, also known as Title III of the Foundations for Evidence-Based Policymaking Act of 2018, reaffirms and expands CIPSEA 2002. Among other things, it codified fundamental responsibilities of Federal statistical agencies and units to ensure public trust, and gave statistical agencies and units responsibilities and authorities for enabling greater evidence building.</p>
+<p>The <a href="https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title44%2Fchapter35%2Fsubchapter3&edition=prelim" class="usa-link--external" target="_blank">Confidential Information Protection and Statistical Efficiency Act of 2018 (44 U.S.C. Chapter 35, Subchapter III, CIPSEA 2018)</a> (pronounced <i>sip-c</i>), also known as Title III of the Foundations for Evidence-Based Policymaking Act of 2018, reaffirms and expands CIPSEA 2002. Among other things, it codified fundamental responsibilities of Federal statistical agencies and units to ensure public trust, and gave statistical agencies and units responsibilities and authorities for enabling greater evidence building.</p>
 
 <p><a href="http://www.gpo.gov/fdsys/pkg/FR-2014-12-02/pdf/2014-28326.pdf" class="usa-link--external" target="_blank">Statistical Policy Directive No. 1: Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units</a>, on which the responsibilities of Federal statistical agencies in CIPSEA is based, affirms the fundamental responsibilities of Federal statistical agencies and units in the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information.</p>
 
@@ -37,6 +37,8 @@ skip: true
 </ul>
 </p>
 
+<p><a href="https://www.whitehouse.gov/wp-content/uploads/2023/01/SOGI-Best-Practices.pdf" class="usa-link--external" target="_blank">Recommendations on the Best Practices for the Collection of Sexual Orientation and Gender Identity Data on Federal Statistical Surveys</a> was developed by the Office of the Chief Statistician of the United States to provide recommendations for Federal agencies on the current best practices for the collection of self-reported sexual orientation and gender identity (SOGI) data on Federal statistical surveys. These recommendations build on a long history of robust Federal effort to develop and refine SOGI measurement best practices.</p>
+
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/2018/10/2020_Memo_Minimizing_Household_Surveys.pdf" class="usa-link--external" target="_blank">Minimizing Household Surveys during the 2020 Census of Population</a>, and similar memorandum issued in prior decades, places a moratorium on new information collections during the decennial census, given its unique constitutional requirements and overall importance to the nation.</p>
 
 <h2 class="font-serif-lg">Confidentiality, Data Access, and Data Sharing</h2>
@@ -49,7 +51,7 @@ skip: true
 
 <p>CIPSEA also requires statistical agencies and units to <a href="https://www.govinfo.gov/content/pkg/USCODE-2018-title44/pdf/USCODE-2018-title44-chap35-subchapIII-partD-sec3582.pdf" class="usa-link--external" target="_blank">expand secure access to data assets.</a> It requires statistical agencies and units to safely expand access to protected data for evidence-building.</p>
 
-<p>CIPSEA also provides a <a href="https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title44%2Fchapter35%2Fsubchapter3&edition=prelim" class="usa-link--external" target="_blank">presumption of accessibility for statistical agencies and units</a> to Federal data assets for evidence building purposes.</p>
+<p>CIPSEA also provides a <a href="https://www.govinfo.gov/content/pkg/USCODE-2018-title44/pdf/USCODE-2018-title44-chap35-subchapIII-partD-sec3581.pdf" class="usa-link--external" target="_blank">presumption of accessibility for statistical agencies and units</a> to Federal data assets for evidence building purposes.</p>
 
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2014/m-14-06.pdf" class="usa-link--external" target="_blank">M-14-06, Guidance for Providing and Using Administrative Data for Statistical Purposes</a> encourages the greater use of administrative data for statistical purposes, providing agencies with guidance for addressing the legal, policy, and operational issues that exist with respect to using administrative data for statistical purposes.</p>
 
@@ -97,7 +99,7 @@ skip: true
 
 <p><a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank">Directive No. 10: Standard Occupational Classification (SOC) System</a> classifies all occupations in the economy, including private, public, and military occupations, to facilitate comparability across occupational data produced for statistical purposes by Federal agencies.
 <ul class="usa-list">
-  <li>More information can be found at: <a href="https://www.bls.gov/SOC/" class="usa-link--external" target="_blank">BLS Standard Occupational Classification (SOC)</a></li>
+  <li>More information can be found at: <a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank">BLS SOC 2018</a></li>
 </ul>
 </p>
 
