@@ -58,6 +58,11 @@ $theme-show-notifications: false;
     display: inline-block !important;
     color: cornflowerblue;
   }
+
+  .text-icsp-blue.usa-link--external::after {
+    margin-bottom: 2px;
+    font-size: 1.1rem;
+  }
 }
 
 .usa-list li,
@@ -77,6 +82,10 @@ $theme-show-notifications: false;
 
 .usa-prose-width{
     max-width:100% !important;
+}
+
+.ogp-img-120{
+  width: 122px;
 }
 
 @media screen and (min-width: 640px) {
