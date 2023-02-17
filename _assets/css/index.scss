@@ -84,6 +84,10 @@ $theme-show-notifications: false;
     max-width:100% !important;
 }
 
+.ogp-img-120{
+  width: 120px;
+}
+
 @media screen and (min-width: 640px) {
     .usa-banner__button[aria-expanded="true"]::after {
         background-color: transparent !important;
