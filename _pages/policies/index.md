@@ -78,7 +78,7 @@ skip: true
 
 <h2 class="font-serif-lg">Classification Standards</h2>
 
-<p>Through <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external" target="_blank">Directive No. 7: Metropolitan Statistical Areas</a>, OMB delineates Metropolitan Statistical Areas, Metropolitan Divisions, Micropolitan Statistical Areas, Combined Statistical Areas, and New England City and Town Areas for use in Federal statistical activities. OMB issues periodic updates of the areas between decennial censuses based on Census Bureau data.
+<p>Through <a href="https://www.federalregister.gov/documents/2021/07/16/2021-15159/2020-standards-for-delineating-core-based-statistical-areas/" class="usa-link--external" target="_blank">Directive No. 7: Metropolitan Statistical Areas</a>, OMB delineates Metropolitan Statistical Areas, Metropolitan Divisions, Micropolitan Statistical Areas, Combined Statistical Areas, and New England City and Town Areas for use in Federal statistical activities. OMB issues periodic updates of the areas between decennial censuses based on Census Bureau data.
 <ul class="usa-list">
   <li>
     <span><a href="https://www.govinfo.gov/content/pkg/FR-2021-07-16/pdf/2021-15159.pdf" class="usa-link--external" target="_blank">2020 Standards for Delineating Core Based Statistical Areas</a></span>
