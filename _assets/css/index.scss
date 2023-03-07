@@ -203,7 +203,7 @@ $theme-show-notifications: false;
       color: white;
     }
 
-    .hero-p3-font::after{
+    a.no-decoration::after{
       content: url(../assets/img/circle-chevron-right-solid.svg);
       width: 1.5rem;
       display: inline-block;
