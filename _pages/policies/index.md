@@ -11,7 +11,7 @@ skip: true
 
 <p><strong>Relevant laws, policies, and guidance are presented below organized according to phases in the information lifecycle:</strong> cross cutting (span the full information lifecycle); information collection; confidentiality, data access, and data sharing; and data dissemination.</p>
 
-<h2 class="font-serif-lg">Cross Cutting</h2>
+<h3 class="font-serif-lg">Cross Cutting</h3>
 
 <p>The <a href="http://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35/subchapter1&edition=prelim" class="usa-link--external" target="_blank">Paperwork Reduction Act of 1995 (codified as amended at 44 U.S.C. 3501–3520)</a> provides for the coordination of Federal information policy. Among other things, it establishes the role of the CSOTUS and the ICSP, and enumerates the responsibilities and authorities bestowed on them. It also governs information creation, collection, disclosure, maintenance, use, sharing and dissemination by or for the Federal government.</p>
 
@@ -25,7 +25,7 @@ skip: true
 
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2015/m-15-15.pdf" class="usa-link--external" target="_blank">M-15-15, Improving Statistical Activities through Interagency Collaboration</a> clarifies authorities under which interagency collaborations can occur, and encourages interagency collaboration to further statistical system goals.</p>
 
-<h2 class="font-serif-lg">Information Collection</h2>
+<h3 class="font-serif-lg">Information Collection</h3>
 
 <p>The <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/federal-collection-information/" class="usa-link--external" target="_blank">Office of Information and Regulatory Affairs</a> in the Office of Management and Budget issues government-wide guidance to implement the information collection requirements of the <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35&edition=prelim" class="usa-link--external" target="_blank">Paperwork Reduction Act.</a> These include regulations on <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/5_cfr_1320.pdf" class="usa-link--external" target="_blank">Controlling Paperwork Burdens on the Public</a> and much more.</p>
 
@@ -41,7 +41,7 @@ skip: true
 
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/2018/10/2020_Memo_Minimizing_Household_Surveys.pdf" class="usa-link--external" target="_blank">Minimizing Household Surveys during the 2020 Census of Population</a>, and similar memorandum issued in prior decades, places a moratorium on new information collections during the decennial census, given its unique constitutional requirements and overall importance to the nation.</p>
 
-<h2 class="font-serif-lg">Confidentiality, Data Access, and Data Sharing</h2>
+<h3 class="font-serif-lg">Confidentiality, Data Access, and Data Sharing</h3>
 
 <p>The <a href="https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title44%2Fchapter35%2Fsubchapter3&edition=prelim" class="usa-link--external" target="_blank">Confidential Information Protection and Statistical Efficiency Act</a> (CIPSEA), as amended by CIPSEA 2018, establishes a uniform policy to protect the confidentiality of data gathered for statistical purposes and evidence building.
 <ul class="usa-list">
@@ -55,7 +55,7 @@ skip: true
 
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2014/m-14-06.pdf" class="usa-link--external" target="_blank">M-14-06, Guidance for Providing and Using Administrative Data for Statistical Purposes</a> encourages the greater use of administrative data for statistical purposes, providing agencies with guidance for addressing the legal, policy, and operational issues that exist with respect to using administrative data for statistical purposes.</p>
 
-<h2 class="font-serif-lg">Data Dissemination</h2>
+<h3 class="font-serif-lg">Data Dissemination</h3>
 
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/statpolicy/dir_3_fr_09251985.pdf" class="usa-link--external" target="_blank">Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
 <ul class="usa-list">
@@ -76,7 +76,7 @@ skip: true
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2002-02-22/pdf/R2-59.pdf" class="usa-link--external" target="_blank">Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies</a> requires agencies to issue information quality guidelines and to develop information resources management procedures for reviewing and substantiating the quality of information before it is disseminated.</p>
 
-<h2 class="font-serif-lg">Classification Standards</h2>
+<h3 class="font-serif-lg">Classification Standards</h3>
 
 <p>Under <a href="https://www.federalregister.gov/documents/2021/07/16/2021-15159/2020-standards-for-delineating-core-based-statistical-areas/" class="usa-link--external" target="_blank">Statistical Policy Directive No. 7: Metropolitan Statistical Areas</a>, OMB delineates Metropolitan Statistical Areas, Metropolitan Divisions, Micropolitan Statistical Areas, Combined Statistical Areas, and New England City and Town Areas for use in Federal statistical activities. OMB issues periodic updates of the areas between decennial censuses based on Census Bureau data.
 <ul class="usa-list">

@@ -91,7 +91,7 @@ ICSP Products:
   <li>
     <span>2023:</span>
     <ul>
-      <li><a href="{{ site.baseurl }}/assets/docs/ICSP-The Use of Private Datasets by Federal Statistical Programs-1-6-2023.pdf" class="usa-link--external" target="_blank">The Use of Private Datasets by Federal Statistical Programs: Extent, Challenges, and Lessons Learned</a></li>
+      <li><a href="{{ site.baseurl }}/assets/docs/ICSP-The Use of Private Datasets by Federal Statistical Programs-1-6-2023.pdf">The Use of Private Datasets by Federal Statistical Programs: Extent, Challenges, and Lessons Learned</a></li>
     </ul>
   </li>
   <li>
