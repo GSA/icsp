@@ -11,7 +11,7 @@ skip: true
 
 <p><strong>Relevant laws, policies, and guidance are presented below organized according to phases in the information lifecycle:</strong> cross cutting (span the full information lifecycle); information collection; confidentiality, data access, and data sharing; and data dissemination.</p>
 
-<h3 class="font-serif-lg">Cross Cutting</h3>
+<h2 class="font-serif-lg">Cross Cutting</h2>
 
 <p>The <a href="http://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35/subchapter1&edition=prelim" class="usa-link--external" target="_blank">Paperwork Reduction Act of 1995 (codified as amended at 44 U.S.C. 3501–3520)</a> provides for the coordination of Federal information policy. Among other things, it establishes the role of the CSOTUS and the ICSP, and enumerates the responsibilities and authorities bestowed on them. It also governs information creation, collection, disclosure, maintenance, use, sharing and dissemination by or for the Federal government.</p>
 
