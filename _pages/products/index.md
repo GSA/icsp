@@ -123,7 +123,7 @@ ICSP Products:
 
 <h3 class="font-serif-lg">Related Links</h3>
 <ul class="usa-list" role="list">
-  <li role="listitem"><a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external" target="_blank">Chief Statistician of the U.S.</a></li>
+  <li role="listitem"><a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external" target="_blank">Chief Statistician of the United States</a></li>
   <li role="listitem"><a href="https://www.fcsm.gov/" class="usa-link--external" target="_blank">Federal Committee on Statistical Methodology</a></li>
   <li role="listitem"><a href="https://cybercemetery.unt.edu/archive/cep/20171002195205/https:/www.cep.gov/en.html" class="usa-link--external" target="_blank">Commission on Evidence-Based Policy-making</a></li>
   <li role="listitem"><a href="https://www.bea.gov/evidence" class="usa-link--external" target="_blank">Advisory Committee on Data for Evidence-Building</a></li>
