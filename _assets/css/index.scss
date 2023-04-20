@@ -58,6 +58,11 @@ $theme-show-notifications: false;
     display: inline-block !important;
     color: cornflowerblue;
   }
+
+  .text-icsp-blue.usa-link--external::after {
+    margin-bottom: 2px;
+    font-size: 1.1rem;
+  }
 }
 
 .usa-list li,
@@ -77,6 +82,10 @@ $theme-show-notifications: false;
 
 .usa-prose-width{
     max-width:100% !important;
+}
+
+.ogp-img-120{
+  width: 122px;
 }
 
 @media screen and (min-width: 640px) {
@@ -155,7 +164,8 @@ $theme-show-notifications: false;
 }
 
 .home-page-backgrund {
-    background-image: url("../assets/img/home-page.jpg");
+    background-image: linear-gradient( #00000000, #27355c ), url("../assets/img/home-page.jpg");
+    background-color: black;
     background-repeat: no-repeat;
     font-size: 1.06rem;
     line-height: 1.5;
@@ -164,6 +174,46 @@ $theme-show-notifications: false;
     background-position: center;
     background-size: cover;
     color: white;
+
+    .hero-p1-font{
+      letter-spacing: -.69px;
+      line-height: 1.1;
+      font-size: 2em;
+      font-weight: bold;
+    }
+
+    .hero-p2-font{
+      line-height: 1.4;
+      font-size: 1.17em;
+      margin-block-start: 0.90em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      font-weight: bold;
+    }  
+
+    .hero-p3-font{
+      font-weight: 700;
+      font-size: 1.06rem;
+      line-height: 1.5;
+    }
+    
+    .no-decoration{
+      text-decoration: none;
+      color: white;
+    }
+
+    a.no-decoration::after{
+      content: url(../assets/img/circle-chevron-right-solid.svg);
+      width: 1.5rem;
+      display: inline-block;
+      height: 1.5rem;
+      margin-left: 3px;
+      vertical-align: -28%;
+    }
+
+    
+   
 }
 
 .home-page-container{
@@ -202,9 +252,16 @@ a.text-icsp-blue {
 }
 
 .carousel-item__content {
+  background: transparent;
+  opacity: 0.9;
+  max-width: 100%;
+}
+
+.tagline-item__content{
   background: white;
   opacity: 0.9;
-  max-width: 38rem;
+  max-width: 100%;
+  line-height: 1.5
 }
 
 .font-size-106rem{
