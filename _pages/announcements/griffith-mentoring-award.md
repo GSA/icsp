@@ -7,7 +7,7 @@ section: announcements
                   
 <p><strong>About the Award</strong></p>
 
-<p>The Jeanne E. Griffith Mentoring award honors Dr. Griffith who died in 2001 after working for more than 25 years in the federal statistical system. The award acknowledges supervisors, technical directors, team coordinators, or other members of federal, state, or local government statistical staff who make unique efforts to mentor and encourage younger staff at all levels to learn and grow, and to recognize and seize career opportunities. The award includes a plaque and a $1,000 honorarium and is managed by the <a href="https://community.amstat.org/governmentstatisticssection/awards/griffithmentoringaward" target="_blank">American Statistical Association</a>.</p>
+<p>The Jeanne E. Griffith Mentoring award honors Dr. Griffith who died in 2001 after working for more than 25 years in the federal statistical system. The award acknowledges supervisors, technical directors, team coordinators, or other members of federal, state, or local government statistical staff who make unique efforts to mentor and encourage younger staff at all levels to learn and grow, and to recognize and seize career opportunities. The award includes a plaque and a $1,000 honorarium and is managed by the <a href="https://community.amstat.org/governmentstatisticssection/awards/griffithmentoringaward" target="_blank" rel="noopener" >American Statistical Association</a>.</p>
 
 <p><strong>Previous Winners</strong></p>
 <ul>
