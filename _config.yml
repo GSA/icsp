@@ -160,7 +160,7 @@ searchgov:
   affiliate: statspolicy_gov
 
   # replace with your access key
-  access_key: xfea6UIlgAHtdsoRN-uyCgY-EEFqZbdMPWGDSCNhzPjA=
+  access_key: fea6UIlgAHtdsoRN-uyCgY-EEFqZbdMPWGDSCNhzPjA=
 
   # this renders the results within the page instead of sending to user to search.gov
   inline: true
