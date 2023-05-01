@@ -23,7 +23,8 @@ email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to StatsPolicy.gov, the home of the U.S. Federal statistical system. StatsPolicy.gov brings together important information about our interwoven Federal statistical system, including our members, priorities, and activities across the Federal Government.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com.
+url: "https://www.statspolicy.gov" 
+  # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
@@ -159,7 +160,7 @@ searchgov:
   affiliate: statspolicy_gov
 
   # replace with your access key
-  access_key: xfea6UIlgAHtdsoRN-uyCgY-EEFqZbdMPWGDSCNhzPjA=
+  access_key: fea6UIlgAHtdsoRN-uyCgY-EEFqZbdMPWGDSCNhzPjA=
 
   # this renders the results within the page instead of sending to user to search.gov
   inline: true
