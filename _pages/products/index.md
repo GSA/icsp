@@ -30,13 +30,13 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li>
     <span>FY 2024:</span>
     <ul>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/ap_9_statistics_fy2024.pdf" class="usa-link--external" target="_blank" rel="noopener" >Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/ap_9_statistics_fy2024.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="FY 2024 AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2023:</span>
     <ul>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener" >Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="FY 2023 AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
       <li> Report: <i>Forthcoming</i></li>
     </ul>
   </li>
