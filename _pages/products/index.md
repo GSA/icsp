@@ -14,6 +14,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
+  <li>On April 27, 2023, OMB published a <a href="https://www.federalregister.gov/documents/2023/04/27/2023-08841/executive-order-14081-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe" class="usa-link--external" target="_blank" rel="noopener" >Federal Register Notice - Request for Information</a> seeking public input to help inform the work of the Bioeconomy Interagency Technical Working Group convened by CSOTUS.  This Group is charged with proposing recommendations for revisions to North American Industry Classification System (NAICS), and the North American Product Classification System (NAPCS) to better characterize and measure the bioeconomy.</li>
   <li class="maxw-full">The Office of the Chief Statistician of the United States (OCSOTUS) is <a href="https://www.federalregister.gov/documents/2023/01/27/2023-01635/initial-proposals-for-updating-ombs-race-and-ethnicity-statistical-standards" class="usa-link--external" target="_blank" rel="noopener" >seeking public comment on initial proposals for revising the statistical standards on race and ethnicity data</a>, developed by the Interagency Technical Working Group on Race and Ethnicity Standards. For more information, visit the <a href="https://spd15revision.gov/" class="usa-link--external" target="_blank">SPD15 ITWG website</a>.</li>
   <li class="maxw-full">The first-ever <a href="https://www.whitehouse.gov/wp-content/uploads/2023/01/Natural-Capital-Accounting-Strategy-final.pdf" class="usa-link--external" target="_blank" rel="noopener" >United States National Strategy to Develop Statistics for Environmental-Economic Decisions</a> (National Strategy), published in January 2023, would create a United States system to account for natural capital and quantify the value this natural capital provides. The Chief Statistician of the United States (CSOTUS) will play a key role in moving aspects of this 15-year National Strategy forward by ensuring coordination across the U.S. Federal statistical system to generate consistent, comparable Federal statistics to track the condition and economic value of land, water, air, and other natural assets, as well as to lead development of a statistical classification system to underpin this work.</li>
   <li class="maxw-full"><a href="https://www.whitehouse.gov/wp-content/uploads/2023/01/SOGI-Best-Practices.pdf" class="usa-link--external" target="_blank" rel="noopener" >Recommendations on the Best Practices for the Collection of Sexual Orientation and Gender Identity Data on Federal Statistical Surveys</a>, issued in January 2023, was developed by the OCSOTUS to provide recommendations for Federal agencies on the current best practices for the collection of self-reported sexual orientation and gender identity (SOGI) data on Federal statistical surveys. These recommendations build on a long history of robust Federal efforts to develop and refine SOGI measurement best practices.</li>
@@ -27,9 +28,15 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 
 <ul class="usa-list">
   <li>
+    <span>FY 2024:</span>
+    <ul>
+      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/ap_9_statistics_fy2024.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="FY 2024 AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+    </ul>
+  </li>
+  <li>
     <span>FY 2023:</span>
     <ul>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener" >Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="FY 2023 AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
       <li> Report: <i>Forthcoming</i></li>
     </ul>
   </li>
