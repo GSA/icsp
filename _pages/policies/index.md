@@ -83,6 +83,7 @@ skip: true
   <li>
     <span><a href="https://www.govinfo.gov/content/pkg/FR-2021-07-16/pdf/2021-15159.pdf" class="usa-link--external" target="_blank" rel="noopener" >2020 Standards for Delineating Core Based Statistical Areas</a></span>
     <ul class="usa-list">
+      <li><a href="https://www.whitehouse.gov/wp-content/uploads/2023/07/OMB-Bulletin-23-01.pdf" class="usa-link--external" target="_blank" rel="noopener" >OMB Bulletin No. 23-01, Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses of the Delineations of These Areas</a></li>
       <li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/bulletins/2017/b-17-01.pdf" class="usa-link--external" target="_blank" rel="noopener" >OMB Bulletin No. 17-01, Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses of the Delineations of These Areas</a></li>
     </ul>
   </li>
