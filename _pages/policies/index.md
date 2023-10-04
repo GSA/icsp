@@ -60,6 +60,7 @@ skip: true
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/statpolicy/dir_3_fr_09251985.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
 <ul class="usa-list">
   <li>Schedule of Release Dates for Principal Federal Economic Indicators: 
+  <a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/pfei_schedule_release_dates_2024.pdf" class="usa-link--external" target="_blank" rel="noopener" >2024</a>, 
   <a href="https://www.whitehouse.gov/wp-content/uploads/2022/09/pfei_schedule_release_dates_2023.pdf" class="usa-link--external" target="_blank" rel="noopener" >2023</a>, 
   <a href="https://www.whitehouse.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf" class="usa-link--external" target="_blank" rel="noopener" >2022</a>, 
   <a href="https://www.whitehouse.gov/wp-content/uploads/2020/09/pfei_schedule_release_dates_2021.pdf" class="usa-link--external" target="_blank" rel="noopener" >2021</a>, 
