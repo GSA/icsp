@@ -1,3 +1,5 @@
+---
+---
 /*
   Customize US Web Design System SASS
   See all at designsystem.digital.gov/documentation/settings
@@ -7,7 +9,7 @@
 // $theme-hero-image: asset_path("whatever-the-default-is.png");
 $theme-show-notifications: false;
 
-@import "uswds";
+@import "scss/uswds";
 
 // Example - Override the background image in the hero component using CSS:
 //.usa-hero {
@@ -164,7 +166,7 @@ $theme-show-notifications: false;
 }
 
 .home-page-backgrund {
-    background-image: linear-gradient( #00000000, #27355c ), url("../assets/img/home-page.jpg");
+    background-image: linear-gradient( #00000000, #27355c ), url("../img/home-page.jpg");
     background-color: black;
     background-repeat: no-repeat;
     font-size: 1.06rem;
@@ -204,7 +206,7 @@ $theme-show-notifications: false;
     }
 
     a.no-decoration::after{
-      content: url(../assets/img/circle-chevron-right-solid.svg);
+      content: url(../img/circle-chevron-right-solid.svg);
       width: 1.5rem;
       display: inline-block;
       height: 1.5rem;
