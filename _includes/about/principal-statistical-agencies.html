@@ -1,0 +1,16 @@
+<h3 id="principal-agencies" id="statistical-agencies" class="font-serif-lg">Principal Statistical Agencies and Recognized Units</h3>
+<p class="usa-prose-width">OMB recognizes 16 statistical agencies and units under the Confidential Information Protection and Statistical Efficiency Act of 2018 (CIPSEA 2018). Of these, thirteen are known as principal statistical agencies, which are agencies or organizational units of the Executive Branch whose missions are predominantly the collection, compilation, processing, or analysis of information for statistical purposes, covering such topics as the economy, workforce, energy, agriculture, foreign trade, education, housing, crime, transportation, and health. In addition, OMB recognizes three additional units: Microeconomic Surveys Unit (Board of Directors of the Federal Reserve System); Center for Behavioral Health Statistics and Quality, Substance Abuse and Mental Health Services Administration (Department of Health and Human Services); and National Animal Health Monitoring System, Animal and Plant Health Inspection Service (Department of Agriculture).</p>
+<div class="grid-row grid-gap">
+{% for agency in site.data.agencies %}
+  <div class="tablet:grid-col-6 padding-y-2">
+    <div class="grid-row border-base-lighter border-solid border-width-1px border-top-width-05 radius-lg shadow-4 minh-card">
+      <div class="grid-col-4 display-flex flex-row flex-align-center padding-x-2">
+        <img src="{{ site.baseurl }}{{ agency.image }}" alt="{{ agency.title }} logo">
+      </div> 
+      <div class="grid-col-8 display-flex flex-row flex-align-center padding-right-2">
+        <p  class="usa-prose-width"><a href="{{ agency.url }}" target="_blank" rel="noopener"  class="text-primary">{{ agency.title }}, {{agency.department}}</a></p>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>

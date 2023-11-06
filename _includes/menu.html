@@ -24,7 +24,7 @@ manage your navigation system
         nav_item.children %} {% assign basedir = page.url | remove_first: '/' |
         split: '/' | first | lstrip %} {% assign linkdir = nav_item.url |
         replace: "/", "" | lstrip %}
-        <li class="usa-nav__primary-item">
+        <li class="usa-nav__primary-item padding-right-205">
           <a
             class="usa-nav__link font-sans-sm{% if basedir == linkdir %} usa-current{% endif %}"
             href="{{ nav_item.url | prepend: site.baseurl}}"
@@ -32,9 +32,9 @@ manage your navigation system
           >
         </li>
         {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index %}
-        <li class="usa-nav__primary-item">
+        <li class="usa-nav__primary-item padding-right-205">
           <button
-            class="usa-accordion__button usa-nav__link"
+            class="usa-accordion__button usa-nav__link font-size-106rem"
             aria-expanded="false"
             aria-controls="{{ nav_id }}"
           >
@@ -42,7 +42,7 @@ manage your navigation system
           </button>
           <ul id="{{ nav_id }}" class="usa-nav__submenu">
             {% for subnav_item in nav_item.children %}
-            <li class="usa-nav__submenu-item">
+            <li class="usa-nav__submenu-item padding-right-205">
               <a href="{{ subnav_item.url | prepend: site.baseurl }}" class="font-sans-sm"
                 >{{ subnav_item.name | escape }}</a
               >
@@ -52,10 +52,10 @@ manage your navigation system
         </li>
         {% endunless %} {% endfor %}
       </ul>
-      <div class="usa-nav__secondary margin-bottom-3">
+      <div class="usa-nav__secondary margin-bottom-7">
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary_navigation %}
-          <li class="usa-nav__secondary-item">
+          <li class="usa-nav__secondary-item padding-right-205">
             <a href="{{ nav_item.url | prepend: site.baseurl }}"
               >{{ nav_item.name | escape }}</a
             >

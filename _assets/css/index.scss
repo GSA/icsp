@@ -1,0 +1,280 @@
+/*
+  Customize US Web Design System SASS
+  See all at designsystem.digital.gov/documentation/settings
+*/
+
+// Example - Override the background image in the hero component using SASS:
+// $theme-hero-image: asset_path("whatever-the-default-is.png");
+$theme-show-notifications: false;
+
+@import "uswds";
+
+// Example - Override the background image in the hero component using CSS:
+//.usa-hero {
+//  background-image: asset_url("your-image.png")
+//  background-position: 50%;
+//  background-size: cover;
+//}
+
+/*
+  Add your SASS/CSS here
+*/
+
+// default mode hide banner
+.usa-banner__content {
+  display: hidden;
+}
+
+@media screen and (min-width: 640px) {
+  .tablet\:width-1\/3 {
+    width: 33%;
+  }
+  .tablet\:float-left {
+    float: left;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .paginate-link {
+    display: initial;
+  }
+  .paginate-button {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .paginate-link {
+    display: none;
+  }
+  .paginate-button {
+    display: block;
+  }
+}
+
+@supports (-webkit-mask:url()) {
+  .usa-link--external::after {
+    -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
+    display: inline-block !important;
+    color: cornflowerblue;
+  }
+
+  .text-icsp-blue.usa-link--external::after {
+    margin-bottom: 2px;
+    font-size: 1.1rem;
+  }
+}
+
+.usa-list li,
+.usa-prose > ul li,
+.usa-prose > p {
+  max-width: unset;
+}
+
+.usa-prose h2 {
+  font-size: 1.264em;
+}
+
+.custom-link-li {
+    padding-bottom: 1.25rem;
+    line-height: 1.1;
+}
+
+.usa-prose-width{
+    max-width:100% !important;
+}
+
+.ogp-img-120{
+  width: 122px;
+}
+
+@media screen and (min-width: 640px) {
+    .usa-banner__button[aria-expanded="true"]::after {
+        background-color: transparent !important;
+        background-image: url("../img/angle-arrow-up-primary.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 0.5rem;
+        content: "";
+        display: inline-block;
+        width: 0.5rem;
+        margin-left: 4px;
+        transform: rotate(0deg) !important;
+    }
+
+    .usa-banner__button[aria-expanded="true"]:hover::after {
+        background-image: url("../img/angle-arrow-up-primary-hover.svg"), linear-gradient(transparent, transparent);
+        background-color: transparent !important;
+        transform: rotate(0deg) !important;
+    }
+
+    .usa-banner__button::after {
+        background-image: url("../img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 0.5rem;
+        content: '';
+        display: inline-block;
+        width: 0.5rem;
+        margin-left: 4px;
+        background-color: transparent !important;
+    }
+
+    .usa-banner__button:hover::after {
+        background-image: url("../img/angle-arrow-down-primary-hover.svg"), linear-gradient(transparent, transparent);
+        background-color: transparent !important;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .usa-banner__button[aria-expanded="true"]::after {
+        border: 0;
+        background-image: url("../img/close-blue-60v-alt.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 1rem;
+        content: '';
+        display: inline-block;
+        height: 3rem;
+        width: 3rem;
+        margin-left: 0;
+        background-color: transparent !important;
+    }
+
+    .usa-banner__header-action::after {
+        background-image: url("../img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 0.5rem;
+        content: '';
+        display: inline-block;
+        height: 0.5rem;
+        width: 0.5rem;
+        margin-left: 2px;
+        background-color: transparent !important;
+    }
+}
+
+.usa-list li {
+    max-width: unset;
+}
+
+.div-line {
+    border-right: 3px solid #f0f0f0;
+}
+
+.home-page-backgrund {
+    background-image: linear-gradient( #00000000, #27355c ), url("../assets/img/home-page.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    font-size: 1.06rem;
+    line-height: 1.5;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    background-position: center;
+    background-size: cover;
+    color: white;
+
+    .hero-p1-font{
+      letter-spacing: -.69px;
+      line-height: 1.1;
+      font-size: 2em;
+      font-weight: bold;
+    }
+
+    .hero-p2-font{
+      line-height: 1.4;
+      font-size: 1.17em;
+      margin-block-start: 0.90em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      font-weight: bold;
+    }  
+
+    .hero-p3-font{
+      font-weight: 700;
+      font-size: 1.06rem;
+      line-height: 1.5;
+    }
+    
+    .no-decoration{
+      text-decoration: none;
+      color: white;
+    }
+
+    a.no-decoration::after{
+      content: url(../assets/img/circle-chevron-right-solid.svg);
+      width: 1.5rem;
+      display: inline-block;
+      height: 1.5rem;
+      margin-left: 3px;
+      vertical-align: -28%;
+    }
+
+    
+   
+}
+
+.home-page-container{
+    max-width:40rem;
+    padding:1rem;
+    color:black
+}
+
+.div-line-bottom {
+    border-bottom: 3px solid #f0f0f0;
+}
+
+.min-height{
+    min-height:450px;
+}
+
+.text-icsp-blue {
+  color: #007dbc;
+}
+
+a.text-icsp-blue {
+  &:hover {
+    color: black;
+    text-decoration: underline;
+  }
+}
+
+.margin-bottom-quarter {
+  margin-bottom: 0.25rem;
+}
+
+@media (min-width: 40em) {
+  .usa-identifier__required-links-list {
+    column-gap: 1.75rem;
+  }
+}
+
+.carousel-item__content {
+  background: transparent;
+  opacity: 0.9;
+  max-width: 100%;
+}
+
+.tagline-item__content{
+  background: white;
+  opacity: 0.9;
+  max-width: 100%;
+  line-height: 1.5
+}
+
+.font-size-106rem{
+  font-size: 1.06rem !important;
+}
+
+p, li:not(.usa-identifier__required-links-item){
+  font-size: 1.06rem;
+}
+
+.padding-right-13px{
+  padding-right: 13px;
+}
+.padding-right-10px{
+  padding-right: 10px;
+}

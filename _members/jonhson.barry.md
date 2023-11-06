@@ -1,5 +1,6 @@
 ---
-name: Barry Johnson
-agency_long: Department of the Treasury
-agency_short: Treasury
+name: Barry Johnson*
+department: Department of the Treasury
+sub-department: Statistics of Income^
+title: Treasury
 ---

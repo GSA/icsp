@@ -1,5 +1,6 @@
 ---
 name: Spiro Stefanou
-agency_long: Department of Agriculture
-agency_short: USDA
+department: Department of Agriculture
+sub-department: Economic Research Service^
+title: USDA
 ---

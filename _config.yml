@@ -18,13 +18,13 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Interagency Council on Statistical Policy
+title: StatsPolicy
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  Welcome to StatsPolicy.gov, the home of the U.S. Federal statistical system. StatsPolicy.gov brings together important information about our interwoven Federal statistical system, including our members, priorities, and activities across the Federal Government.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com.
+url: "https://www.statspolicy.gov" 
+  # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
@@ -66,7 +66,7 @@ twitter: 18F
 #
 #################################################################
 dap:
-  # agency: your-agency
+  agency: GSA
 
   # Optional
   # subagency: your-subagency
@@ -81,26 +81,24 @@ primary_navigation:
     url: /
   - name: About Us
     url: /about/
-  - name: Strategic Priorities
-    url: /strategic-priorities/
-  - name: ICSP Subcommittees
-    url: /subcommittees/
+    children:
+      - name: Federal Statistical System
+        url: /about/#fss
+      - name: Office of the Chief Statistician of the U.S.
+        url: /about/#office-chief
+      - name: Interagency Council on Statistical Policy
+        url: /about/#icsp
+      - name: ICSP Members
+        url: /about/#members
+      - name: Principal Statistical Agencies and Recognized Units
+        url: /about/#statistical-agencies
+      - name: Cross-System Initiatives
+        url: /about/#initiatives
   - name: Policies
     url: /policies/
   - name: Products
     url: /products/
-  - name: Announcements
-    url: /announcements/
 
-about_nav:
-  - name: About Us
-    url: /about/
-  - name: Office of the Chief Statistician
-    url: /about/office-chief-statistician/
-  - name: Interagency Council on Statistical Policy
-    url: /about/council-members/
-  - name: Federal Statistical System
-    url: /about/federal-statistical-system/
     
 strategic_priorities_nav:
   - name: Strategic Priorities
@@ -141,18 +139,6 @@ policies_nav:
     url: /policies/statistical-policy-directives/
   - name: Related Links
     url: /policies/related-links/
-    
-products_nav:
-  - name: Products
-    url: /products/
-  - name: Office of Management and Budget
-    url: /products/omb/
-  - name: OMB's Statistical Standards & Programs
-    url: /products/omb-statistical-standards-programs/
-  - name: Interagency Council on Statistical Policy
-    url: /products/icsp/
-  - name: Related Links
-    url: /products/related-links/
 
 announcements_nav:
   - name: Announcements
@@ -171,13 +157,17 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  affiliate: federalist-uswds-example
+  affiliate: statspolicy_gov
 
   # replace with your access key
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+  access_key: fea6UIlgAHtdsoRN-uyCgY-EEFqZbdMPWGDSCNhzPjA=
 
   # this renders the results within the page instead of sending to user to search.gov
   inline: true
+
+  # This allows Search.gov to present relevant type-ahead search suggestions in your website's search box.
+  # If you do not want to present search suggestions, set this value to false.
+  suggestions: true
 
 ##########################################################################################
 # The values below here are more advanced and should only be
