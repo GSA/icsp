@@ -189,9 +189,7 @@ permalink: pretty
 
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-paginate-v2
-  - jekyll-redirect-from
   - jekyll-sitemap # See additional instructions for url parameter above.
   - jekyll-seo-tag
 
@@ -250,27 +248,18 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-assets:
-  digest: false
-  autoprefixer:
-    browsers:
-      - "> 2%"
-      - "last 2 versions"
-      - "IE 11"
-      - "not dead"
-  compression: true
-  sources:
-    - node_modules/uswds/dist
-    - node_modules/uswds/dist/img
-    - node_modules/uswds/dist/js
-    - node_modules/uswds/dist/scss
-    - node_modules/netlify-cms/dist
-    - _assets/img
-    - _assets/js
-    - _assets/css
-  defaults:
-    js:  { integrity: false }
-    css: { integrity: false }
-    img: { integrity: false }
-  features:
-    integrity: false
+autoprefixer:
+  browsers:
+    - "> 2%"
+    - "last 2 versions"
+    - "IE 11"
+    - "not dead"
+
+sass:
+  sass_dir: _sass
+  load_paths:
+    - node_modules/uswds/dist/
+  sourcemap: development
+  quiet_deps: true
+  style: compressed
+  verbose: true
