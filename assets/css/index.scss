@@ -284,3 +284,10 @@ p, li:not(.usa-identifier__required-links-item){
 .padding-right-10px{
   padding-right: 10px;
 }
+
+
+@media screen and (min-width: 769px) {
+  .img-max-width {
+    max-width: 70%;
+  }
+}
