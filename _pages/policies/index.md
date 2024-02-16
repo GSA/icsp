@@ -57,7 +57,7 @@ skip: true
 
 <h3 class="font-serif-lg">Data Dissemination</h3>
 
-<p><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/statpolicy/dir_3_fr_09251985.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
+<p><a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
 <ul class="usa-list">
   <li>Schedule of Release Dates for Principal Federal Economic Indicators: 
   <a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/pfei_schedule_release_dates_2024.pdf" class="usa-link--external" target="_blank" rel="noopener" >2024</a>, 
@@ -68,6 +68,7 @@ skip: true
   <a href="https://www.whitehouse.gov/wp-content/uploads/2018/09/pfei_schedule_releasedates_2019.pdf" class="usa-link--external" target="_blank" rel="noopener" >2019</a>, 
   <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/reports/pei_schedule_release_dates_2018_all_v2.pdf" class="usa-link--external" target="_blank" rel="noopener" >2018</a>, 
   <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf" class="usa-link--external" target="_blank" rel="noopener" >2017</a></li>
+  <li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/statpolicy/dir_3_fr_09251985.pdf" class="usa-link--external" target="_blank" rel="noopener" >1985 Directive No. 3</a></li>
 </ul>
 </p>
 
