@@ -23,6 +23,11 @@
   department: Department of Transportation
   url: https://www.bts.gov/
 
+- image: /assets/img/agency_logos/samhsa.png
+  title: Center for Behavioral Health Statistics and Quality
+  department: Substance Abuse and Mental Health Services Administration (Department of Health and Human Services)
+  url: https://www.samhsa.gov/about-us/who-we-are/offices-centers/cbhsq
+
 - image: /assets/img/agency_logos/ERS.png
   title: Economic Research Service
   department: Department of Agriculture
@@ -32,6 +37,16 @@
   title: Energy Information Administration
   department: Department of Energy
   url: https://www.eia.gov/
+
+- image: /assets/img/agency_logos/nsu.png
+  title: Microeconomic Surveys Units
+  department: Board of Directors of the Federal Reserve System
+  url: https://www.federalreserve.gov/econres/rsmecs-staff.htm
+
+- image: /assets/img/agency_logos/aphis.png
+  title: National Animal Health Monitoring System
+  department: Animal and Plant Health Inspection Service (Department of Agriculture)
+  url: https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/monitoring-and-surveillance/nahms
 
 - image: /assets/img/agency_logos/NASS.png
   title: National Agricultural Statistics Service
