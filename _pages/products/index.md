@@ -14,6 +14,12 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
+  <li>On March 11, 2024, OMB published “<a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_statistics_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a>” in the <i>Analytical Perspectives</i> volume. This report discusses efforts to advance toward a more seamless Federal statistical system with enhanced statistical capacity and infrastructure, and highlights recent accomplishments within the Federal statistical system. “<a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_supp_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Statistical Officials Highlights and Achievements</a>”. </li>
+
+  <li>The Federal Committee on Statistical Methodology (FCSM) is hosting the 2024 FCSM Research and Policy Conference, to be held October 22-24, 2024 at the College Park Marriott Hotel and Conference Center in Hyattsville, MD. Broad topics for the annual conference include applied statistics, Bayesian methods; data linkage; data science; estimation and inference; privacy and disclosure control; and survey sampling and weighting. Abstracts are due April 8. Submission instructions and more information about the conference can be found at <a href="https://fcsmconf.org/" target="_blank" rel="noopener" class="usa-link--external">https://fcsmconf.org/</a>.</li>
+
+  <li>The Standard Application Process (SAP) portal completed its first year of full operation in December 2023! <a href="https://ncses.nsf.gov/about/standard-application-process" target="_blank" rel="noopener" class="usa-link--external">Visit the SAP website to read the SAP Governance Board’s 2023 Annual Report</a> and learn about the accomplishments of Year 1, the planned improvements for 2024, and the long-term goals for the SAP. While there, make sure you sign-up for email updates, which now include official SAP Newsletters.</li>
+
   <li>On February 15, 2024, OMB published a revision to <a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf" target="_blank" class="usa-link--external">OMB Statistical Policy Directive No. 3</a>. This revision finalizes a <a href="https://www.regulations.gov/docket/OMB-2023-0016/comments" target="_blank" class="usa-link--external">proposal from August 2023</a> and will allow Executive Branch employees to comment publicly on Principal Federal Economic Indicator data thirty minutes after the official data release time, replacing the prior policy’s wait of one hour.</li>
 
   <li>On February 2, 2024, OMB published the <a href="https://www.whitehouse.gov/wp-content/uploads/2024/02/statistical-programs-20212022.pdf" target="_blank" class="usa-link--external">Fiscal Years 2021/2022 Statistical Programs of the U.S. Government</a> report to the Congress outlining the budgets supporting Federal statistical activities. This report fulfills the responsibility of OMB to prepare a report on statistical program funding under the Paperwork Reduction Act of 1995. This report provides the Congress with a consolidated source for key budget and program information about the Federal Statistical System.</li>
@@ -35,6 +41,14 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 <p>These AP Chapters and Reports back to Fiscal Year (FY) 2017 are available below.</p>
 
 <ul class="usa-list">
+  <li>
+    <span>FY 2025:</span>
+    <ul>
+      <li>AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_statistics_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li><a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_supp_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Statistical Officials Highlights and Achievements</a></li>
+      <li>Report: <i>Forthcoming</i></li>
+    </ul>
+  </li>
   <li>
     <span>FY 2024:</span>
     <ul>
