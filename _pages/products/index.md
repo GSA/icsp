@@ -14,7 +14,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
-  <li>On March 11, 2024, OMB published “<a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_statistics_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a>” in the <i>Analytical Perspectives</i> volume. This report discusses efforts to advance toward a more seamless Federal statistical system with enhanced statistical capacity and infrastructure, and highlights recent accomplishments within the Federal statistical system. “<a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_supp_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Statistical Officials Highlights and Achievements</a>”. </li>
+  <li>On March 11, 2024, OMB published <a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_statistics_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a> in the <i>Analytical Perspectives</i> volume. This report discusses efforts to advance toward a more seamless Federal statistical system with enhanced statistical capacity and infrastructure, and highlights recent accomplishments within the Federal statistical system. <a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_supp_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Statistical Officials Highlights and Achievements</a>. </li>
 
   <li>The Federal Committee on Statistical Methodology (FCSM) is hosting the 2024 FCSM Research and Policy Conference, to be held October 22-24, 2024 at the College Park Marriott Hotel and Conference Center in Hyattsville, MD. Broad topics for the annual conference include applied statistics, Bayesian methods; data linkage; data science; estimation and inference; privacy and disclosure control; and survey sampling and weighting. Abstracts are due April 8. Submission instructions and more information about the conference can be found at <a href="https://fcsmconf.org/" target="_blank" rel="noopener" class="usa-link--external">https://fcsmconf.org/</a>.</li>
 
@@ -45,7 +45,9 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
     <span>FY 2025:</span>
     <ul>
       <li>AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_statistics_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
-      <li><a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_supp_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Statistical Officials Highlights and Achievements</a></li>
+      <ul>
+        <li><a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_supp_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Statistical Officials Highlights and Achievements</a></li>
+      </ul>
       <li>Report: <i>Forthcoming</i></li>
     </ul>
   </li>
