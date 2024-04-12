@@ -7,13 +7,9 @@
 
 // Example - Override the background image in the hero component using SASS:
 // $theme-hero-image: asset_path("whatever-the-default-is.png");
-$theme-show-notifications: false;
 
-@import "scss/packages/required";
-@import "scss/packages/global";
 
-@import "scss/packages/uswds-components";
-@import "scss/packages/uswds-utilities";
+@use 'uswds' as *;
 
 // Example - Override the background image in the hero component using CSS:
 //.usa-hero {
