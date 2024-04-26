@@ -44,10 +44,11 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li>
     <span>FY 2025:</span>
     <ul>
-      <li>AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_statistics_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
-      <ul>
-        <li><a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_supp_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Statistical Officials Highlights and Achievements</a></li>
-      </ul>
+      <li>AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_statistics_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a>
+        <ul>
+          <li><a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_supp_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Statistical Officials Highlights and Achievements</a></li>
+        </ul>
+      </li>
       <li>Report: <i>Forthcoming</i></li>
     </ul>
   </li>
