@@ -2,7 +2,7 @@ ruby '>= 3.1.3'
 
 source "https://rubygems.org"
 
-gem "jekyll", "4.2.2"
+gem "jekyll", "4.3.3"
 gem "webrick"
 gem "sprockets", "~> 3.7"
 gem "kramdown-parser-gfm", "~> 1.1.0"
@@ -20,3 +20,5 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "html-proofer", "~> 3.18"
+
+gem 'jekyll-sass-converter', '~> 3.0'

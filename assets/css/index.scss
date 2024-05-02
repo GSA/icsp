@@ -7,13 +7,9 @@
 
 // Example - Override the background image in the hero component using SASS:
 // $theme-hero-image: asset_path("whatever-the-default-is.png");
-$theme-show-notifications: false;
 
-@import "scss/packages/required";
-@import "scss/packages/global";
 
-@import "scss/packages/uswds-components";
-@import "scss/packages/uswds-utilities";
+@use 'uswds' as *;
 
 // Example - Override the background image in the hero component using CSS:
 //.usa-hero {
@@ -60,8 +56,8 @@ $theme-show-notifications: false;
 
 @supports (-webkit-mask:url()) {
   .usa-link--external::after {
-    -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
-    display: inline-block !important;
+    // -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
+    // display: inline-block !important;
     color: cornflowerblue;
   }
 
@@ -290,4 +286,8 @@ p, li:not(.usa-identifier__required-links-item){
   .img-max-width {
     max-width: 70%;
   }
+}
+
+.usa-identifier__section--usagov a {
+  color: #dfe1e2 !important;
 }
