@@ -109,14 +109,15 @@ skip: true
 
 <p><a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 10: Standard Occupational Classification (SOC) System</a> classifies all occupations in the economy, including private, public, and military occupations, to facilitate comparability across occupational data produced for statistical purposes by Federal agencies.
 <ul class="usa-list">
+  <li>
+    <a href="https://www.federalregister.gov/documents/2024/06/12/2024-12825/statistical-policy-directive-no-10-standard-occupational-classification-soc-request-for-comments-on" class="usa-link--external" target="_blank">Federal Register Notice for Comment on the 2028 SOC Revision Process</a>
+    <ul class="usa-list">
+      <li><a href="https://www.regulations.gov/document/BLS-2024-0001-0001" class="usa-link--external" target="_blank">Comments will be accepted through August 12, 2024.</a></li>
+    </ul>
+  </li>
   <li>More information can be found at: <a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank">BLS SOC 2018</a></li>
 </ul>
 </p>
 
-<p><a href="https://www.gpo.gov/fdsys/pkg/FR-1997-10-30/pdf/97-28653.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity</a> provides a minimum standard for maintaining, collecting, and presenting data on race and ethnicity for all Federal reporting purposes.
-
-<ul class="usa-list">
-  <li><em>Announcement:</em> <a href="https://www.whitehouse.gov/omb/briefing-room/2022/06/15/reviewing-and-revising-standards-for-maintaining-collecting-and-presenting-federal-data-on-race-and-ethnicity/" class="usa-link--external" target="_blank" rel="noopener" >Reviewing and Revising Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity</a></li>
-  <li><a href="https://www.whitehouse.gov/wp-content/uploads/2022/07/Flexibilities-and-Best-Practices-Under-SPD-15.pdf" class="usa-link--external" target="_blank" rel="noopener" >Flexibilities and Best Practices for Implementing the 1997 Standards for Maintaining, Collecting, And Presenting Federal Data on Race and Ethnicity (Statistical Policy Directive No. 15)</a></li>
-</ul>
+<p><a href="https://www.govinfo.gov/content/pkg/FR-2024-03-29/pdf/2024-06469.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity</a> provides the standards for maintaining, collecting, and presenting race and ethnicity data for all Federal information collection and reporting purposes.
 </p>
