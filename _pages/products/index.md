@@ -124,6 +124,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 </ul>
 
 <p>In addition, CSOTUS is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year. Schedules for recent years back to 2017 are linked here: 
+<a href="https://www.whitehouse.gov/wp-content/uploads/2024/09/pfei_schedule_release_dates_cy2025_09202024.pdf" class="usa-link--external" target="_blank" rel="noopener">2025</a>
 <a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/pfei_schedule_release_dates_2024.pdf" class="usa-link--external" target="_blank" rel="noopener" >2024</a>, 
 <a href="https://www.whitehouse.gov/wp-content/uploads/2022/09/pfei_schedule_release_dates_2023.pdf" class="usa-link--external" target="_blank" rel="noopener" >2023</a>, 
 <a href="https://www.whitehouse.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf" class="usa-link--external" target="_blank" rel="noopener" >2022</a>,
