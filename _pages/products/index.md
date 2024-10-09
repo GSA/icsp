@@ -29,6 +29,12 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
       </ul>
       The notice is open for comment until July 15, 2024 and can be found <a href="https://www.federalregister.gov/documents/2024/05/30/2024-11838/notice-of-availability-and-request-for-information-federal-evidence-agenda-on-disability-equity" target="_blank" rel="noopener" class="usa-link--external">here</a>.  
   </li>
+  <li>
+    The Interagency Council on Statistical Policy recently adopted <a href="<https://www.statspolicy.gov/assets/uploads/Fiscal%20Years%202025%20and%202026%20Strategic%20Goals%20and%20Objectives_ICSP_508checked_hyperlinked_Sept2024.pdf>" target="_blank" rel="noopener" class="usa-link--external">Fiscal Years 2025 and 2026 Strategic Goals and Objectives</a>. These Goals and Objectives propel the U.S. Federal statistical system toward our vision of operating as a seamless system — to become more efficient and effective in providing useful, objective, high-quality statistical data and meaningfully and safely expanding access to these data for evidence-building purposes. To learn more about the ICSP and its FY25–FY26 Strategic Goals and Objectives, visit our <a href="<https://www.statspolicy.gov/about/>" target="_blank" rel="noopener" class="usa-link--external">About Us</a> page. 
+  </li>
+  <li>
+    On September 27, 2024, OMB published the <a href="https://www.whitehouse.gov/wp-content/uploads/2024/09/pfei_schedule_release_dates_cy2025_09202024.pdf" target="_blank" rel="noopener" class="usa-link--external">2025 schedule of release dates for Principal Federal Economic Indicators</a>. For more information on this and OMB Statistical Policy Directive No. 3, see the <a href="https://www.statspolicy.gov/policies/" target="_blank" rel="noopener" class="usa-link--external">Policies</a> page.
+  </li>
 
   <li>On March 28, 2024, OMB published a set of long-awaited updates to Statistical Policy Directive No. 15 (Directive No. 15): Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity. Thanks to the hard work of staff across dozens of Federal agencies and input from thousands of members of the public, these updated standards will help create more useful, accurate, and up to date Federal data on race and ethnicity. They will enhance our ability to compare information and data across Federal agencies, and also to understand how well Federal programs serve a diverse America. You can read the updated Directive No. 15 on the <a href="https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and" target="_blank" rel="noopener" class="usa-link--external">Federal Register</a> as well as on <a href="https://spd15revision.gov/" target="_blank" rel="noopener" class="usa-link--external">spd15revision.gov</a>.</li>
 
@@ -124,6 +130,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 </ul>
 
 <p>In addition, CSOTUS is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year. Schedules for recent years back to 2017 are linked here: 
+<a href="https://www.whitehouse.gov/wp-content/uploads/2024/09/pfei_schedule_release_dates_cy2025_09202024.pdf" class="usa-link--external" target="_blank" rel="noopener">2025</a>
 <a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/pfei_schedule_release_dates_2024.pdf" class="usa-link--external" target="_blank" rel="noopener" >2024</a>, 
 <a href="https://www.whitehouse.gov/wp-content/uploads/2022/09/pfei_schedule_release_dates_2023.pdf" class="usa-link--external" target="_blank" rel="noopener" >2023</a>, 
 <a href="https://www.whitehouse.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf" class="usa-link--external" target="_blank" rel="noopener" >2022</a>,

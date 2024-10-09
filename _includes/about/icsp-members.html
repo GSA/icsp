@@ -1,27 +1,40 @@
 <h3 id="members" class="font-serif-lg">ICSP Members</h3>
-<p class="usa-prose-width">In total, there are 30 unique members of the ICSP, including the Chief Statistician of the United States who serves as the Chair. Pursuant to the PRA and Evidence Act, the ICSP is comprised of the 24 designated Statistical Officials, as well as all heads of the OMB recognized statistical agencies and units.</p>
-
+<p class="usa-prose-width">
+  In total, there are 30 unique members of the ICSP, including the Chief
+  Statistician of the United States who serves as the Chair. Pursuant to the PRA
+  and Evidence Act, the ICSP is comprised of the 24 designated Statistical
+  Officials, as well as all heads of the OMB recognized statistical agencies and
+  units.
+</p>
 <div class="grid-row grid-gap">
-    {% for member in site.members %}
-    <div class="tablet:grid-col-6 padding-y-2">
-        <div class="grid-row border-base-lighter border-solid border-width-1px border-top-width-05 radius-lg shadow-4 minh-card">
-            <div class="grid-col-4 display-flex flex-row flex-align-center padding-x-2">
-                <img src="{{ site.baseurl }}/assets/img/agency_logos/{{ member.title }}.png" alt="{{ member.department }} logo">
-            </div>
-            <div class="grid-col-8 padding-right-2">
-                <h3>{{ member.name }}</h3>
-                {% if member.sub-department %}
-                <p class="usa-prose-width">{{ member.department }}, {{member.sub-department}}</p>
-                {% else %}
-                <p class="usa-prose-width">{{ member.department }}</p>
-                {% endif %}
-                <!--<a href="mailto:{{ member.email }}">{{ member.email }}</a>-->
-            </div>
-        </div>
+  {% for member in site.members %}
+  <div class="tablet:grid-col-6 padding-y-2">
+    <div
+      class="grid-row border-base-lighter border-solid border-width-1px border-top-width-05 radius-lg shadow-4 minh-card"
+    >
+      <div
+        class="grid-col-4 display-flex flex-row flex-align-center padding-x-2"
+      >
+        <img
+          src="{{ site.baseurl }}/assets/img/agency_logos/{{ member.title }}.png"
+          alt="{{ member.department }} logo"
+        />
+      </div>
+      <div class="grid-col-8 padding-right-2">
+        <h3>{{ member.name }}</h3>
+        {% if member.sub-department %}
+        <p class="usa-prose-width">
+          {{ member.department }}, {{member.sub-department}}
+        </p>
+        {% else %}
+        <p class="usa-prose-width">{{ member.department }}</p>
+        {% endif %}
+        <!--<a href="mailto:{{ member.email }}">{{ member.email }}</a>-->
+      </div>
     </div>
-    {% endfor %}
+  </div>
+  {% endfor %}
 </div>
-
 <p>** Chair</p>
 <p>^ Principal Statistical Agency and Recognized Units</p>
 <p>* Statistical Official</p>
