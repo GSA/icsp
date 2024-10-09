@@ -8,7 +8,7 @@
     "start": "bundle exec jekyll serve",
     "start-detached": "bundle exec jekyll serve --detach",
     "htmlproofer": "bundle exec htmlproofer _site",
-    "pa11y-ci:sitemap": "pa11y-ci --sitemap http://localhost:4000/sitemap.xml --sitemap-exclude \"/*.pdf\"  --sitemap-exclude \"/admin\""
+    "pa11y-ci:sitemap": "pa11y-ci --sitemap https://federalist-92a82776-1dfb-4c5a-9366-896b2f358138.sites.pages.cloud.gov/preview/gsa/icsp/feature/RITM1251437-1/sitemap.xml --sitemap-exclude \"/*.pdf\"  --sitemap-exclude \"/admin\""
   },
   "dependencies": {
     "@uswds/uswds": "3.8.0",
