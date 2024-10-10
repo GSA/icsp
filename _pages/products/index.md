@@ -15,6 +15,12 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
   <li>
+    On September 27, 2024, OMB published the <a href="https://www.whitehouse.gov/wp-content/uploads/2024/09/pfei_schedule_release_dates_cy2025_09202024.pdf" target="_blank" rel="noopener" class="usa-link--external">2025 schedule of release dates for Principal Federal Economic Indicators</a>. For more information on this and OMB Statistical Policy Directive No. 3, see the <a href="https://www.statspolicy.gov/policies/" target="_blank" rel="noopener" class="usa-link--external">Policies</a> page.
+  </li>
+  <li>
+    The Interagency Council on Statistical Policy recently adopted <a href="https://www.statspolicy.gov/assets/uploads/Fiscal%20Years%202025%20and%202026%20Strategic%20Goals%20and%20Objectives_ICSP_508checked_hyperlinked_Sept2024.pdf" target="_blank" rel="noopener" class="usa-link--external">Fiscal Years 2025 and 2026 Strategic Goals and Objectives</a>. These Goals and Objectives propel the U.S. Federal statistical system toward our vision of operating as a seamless system — to become more efficient and effective in providing useful, objective, high-quality statistical data and meaningfully and safely expanding access to these data for evidence-building purposes. To learn more about the ICSP and its FY25–FY26 Strategic Goals and Objectives, visit our <a href="https://www.statspolicy.gov/about/#icsp" target="_blank" rel="noopener" class="usa-link--external">About Us</a> page. 
+  </li>
+  <li>
       On June 12, 2024, OMB published <a href="https://www.federalregister.gov/documents/2024/06/12/2024-12825/statistical-policy-directive-no-10-standard-occupational-classification-soc-request-for-comments-on" target="_blank" rel="noopener" class="usa-link--external">a Federal Register Notice (FRN) on Statistical Policy Directive No. 10: Standard Occupational Classification (SOC) System</a>. This FRN publicly announces the start of the 2028 SOC revision cycle and seeks comment on potential revisions for 2028. The SOC classifies all occupations in the U.S. economy, including private, public, and military occupations. The purpose of its 10-year review and revision cycle is to maintain currency and ensure the efficiency and effectiveness of the Federal statistical system, as well as enable continued comparability and relevance of statistical data produced by statistical agencies. Accordingly, this process is designed exclusively for statistical purposes – that is, not for regulatory, enforcement, program administration, or other non-statistical purposes. Comments are due by August 12, 2024, and can be submitted on <a href="https://www.regulations.gov/" target="_blank" rel="noopener" class="usa-link--external">regulations.gov</a> under Docket ID “<a href="https://www.regulations.gov/document/BLS-2024-0001-0001" target="_blank" rel="noopener" class="usa-link--external">BLS-2024-0001</a>”.
   </li>
 
@@ -124,6 +130,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 </ul>
 
 <p>In addition, CSOTUS is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year. Schedules for recent years back to 2017 are linked here: 
+<a href="https://www.whitehouse.gov/wp-content/uploads/2024/09/pfei_schedule_release_dates_cy2025_09202024.pdf" class="usa-link--external" target="_blank" rel="noopener">2025</a>
 <a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/pfei_schedule_release_dates_2024.pdf" class="usa-link--external" target="_blank" rel="noopener" >2024</a>, 
 <a href="https://www.whitehouse.gov/wp-content/uploads/2022/09/pfei_schedule_release_dates_2023.pdf" class="usa-link--external" target="_blank" rel="noopener" >2023</a>, 
 <a href="https://www.whitehouse.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf" class="usa-link--external" target="_blank" rel="noopener" >2022</a>,
