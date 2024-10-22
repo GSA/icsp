@@ -98,7 +98,8 @@ primary_navigation:
     url: /policies/
   - name: Products
     url: /products/
-
+  - name: News
+    url: /news/
     
 strategic_priorities_nav:
   - name: Strategic Priorities

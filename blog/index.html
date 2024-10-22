@@ -1,0 +1,119 @@
+---
+layout: wide
+description:
+title: News
+permalink: /news/
+---
+
+<div id="blog" class="usa-graphic-list usa-section sml-margin bg-gradient">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="priority-tag-line">
+        <h1 class="margin-0 font-ui-2xl">News</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<section class="usa-graphic-list margin-bottom-4">
+  <div class="grid-container">
+    <div class="grid-row">
+      <div class="usa-layout-docs__main desktop:grid-col-12 usa-prose">
+        <section class="usa-graphic-list margin-bottom-4">
+          <div class="grid-container margin-0 padding-0">
+            <div class="usa-graphic-list__row grid-row grid-gap">
+
+              <!--***********buttons for News Filter page*********************************************-->
+              <div class="usa-media-block tablet:grid-col-3 padding-top-4">
+                <a class="usa-button btn-primary" href="{{ site.baseurl }}/news/#subject=*&role=*&status=*">Reset
+                  Filter</a>
+                <nav id="filter" class="filters" aria-label="filter menu">
+
+                  <h2 class="filter-title font-sans-sm">Filter by Tags</h2>
+                  <ul class="filter-list" data-filter-group="content">
+                    <li><a aria-label="Filter by Type: Evaluation" role="checkbox" href="javascript:void(0)"
+                        data-filter=".evaluation">Evaluation</a></li>
+                    <li><a aria-label="Filter by Type: Evidence Act" role="checkbox" href="javascript:void(0)"
+                        data-filter=".evidence-act">Evidence Act</a></li>
+                    <li><a aria-label="Filter by Type: Guidance" role="checkbox" href="javascript:void(0)"
+                        data-filter=".guidance">Guidance</a></li>
+                    <li><a aria-label="Filter by Type: Policy" role="checkbox" href="javascript:void(0)"
+                        data-filter=".policy-filter">Policy</a></li>
+                    <li><a aria-label="Filter by Type: ICEP" role="checkbox" href="javascript:void(0)"
+                        data-filter=".icep">ICEP</a></li>
+                    <li><a aria-label="Filter by Type: Evaluation Officer Council" role="checkbox"
+                        href="javascript:void(0)" data-filter=".evaluation-officer-council">Evaluation Officer
+                        Council</a></li>
+                    <li><a aria-label="Filter by Type: In the Spotlight" role="checkbox" href="javascript:void(0)"
+                        data-filter=".in-the-spotlight">In the Spotlight</a></li>
+                    <li><a aria-label="Filter by Type: Year of Evidence" role="checkbox" href="javascript:void(0)"
+                        data-filter=".year-of-evidence">Year of Evidence</a></li>
+                    <li><a aria-label="Filter by Type: Equity" role="checkbox" href="javascript:void(0)"
+                        data-filter=".equity">Equity</a></li>
+                    <li><a aria-label="Filter by Type: Evidence Use" role="checkbox" href="javascript:void(0)"
+                        data-filter=".evidence-use">Evidence Use</a></li>
+                    <li><a aria-label="Filter by Type: Evidence Use" role="checkbox" href="javascript:void(0)"
+                        data-filter=".public-participation">Public Participation</a></li>
+                    <li><a aria-label="Filter by Type: Evidence Use" role="checkbox" href="javascript:void(0)"
+                        data-filter=".community-engagement">Community Engagement</a></li>
+                  </ul>
+                </nav>
+              </div>
+
+              <div class="usa-media-block tablet:grid-col-9">
+                <p class="filter-count card-tag text-gray-50 text-thin count padding-top-4"></p>
+                <!-- This loops through the paginated posts -->
+                <div class="news">
+                  {% for post in site.posts %}
+                  <div class="usa-prose border-bottom-05 padding-y-3 border-base-lightest policy {{ post.filters }}">
+                    <h3 class="title">
+                      <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+                    </h3>
+                    <div class="text-base margin-bottom-2">
+                      <div class="margin-top-neg-105">
+                        By <span class="text-bold">{{ post.author }}</span> · {{ post.date |
+                        date: '%B %d, %Y' }}
+                      </div>
+                    </div>
+
+                    <div>
+                      {% if post.thumbnail %}
+                      <img class="tablet:float-left width-15 padding-right-2 padding-top-1 padding-bottom-2 post-img"
+                        src="{{ site.baseurl }}/assets/images/blog/{{ post.thumbnail }}"
+                        alt="{{ post.thumbnail-alt }}" />
+                      {% else %}
+                      <img class="tablet:float-left width-15 padding-right-2 padding-top-1 padding-bottom-2 post-img"
+                        src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.img-alt }}" />
+                      {% endif %}
+                      <p class="font-sans-sm text-ink">{{ post.excerpt }} <a href="{{site.baseurl}}{{post.permalink}}"
+                          aria-label="Read more about {{ post.title }}">Read more</a></p>
+                      {% comment %}
+                      We default to using post.content, but you can also use post.excerpt.
+                      If you use excerpt then you have to make sure the content is on each
+                      post header
+                      {% endcomment %}
+                      <div class="tag-spacing">
+                        {% if post.tags.size > 0 %}
+                        <!--<b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>-->
+                        {% assign tags = post.tags %}
+                        <ul class="tags" aria-label="filter" role="list">
+                          {% for tag in tags %}
+                          <li class="tag" aria-label="Filter Tag" role="listitem">{{ tag }}</li>
+                          {% endfor %}
+                        </ul>
+                        {% endif %}
+                      </div>
+
+                    </div>
+                  </div>
+
+                  {% endfor %}
+                </div>
+                <!-- Pagination links -->
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+</section>
