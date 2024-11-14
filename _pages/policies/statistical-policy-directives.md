@@ -22,7 +22,7 @@ section: policies
     </ul>
   </li>
   <li style="margin-bottom:15px">
-    <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/OMB/inforeg/statpolicy/dir_3_fr_09251985.pdf"  target="_blank" rel="noopener" ><span>Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</span></a>
+    <a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf"  target="_blank" rel="noopener" ><span>Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</span></a>
     <ul>
       <li style="margin-bottom:15px">
         <a href="https://www.whitehouse.gov/wp-content/uploads/2020/09/pfei_schedule_release_dates_2021.pdf" target="_blank" rel="noopener" ><span>Schedule of Release Dates for Principal Federal Economic Indicators for 2021</span></a>
@@ -37,7 +37,7 @@ section: policies
         <a href="https://www.census.gov/economic-indicators/PEI_Schedule_of_Release_Dates_2018_ALL_v2.pdf"  target="_blank" rel="noopener" ><span>Schedule of Release Dates for Principal Federal Economic Indicators for 2018</span></a>
       </li>
       <li style="margin-bottom:15px">
-        <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf"  target="_blank" rel="noopener" ><span>Schedule of Release Dates for Principal Federal Economic Indicators for 2017</span></a>
+        <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf"  target="_blank" rel="noopener" ><span>Schedule of Release Dates for Principal Federal Economic Indicators for 2017</span></a>
       </li>
     </ul>
   </li>
@@ -61,7 +61,7 @@ section: policies
         <a href="https://www.whitehouse.gov/wp-content/uploads/2018/09/Bulletin-18-04.pdf" target="_blank" rel="noopener" >OMB Bulletin No. 18-04, Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses o of the Delineations of These Areas</a>
       </li>
       <li style="margin-bottom:15px">
-        <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/bulletins/2017/b-17-01.pdf" target="_blank" rel="noopener" ><span>OMB Bulletin No. 17-01, Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses of the Delineations of These Areas</span></a>
+        <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/bulletins/2017/b-17-01.pdf" target="_blank" rel="noopener" ><span>OMB Bulletin No. 17-01, Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses of the Delineations of These Areas</span></a>
       </li>
       <li style="margin-bottom:15px">
         <a href="https://www.census.gov/programs-surveys/metro-micro.html" target="_blank" rel="noopener" >Additional Information via the Census Bureau</a>
@@ -69,7 +69,7 @@ section: policies
     </ul>
   </li>
   <li style="margin-bottom:15px">
-    <a href="https://www.census.gov/eos/www/naics/federal_register_notices/notices/fr08au16.pdf"  target="_blank" rel="noopener" ><span>Directive No. 8: North American Industry Classification System (NAICS)/Standard Industrial Classification (SIC)</span></a>
+    <a href="https://www.govinfo.gov/content/pkg/FR-2021-12-21/pdf/2021-27536.pdf"  target="_blank" rel="noopener" ><span>Directive No. 8: North American Industry Classification System (NAICS)/Standard Industrial Classification (SIC)</span></a>
   </li>
   <li style="margin-bottom:15px">
     <a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf"  target="_blank" rel="noopener" ><span>Directive No. 10: Standard Occupational Classification (SOC)</span></a>
