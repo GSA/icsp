@@ -3,7 +3,7 @@ ruby '>= 3.1.3'
 source "https://rubygems.org"
 
 gem "jekyll", "4.3.3"
-gem "webrick"
+gem "webrick", ">= 1.8.2"
 gem "sprockets", "~> 3.7"
 gem "kramdown-parser-gfm", "~> 1.1.0"
 
