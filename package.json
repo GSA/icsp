@@ -17,8 +17,10 @@
   "devDependencies": {
     "pa11y-ci": "^2.4.0",
     "rimraf": "^3.0.2"
+  
   },
   "overrides": {
-    "immer": "9.0.6"
+    "immer": "9.0.6",
+    "trim":">=0.0.3"
   }
 }
