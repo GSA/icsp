@@ -3,7 +3,7 @@ ruby '>= 3.1.3'
 source "https://rubygems.org"
 
 gem "jekyll", "4.3.3"
-gem "webrick"
+gem "webrick", ">= 1.8.2"
 gem "sprockets", "~> 3.7"
 gem "kramdown-parser-gfm", "~> 1.1.0"
 
@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2', "3.0.0"  
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-liquify', "0.0.2"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
