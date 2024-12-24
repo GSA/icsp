@@ -17,6 +17,12 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li>
     On Friday, October 11, 2024, OMB released the <a href="https://www.federalregister.gov/public-inspection/2024-23536/fundamental-responsibilities-of-recognized-statistical-agencies-and-units" target="_blank" rel="noopener" class="usa-link--external">Fundamental Responsibilities of Statistical Agencies and Units Final Rule</a>. This final rule, known as the Trust Regulation, sets forth requirements for recognized statistical agencies and units to carry out their four fundamental responsibilities, as articulated in the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act). It also sets forth requirements for all other agencies to “enable, support, and facilitate” the recognized statistical agencies and units in carrying out their responsibilities. For more information, read the <a href="https://www.whitehouse.gov/omb/briefing-room/2024/10/10/omb-publishes-the-trust-regulation-to-strengthen-the-u-s-federal-statistical-systems-ability-to-produce-accurate-objective-and-trustworthy-information/" target="_blank" rel="noopener" class="usa-link--external">announcement</a> from the Chief Statistician of the United States.
   </li>
+  <li>
+    <a href="{{ site.baseurl }}/fiscal-year-2024-news/" class="usa-link--external" target="_blank" rel="noopener">Fiscal Year 2024 News</a>
+  </li>
+  <li>
+    <a href="{{ site.baseurl }}/fiscal-year-2023-news/" class="usa-link--external" target="_blank" rel="noopener">Fiscal Year 2023 News</a>
+  </li>
   <li class="maxw-full">The Advisory Committee for Data on Evidence Building issued its final report with recommendations on October 14, 2022. For more information, visit the <a href="https://www.bea.gov/evidence" class="usa-link--external" target="_blank" rel="noopener" >ACDEB website</a>.</li>
 </ul>
 <h3 class="font-serif-lg">Office of the Chief Statistician of the United States / Office of Management and Budget</h3>
