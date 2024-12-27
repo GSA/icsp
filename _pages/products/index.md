@@ -28,7 +28,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   </li>
 
   <li>
-      Improving Federal Disability Data: The Office of Science and Technology Policy, The Office of Management and Budget of the United States, and the National Institute on Disability, Independent Living, and Rehabilitation Research are co-chairing a <strong>Disability Data Interagency Working Group (DDIWG)</strong>, tasked with the development and release of a Federal Evidence Agenda on Disability Equity, in order to improve the Federal government’s ability to make data-informed policy decisions that advance equity for the disability community. This working group recently published a Request for Information in the Federal Register seeking public input on:
+      Improving Federal Disability Data: The Office of Science and Technology Policy, the Office of Management and Budget of the United States, and the National Institute on Disability, Independent Living, and Rehabilitation Research are co-chairing a <strong>Disability Data Interagency Working Group (DDIWG)</strong>, tasked with the development and release of a Federal Evidence Agenda on Disability Equity, in order to improve the Federal government’s ability to make data-informed policy decisions that advance equity for the disability community. This working group recently published a Request for Information in the Federal Register seeking public input on:
       <ul>
           <li>The evidence needed to better describe disparities faced by people with disabilities</li>
           <li>How to best collect data on disabilities</li>
