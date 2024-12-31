@@ -114,11 +114,8 @@ skip: true
 <ul class="usa-list">
   <li>
     <a href="https://www.federalregister.gov/documents/2024/06/12/2024-12825/statistical-policy-directive-no-10-standard-occupational-classification-soc-request-for-comments-on" class="usa-link--external" target="_blank">Federal Register Notice for Comment on the 2028 SOC Revision Process</a>
-    <ul class="usa-list">
-      <li><a href="https://www.regulations.gov/document/BLS-2024-0001-0001" class="usa-link--external" target="_blank">Comments will be accepted through August 12, 2024.</a></li>
-    </ul>
   </li>
-  <li>More information can be found at: <a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank">BLS SOC 2018</a></li>
+  <li>More information can be found at: <a href="https://www.bls.gov/soc/" class="usa-link--external" target="_blank">BLS SOC 2018</a></li>
 </ul>
 </p>
 

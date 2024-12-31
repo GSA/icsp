@@ -28,15 +28,8 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   </li>
 
   <li>
-      Improving Federal Disability Data: The Office of Science and Technology Policy, the Office of Management and Budget of the United States, and the National Institute on Disability, Independent Living, and Rehabilitation Research are co-chairing a <strong>Disability Data Interagency Working Group (DDIWG)</strong>, tasked with the development and release of a Federal Evidence Agenda on Disability Equity, in order to improve the Federal government’s ability to make data-informed policy decisions that advance equity for the disability community. This working group recently published a Request for Information in the Federal Register seeking public input on:
-      <ul>
-          <li>The evidence needed to better describe disparities faced by people with disabilities</li>
-          <li>How to best collect data on disabilities</li>
-          <li>How to improve public access to disability data</li>
-          <li>How to best protect privacy, security, and civil rights of individuals who provide data on their disability status
-          </li>
-      </ul>
-      The notice is open for comment until July 15, 2024 and can be found <a href="https://www.federalregister.gov/documents/2024/05/30/2024-11838/notice-of-availability-and-request-for-information-federal-evidence-agenda-on-disability-equity" target="_blank" rel="noopener" class="usa-link--external">here</a>.  
+      Improving Federal Disability Data: The Office of Science and Technology Policy, the Office of Management and Budget of the United States, and the National Institute on Disability, Independent Living, and Rehabilitation Research are co-chairing a <strong>Disability Data Interagency Working Group (DDIWG)</strong>, tasked with the development and release of a Federal Evidence Agenda on Disability Equity, in order to improve the Federal government’s ability to make data-informed policy decisions that advance equity for the disability community. This working group recently published a Request for Information in the Federal Register seeking public input until July 15, 2024 and can be found <a href="https://www.federalregister.gov/documents/2024/05/30/2024-11838/notice-of-availability-and-request-for-information-federal-evidence-agenda-on-disability-equity" target="_blank" rel="noopener" class="usa-link--external">here</a>.
+      In addition to public briefings, meetings, and events, the U.S. Chief Statistician aims to transparently provide important information through public announcements  
   </li>
 
   <li>On March 28, 2024, OMB published a set of long-awaited updates to Statistical Policy Directive No. 15 (Directive No. 15): Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity. Thanks to the hard work of staff across dozens of Federal agencies and input from thousands of members of the public, these updated standards will help create more useful, accurate, and up to date Federal data on race and ethnicity. They will enhance our ability to compare information and data across Federal agencies, and also to understand how well Federal programs serve a diverse America. You can read the updated Directive No. 15 on the <a href="https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and" target="_blank" rel="noopener" class="usa-link--external">Federal Register</a> as well as on <a href="https://spd15revision.gov/" target="_blank" rel="noopener" class="usa-link--external">spd15revision.gov</a>.</li>
@@ -126,11 +119,6 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 <p>As the leader and coordinator of the U.S. Federal statistical system, the U.S. Chief Statistician also leverages a variety of public engagement strategies to communicate with and hear directly from the public, including important stakeholders and communities, as well as to publicly share information on key initiatives, strategic priorities, and other important information about the U.S. Federal statistical system.</p>
 
 <p>In addition to public briefings, meetings, and events, the U.S. Chief Statistician aims to transparently provide important information through public announcements. Recent announcements are available below:</p>
-
-<ul class="usa-list">
-  <li>In August 2022, <a href="https://www.whitehouse.gov/omb/briefing-room/2022/08/30/omb-launches-new-public-listening-sessions-on-federal-race-and-ethnicity-standards-revision/" class="usa-link--external" target="_blank" rel="noopener" >the U.S. Chief Statistician announced the launch of new public listening sessions on Federal race and ethnicity standards revision.</a></li>
-  <li>In June 2022, <a href="https://www.whitehouse.gov/omb/briefing-room/2022/06/15/reviewing-and-revising-standards-for-maintaining-collecting-and-presenting-federal-data-on-race-and-ethnicity/" class="usa-link--external" target="_blank" rel="noopener" >the U.S. Chief Statistician announced the launch of the review and revision process for OMB's standards for maintaining, collecting, and presenting federal data on race and ethnicity.</a></li>
-</ul>
 
 <p>In addition, the U.S. Chief Statistician is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year. Schedules for recent years back to 2017 are linked here: 
 <a href="https://www.whitehouse.gov/wp-content/uploads/2024/09/pfei_schedule_release_dates_cy2025_09202024.pdf" class="usa-link--external" target="_blank" rel="noopener">2025</a>
