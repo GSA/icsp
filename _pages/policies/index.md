@@ -5,7 +5,7 @@ layout: page
 permalink: /policies/
 skip: true
 ---
-<p>Laws, policies, and guidance help the Office of the Chief Statistician of the United States (OCSOTUS), the Interagency Council on Statistical Policy (ICSP), and other leaders and members of the statistical system coordinate statistical work across the Federal Government. This ensures the creation of relevant, timely, credible, and cohesive statistical information is created to inform evidence-based decision-making, while protecting the responses of individual data providers.</p>
+<p>Laws, policies, and guidance help the U.S. Chief Statistician, the Interagency Council on Statistical Policy (ICSP), and other leaders and members of the statistical system coordinate statistical work across the Federal Government. This ensures the creation of relevant, timely, credible, and cohesive statistical information is created to inform evidence-based decision-making, while protecting the responses of individual data providers.</p>
 
 <p>Major laws, policies, and guidance often apply to one or more phases or aspects of the information lifecycle &mdash; planning, data acquisition, providing access, and disseminating the resulting information.</p>
 
@@ -13,7 +13,7 @@ skip: true
 
 <h2 class="font-serif-lg">Cross Cutting</h2>
 
-<p>The <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35&edition=prelim" class="usa-link--external" target="_blank" rel="noopener" >Paperwork Reduction Act of 1995 (codified as amended at 44 U.S.C. 3501–3520)</a> provides for the coordination of Federal information policy. Among other things, it establishes the role of the CSOTUS and the ICSP, and enumerates the responsibilities and authorities bestowed on them. It also governs information creation, collection, disclosure, maintenance, use, sharing and dissemination by or for the Federal government.</p>
+<p>The <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35&edition=prelim" class="usa-link--external" target="_blank" rel="noopener" >Paperwork Reduction Act of 1995 (codified as amended at 44 U.S.C. 3501–3520)</a> provides for the coordination of Federal information policy. Among other things, it establishes the role of the U.S. Chief Statistician and the ICSP, and enumerates the responsibilities and authorities bestowed on them. It also governs information creation, collection, disclosure, maintenance, use, sharing and dissemination by or for the Federal government.</p>
 
 <p>The <a href="https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title44%2Fchapter35%2Fsubchapter3&edition=prelim" class="usa-link--external" target="_blank" rel="noopener" >Confidential Information Protection and Statistical Efficiency Act of 2018 (codified at 44 U.S.C. 3561–3583) or CIPSEA 2018</a> (pronounced sip-c), also known as Title III of the Foundations for Evidence-Based Policymaking Act of 2018, reaffirms and expands CIPSEA 2002. Among other things, it codifies the fundamental responsibilities of Federal statistical agencies and units to ensure public trust, and gives statistical agencies and units responsibilities and authorities to facilitate more effective evidence building.</p>
 
@@ -39,7 +39,7 @@ skip: true
 </ul>
 </p>
 
-<p><a href="https://www.whitehouse.gov/wp-content/uploads/2023/01/SOGI-Best-Practices.pdf" class="usa-link--external" target="_blank" rel="noopener" >Recommendations on the Best Practices for the Collection of Sexual Orientation and Gender Identity Data on Federal Statistical Surveys</a> was developed by the Office of the Chief Statistician of the United States to provide recommendations for Federal agencies on the current best practices for the collection of self-reported sexual orientation and gender identity (SOGI) data on Federal statistical surveys. These recommendations build on a long history of robust Federal effort to develop and refine SOGI measurement best practices.</p>
+<p><a href="https://www.whitehouse.gov/wp-content/uploads/2023/01/SOGI-Best-Practices.pdf" class="usa-link--external" target="_blank" rel="noopener" >Recommendations on the Best Practices for the Collection of Sexual Orientation and Gender Identity Data on Federal Statistical Surveys</a> was developed by the Office of Management and Budget to provide recommendations for Federal agencies on the current best practices for the collection of self-reported sexual orientation and gender identity (SOGI) data on Federal statistical surveys. These recommendations build on a long history of robust Federal effort to develop and refine SOGI measurement best practices.</p>
 
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/2018/10/2020_Memo_Minimizing_Household_Surveys.pdf" class="usa-link--external" target="_blank" rel="noopener" >Minimizing Household Surveys during the 2020 Census of Population</a>, and similar memorandum issued in prior decades, places a moratorium on new information collections during the decennial census, given its unique constitutional requirements and overall importance to the nation.</p>
 
@@ -112,13 +112,7 @@ skip: true
 
 <p><a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 10: Standard Occupational Classification (SOC) System</a> classifies all occupations in the economy, including private, public, and military occupations, to facilitate comparability across occupational data produced for statistical purposes by Federal agencies.
 <ul class="usa-list">
-  <li>
-    <a href="https://www.federalregister.gov/documents/2024/06/12/2024-12825/statistical-policy-directive-no-10-standard-occupational-classification-soc-request-for-comments-on" class="usa-link--external" target="_blank">Federal Register Notice for Comment on the 2028 SOC Revision Process</a>
-    <ul class="usa-list">
-      <li><a href="https://www.regulations.gov/document/BLS-2024-0001-0001" class="usa-link--external" target="_blank">Comments will be accepted through August 12, 2024.</a></li>
-    </ul>
-  </li>
-  <li>More information can be found at: <a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank">BLS SOC 2018</a></li>
+  <li>More information can be found at: <a href="https://www.bls.gov/soc/" class="usa-link--external" target="_blank">BLS SOC 2018</a></li>
 </ul>
 </p>
 
