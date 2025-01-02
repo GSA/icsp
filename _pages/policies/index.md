@@ -112,9 +112,6 @@ skip: true
 
 <p><a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 10: Standard Occupational Classification (SOC) System</a> classifies all occupations in the economy, including private, public, and military occupations, to facilitate comparability across occupational data produced for statistical purposes by Federal agencies.
 <ul class="usa-list">
-  <li>
-    <a href="https://www.federalregister.gov/documents/2024/06/12/2024-12825/statistical-policy-directive-no-10-standard-occupational-classification-soc-request-for-comments-on" class="usa-link--external" target="_blank">Federal Register Notice for Comment on the 2028 SOC Revision Process</a>
-  </li>
   <li>More information can be found at: <a href="https://www.bls.gov/soc/" class="usa-link--external" target="_blank">BLS SOC 2018</a></li>
 </ul>
 </p>
