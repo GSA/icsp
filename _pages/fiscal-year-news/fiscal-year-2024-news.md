@@ -21,15 +21,7 @@ tagline_title: Fiscal Year 2024 News
   </li>
 
   <li>
-      Improving Federal Disability Data: The Office of Science and Technology Policy, The Office of the Chief Statistician of the United States, and the National Institute on Disability, Independent Living, and Rehabilitation Research are co-chairing a <strong>Disability Data Interagency Working Group (DDIWG)</strong>, tasked with the development and release of a Federal Evidence Agenda on Disability Equity, in order to improve the Federal government’s ability to make data-informed policy decisions that advance equity for the disability community. This working group recently published a Request for Information in the Federal Register seeking public input on:
-      <ul>
-          <li>The evidence needed to better describe disparities faced by people with disabilities</li>
-          <li>How to best collect data on disabilities</li>
-          <li>How to improve public access to disability data</li>
-          <li>How to best protect privacy, security, and civil rights of individuals who provide data on their disability status
-          </li>
-      </ul>
-      The notice is open for comment until July 15, 2024 and can be found <a href="https://www.federalregister.gov/documents/2024/05/30/2024-11838/notice-of-availability-and-request-for-information-federal-evidence-agenda-on-disability-equity" target="_blank" rel="noopener" class="usa-link--external">here</a>.  
+      Improving Federal Disability Data: The Office of Science and Technology Policy, the Office of Management and Budget, and the National Institute on Disability, Independent Living, and Rehabilitation Research are co-chairing a Disability Data Interagency Working Group (DDIWG), tasked with the development and release of a Federal Evidence Agenda on Disability Equity in order to improve the Federal government's ability to make data-informed policy decisions. This working group recently published a Request for Information in the Federal Register seeking public input until July 15, 2024 and can be found <a href="https://www.federalregister.gov/documents/2024/05/30/2024-11838/notice-of-availability-and-request-for-information-federal-evidence-agenda-on-disability-equity" target="_blank" rel="noopener" class="usa-link--external">here</a>.  
   </li>
 
   <li>On March 28, 2024, OMB published a set of long-awaited updates to Statistical Policy Directive No. 15 (Directive No. 15): Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity. Thanks to the hard work of staff across dozens of Federal agencies and input from thousands of members of the public, these updated standards will help create more useful, accurate, and up to date Federal data on race and ethnicity. They will enhance our ability to compare information and data across Federal agencies, and also to understand how well Federal programs serve a diverse America. You can read the updated Directive No. 15 on the <a href="https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and" target="_blank" rel="noopener" class="usa-link--external">Federal Register</a> as well as on <a href="https://spd15revision.gov/" target="_blank" rel="noopener" class="usa-link--external">spd15revision.gov</a>.</li>
