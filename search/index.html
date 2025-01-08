@@ -11,7 +11,8 @@ title: Search
   var urlParams = new URLSearchParams(window.location.search);
   var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
   params = { affiliate: "{{site.searchgov.affiliate}}", access_key: "{{site.searchgov.access_key}}", query: urlParams.get('query') }
-
+  var query = params["query"];
+  console.log('the query is ' + query);
 
   Object.keys(params).forEach(key => searchEndpoint.searchParams.append(key, params[key]))
 
@@ -34,6 +35,8 @@ title: Search
       if(document.getElementById('search-results').childNodes.length == 0){
         render_result(`<div class="title">No results found</div>`, false)
       }
+      
+      document.getElementById('search-term').textContent = ` ${query} (${document.getElementById('search-results').childNodes.length})`;
 
     })
 
@@ -47,8 +50,10 @@ title: Search
 
 
 {% if site.searchgov %}
+  <span style="display:inline-block;">Search Results for </span><h3 id="search-term" style="display: inline-block; margin-left: 5px;"></h3>
   <h1>Search Results</h1>
   <ol id="search-results"></ol>
+  <br>
 
   {% if site.searchgov.affiliate == "federalist-uswds-example" %}
     <div class="usa-alert usa-alert--info">
