@@ -80,7 +80,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
     <span>FY 2023:</span>
     <ul>
       <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="FY 2023 AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
-      <li> Report: <i>Forthcoming</i></li>
+      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Statistical Programs of the United States Government 2023">Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
   <li>
