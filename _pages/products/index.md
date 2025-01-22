@@ -15,6 +15,25 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
   <li>
+      On January 15, 2025, OMB published the <a
+          href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf"
+          target="_blank" rel="noopener" class="usa-link--external">Fiscal Year 2023 Statistical Programs of the U.S.
+      Government</a> report to the Congress outlining the budgets supporting Federal statistical activities. This report
+      fulfills the responsibility of OMB to prepare a report on statistical program funding under the Paperwork Reduction
+      Act of 1995. This report provides the Congress with a consolidated source for key budget and program information
+      about the Federal Statistical System.
+  </li>
+  <li>
+      On January 15, 2025, OMB released guidance to agencies on implementation of the Open, Public, Electronic, and
+      Necessary (OPEN) Government Data Act, also known as Title II of the Foundations for Evidence-Based Policymaking Act
+      of 2018. OMB Memorandum M-25-05, “<a
+          href="https://www.whitehouse.gov/wp-content/uploads/2025/01/M-25-05-Phase-2-Implementation-of-the-Foundations-for-Evidence-Based-Policymaking-Act-of-2018-Open-Government-Data-Access-and-Management-Guidance.pdf"
+          target="_blank" rel="noopener" class="usa-link--external">Phase 2 Implementation of the Foundations for
+          Evidence-Based Policymaking Act of 2018: Open Data Access and Management</a>,” outlines a systematic approach to
+      open data that will better facilitate data access, subject to appropriate safeguards for privacy, confidentiality,
+      and security.
+  </li>
+  <li>
     On Thursday, January 2, 2025, StatsPolicy.gov became live on LinkedIn! It is hosted by the Interagency Council on Statistical Policy (ICSP) as a go-to destination for everything related to the U.S. Federal statistical system. Stay updated on community events, announcements, initiatives, program priorities, and more! Follow <a href="https://www.linkedin.com/company/statspolicy-gov/" target="_blank" rel="noopener" class="usa-link--external">StatsPolicy.gov</a> today.
   </li>
   <li>
@@ -61,7 +80,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
     <span>FY 2023:</span>
     <ul>
       <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="FY 2023 AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
-      <li> Report: <i>Forthcoming</i></li>
+      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Statistical Programs of the United States Government 2023">Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
   <li>

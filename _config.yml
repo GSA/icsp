@@ -247,6 +247,7 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
+  - _pages/strategic-priorities/
 
 autoprefixer:
   browsers:
