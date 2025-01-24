@@ -41,8 +41,6 @@ skip: true
 </ul>
 </p>
 
-<p><a href="https://www.whitehouse.gov/wp-content/uploads/2023/01/SOGI-Best-Practices.pdf" class="usa-link--external" target="_blank" rel="noopener" >Recommendations on the Best Practices for the Collection of Sexual Orientation and Gender Identity Data on Federal Statistical Surveys</a> was developed by the Office of Management and Budget to provide recommendations for Federal agencies on the current best practices for the collection of self-reported sexual orientation and gender identity (SOGI) data on Federal statistical surveys. These recommendations build on a long history of robust Federal effort to develop and refine SOGI measurement best practices.</p>
-
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/2018/10/2020_Memo_Minimizing_Household_Surveys.pdf" class="usa-link--external" target="_blank" rel="noopener" >Minimizing Household Surveys during the 2020 Census of Population</a>, and similar memorandum issued in prior decades, places a moratorium on new information collections during the decennial census, given its unique constitutional requirements and overall importance to the nation.</p>
 
 <h3 class="font-serif-lg">Confidentiality, Data Access, and Data Sharing</h3>
