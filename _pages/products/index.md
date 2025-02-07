@@ -150,7 +150,7 @@ ICSP Products:
   <li>
     <span>2021:</span>
     <ul>
-      <li><a href="{{ site.baseurl }}/assets/docs/ICSP-COVID-19-Report_011521.pdf">Statistical Agency Changes in Response to the COVID-19 Pandemic</a></li>
+      <li><a>Statistical Agency Changes in Response to the COVID-19 Pandemic</a></li>
     </ul>
   </li>
   <li>
