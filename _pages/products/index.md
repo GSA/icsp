@@ -15,10 +15,11 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
   <li>
-      On January 15, 2025, OMB published the <a
-          href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf"
-          target="_blank" rel="noopener" class="usa-link--external">Fiscal Year 2023 Statistical Programs of the U.S.
-      Government</a> report to the Congress outlining the budgets supporting Federal statistical activities. This report
+      On January 15, 2025, OMB published the 
+      <!-- <a href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf"
+          target="_blank" rel="noopener" class="usa-link--external">Fiscal Year 2023 Statistical Programs of the U.S. Government</a>  -->
+      Fiscal Year 2023 Statistical Programs of the U.S. Government 
+      report to the Congress outlining the budgets supporting Federal statistical activities. This report
       fulfills the responsibility of OMB to prepare a report on statistical program funding under the Paperwork Reduction
       Act of 1995. This report provides the Congress with a consolidated source for key budget and program information
       about the Federal Statistical System.
@@ -80,7 +81,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
     <span>FY 2023:</span>
     <ul>
       <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="FY 2023 AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Statistical Programs of the United States Government 2023">Statistical Programs of the United States Government</a></li>
+      <!-- <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Statistical Programs of the United States Government 2023">Statistical Programs of the United States Government</a></li> -->
     </ul>
   </li>
   <li>
@@ -170,7 +171,7 @@ ICSP Products:
 
 <h3 class="font-serif-lg">Related Links</h3>
 <ul class="usa-list" role="list">
-  <li role="listitem"><a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external" target="_blank" rel="noopener" >Office of Management and Budget - Office of Information and Regulatory Affairs - Programs and Standards</a></li>
+  <!-- <li role="listitem"><a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external" target="_blank" rel="noopener" >Office of Management and Budget - Office of Information and Regulatory Affairs - Programs and Standards</a></li> -->
   <li role="listitem"><a href="https://www.fcsm.gov/" class="usa-link--external" target="_blank" rel="noopener" >Federal Committee on Statistical Methodology</a></li>
   <li role="listitem"><a href="https://cybercemetery.unt.edu/archive/cep/20171002195205/https:/www.cep.gov/en.html" class="usa-link--external" target="_blank" rel="noopener" >Commission on Evidence-Based Policymaking</a></li>
   <li role="listitem"><a href="https://www.bea.gov/evidence" class="usa-link--external" target="_blank" rel="noopener" >Advisory Committee on Data for Evidence-Building</a></li>
