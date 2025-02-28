@@ -92,6 +92,8 @@ primary_navigation:
         url: /about/#members
       - name: Recognized Statisticial Agencies and Units
         url: /about/#statistical-agencies
+      - name: Sitemap Test page
+        url: "/test-sitemap/"
       - name: Cross-System Initiatives
         url: /about/#initiatives
   - name: Policies
