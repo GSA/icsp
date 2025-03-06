@@ -31,17 +31,17 @@ skip: true
 
 <h3 class="font-serif-lg">Information Collection</h3>
 
-<p>The <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/federal-collection-information/" class="usa-link--external" target="_blank" rel="noopener" >Office of Information and Regulatory Affairs</a> in the Office of Management and Budget issues government-wide guidance to implement the information collection requirements of the <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35&edition=prelim" class="usa-link--external" target="_blank">Paperwork Reduction Act.</a> These include regulations on <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/5_cfr_1320.pdf" class="usa-link--external" target="_blank">Controlling Paperwork Burdens on the Public</a> and much more.</p>
+<p>The <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/federal-collection-information/" class="usa-link--external" target="_blank" rel="noopener" >Office of Information and Regulatory Affairs</a> in the Office of Management and Budget issues government-wide guidance to implement the information collection requirements of the <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35&edition=prelim" class="usa-link--external" target="_blank">Paperwork Reduction Act.</a> These include regulations on Controlling Paperwork Burdens on the Public and much more.</p>
 
-<p><a href="https://www.whitehouse.gov/wp-content/uploads/2021/04/standards_stat_surveys.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 2: Standards and Guidelines for Statistical Surveys</a> establishes practices required across the survey lifecycle, with an emphasis on the planning and collection phases. Supplemental materials include:
+<p>Statistical Policy Directive No. 2: Standards and Guidelines for Statistical Surveys establishes practices required across the survey lifecycle, with an emphasis on the planning and collection phases. Supplemental materials include:
 <ul class="usa-list">
   <li><a href="https://www.govinfo.gov/content/pkg/FR-2006-09-22/pdf/06-8044.pdf" class="usa-link--external" target="_blank" rel="noopener" >Federal Register Notice</a></li>
   <li><a href="https://www.gpo.gov/fdsys/pkg/FR-2016-10-12/pdf/2016-24607.pdf" class="usa-link--external" target="_blank" rel="noopener" >Addendum: Standards and Guidelines for Cognitive Interviews</a></li>
-  <li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/pmc_survey_guidance_2006.pdf" class="usa-link--external" target="_blank" rel="noopener" >Guidance on Agency Survey and Statistical Information Collections</a></li>
+  <li>Guidance on Agency Survey and Statistical Information Collections</li>
 </ul>
 </p>
 
-<p><a href="https://www.whitehouse.gov/wp-content/uploads/2018/10/2020_Memo_Minimizing_Household_Surveys.pdf" class="usa-link--external" target="_blank" rel="noopener" >Minimizing Household Surveys during the 2020 Census of Population</a>, and similar memorandum issued in prior decades, places a moratorium on new information collections during the decennial census, given its unique constitutional requirements and overall importance to the nation.</p>
+<p>Minimizing Household Surveys during the 2020 Census of Population, and similar memorandum issued in prior decades, places a moratorium on new information collections during the decennial census, given its unique constitutional requirements and overall importance to the nation.</p>
 
 <h3 class="font-serif-lg">Confidentiality, Data Access, and Data Sharing</h3>
 
@@ -71,7 +71,7 @@ skip: true
   <a href="https://www.whitehouse.gov/wp-content/uploads/2018/09/pfei_schedule_releasedates_2019.pdf" class="usa-link--external" target="_blank" rel="noopener" >2019</a>, 
   <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/reports/pei_schedule_release_dates_2018_all_v2.pdf" class="usa-link--external" target="_blank" rel="noopener" >2018</a>, 
   <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf" class="usa-link--external" target="_blank" rel="noopener" >2017</a></li>
-  <li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/OMB/inforeg/statpolicy/dir_3_fr_09251985.pdf" class="usa-link--external" target="_blank" rel="noopener" >1985 Directive No. 3</a></li>
+  <li>1985 Directive No. 3</li>
 </ul>
 </p>
 
