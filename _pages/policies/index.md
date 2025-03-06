@@ -62,15 +62,15 @@ skip: true
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
 <ul class="usa-list">
   <li>Schedule of Release Dates for Principal Federal Economic Indicators: 
-  <a href="https://www.whitehouse.gov/wp-content/uploads/2024/09/pfei_schedule_release_dates_cy2025_09202024.pdf" class="usa-link--external" target="_blank" rel="noopener">2025</a>
-  <a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/pfei_schedule_release_dates_2024.pdf" class="usa-link--external" target="_blank" rel="noopener" >2024</a>, 
-  <a href="https://www.whitehouse.gov/wp-content/uploads/2022/09/pfei_schedule_release_dates_2023.pdf" class="usa-link--external" target="_blank" rel="noopener" >2023</a>, 
-  <a href="https://www.whitehouse.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf" class="usa-link--external" target="_blank" rel="noopener" >2022</a>, 
-  <a href="https://www.whitehouse.gov/wp-content/uploads/2020/09/pfei_schedule_release_dates_2021.pdf" class="usa-link--external" target="_blank" rel="noopener" >2021</a>, 
-  <a href="https://www.whitehouse.gov/wp-content/uploads/2019/09/pfei_schedule_release_dates_2020.pdf" class="usa-link--external" target="_blank" rel="noopener" >2020</a>, 
-  <a href="https://www.whitehouse.gov/wp-content/uploads/2018/09/pfei_schedule_releasedates_2019.pdf" class="usa-link--external" target="_blank" rel="noopener" >2019</a>, 
-  <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/reports/pei_schedule_release_dates_2018_all_v2.pdf" class="usa-link--external" target="_blank" rel="noopener" >2018</a>, 
-  <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf" class="usa-link--external" target="_blank" rel="noopener" >2017</a></li>
+  2025
+  2024, 
+  2023, 
+  2022, 
+  2021, 
+  2020, 
+  2019, 
+  2018, 
+  2017</li>
   <li>1985 Directive No. 3</li>
 </ul>
 </p>
