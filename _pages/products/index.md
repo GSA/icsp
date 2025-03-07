@@ -62,9 +62,9 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li>
     <span>FY 2025:</span>
     <ul>
-      <li>AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_statistics_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a>
+      <li>AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making
         <ul>
-          <li><a href="https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_10_supp_fy2025.pdf" target="_blank" rel="noopener" class="usa-link--external">Statistical Officials Highlights and Achievements</a></li>
+          <li>Statistical Officials Highlights and Achievements</li>
         </ul>
       </li>
       <li>Report: <i>Forthcoming</i></li>
@@ -73,29 +73,29 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li>
     <span>FY 2024:</span>
     <ul>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/ap_9_statistics_fy2024.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="FY 2024 AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li> AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</li>
       <li>Report: <i>Forthcoming</i></li>
     </ul>
   </li>
   <li>
     <span>FY 2023:</span>
     <ul>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="FY 2023 AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making">Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li> AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</li>
       <!-- <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Statistical Programs of the United States Government 2023">Statistical Programs of the United States Government</a></li> -->
     </ul>
   </li>
   <li>
     <span>FY 2021/2022:</span>
     <ul>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2024/02/statistical-programs-20212022.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Statistical Programs of the United States Government 2021/2022">Statistical Programs of the United States Government</a></li>
+      <li> Report: Statistical Programs of the United States Government</li>
     </ul>
   </li>
   <li>
     <span>FY 2019/2020:</span>
     <ul>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_15_statistics-fy2019.pdf" class="usa-link--external" target="_blank" rel="noopener"  aria-label="Strengthening Federal Statistics 2019/2020">Strengthening Federal Statistics</a></li>
+      <li> AP: Strengthening Federal Statistics</li>
       <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Building and Using Evidence to Improve Government Effectiveness 2019/2020">Building and Using Evidence to Improve Government Effectiveness</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2020/12/statistical-programs-20192020.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Statistical Programs of the United States Government 2019/2020">Statistical Programs of the United States Government</a></li>
+      <li> Report: Statistical Programs of the United States Government</li>
     </ul>
   </li>
   <li>
@@ -103,7 +103,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
     <ul>
       <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-7-2.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Strengthening Federal Statistics 2018">Strengthening Federal Statistics</a></li>
       <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" class="usa-link--external" target="_blank" rel="noopener"  aria-label="Building and Using Evidence to Improve Government Effectiveness 2018">Building and Using Evidence to Improve Government Effectiveness</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/05/statistical-programs-2018.pdf" class="usa-link--external" target="_blank" rel="noopener"  aria-label="Statistical Programs of the United States Government 2018">Statistical Programs of the United States Government</a></li>
+      <li> Report: Statistical Programs of the United States Government</li>
     </ul>
   </li>
   <li>
@@ -111,7 +111,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
     <ul>
       <li> AP: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/ap_16_statistics.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Strengthening Federal Statistics 2017">Strengthening Federal Statistics</a></li>
       <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2017-PER/pdf/BUDGET-2017-PER-4-3.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Building the Capacity to Produce and Use Evidence 2017">Building the Capacity to Produce and Use Evidence</a></li>
-      <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/information_and_regulatory_affairs/statistical-programs-2017.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Statistical Programs of the United States Government 2017">Statistical Programs of the United States Government</a></li>
+      <li> Report: Statistical Programs of the United States Government</li>
     </ul>
   </li>
 </ul>
@@ -121,15 +121,15 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 <p>In addition to public briefings, meetings, and events, the U.S. Chief Statistician aims to transparently provide important information through public announcements.</p>
 
 <p>In addition, the U.S. Chief Statistician is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year. Schedules for recent years back to 2017 are linked here: 
-<a href="https://www.whitehouse.gov/wp-content/uploads/2024/09/pfei_schedule_release_dates_cy2025_09202024.pdf" class="usa-link--external" target="_blank" rel="noopener">2025</a>
-<a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/pfei_schedule_release_dates_2024.pdf" class="usa-link--external" target="_blank" rel="noopener" >2024</a>, 
-<a href="https://www.whitehouse.gov/wp-content/uploads/2022/09/pfei_schedule_release_dates_2023.pdf" class="usa-link--external" target="_blank" rel="noopener" >2023</a>, 
-<a href="https://www.whitehouse.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf" class="usa-link--external" target="_blank" rel="noopener" >2022</a>,
-<a href="https://www.whitehouse.gov/wp-content/uploads/2020/09/pfei_schedule_release_dates_2021.pdf" class="usa-link--external" target="_blank" rel="noopener" >2021</a>,
-<a href="https://www.whitehouse.gov/wp-content/uploads/2019/09/pfei_schedule_release_dates_2020.pdf" class="usa-link--external" target="_blank" rel="noopener" >2020</a>,
-<a href="https://www.whitehouse.gov/wp-content/uploads/2018/09/pfei_schedule_releasedates_2019.pdf" class="usa-link--external" target="_blank" rel="noopener" >2019</a>,
-<a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/reports/pei_schedule_release_dates_2018_all_v2.pdf" class="usa-link--external" target="_blank" rel="noopener" >2018</a>,
-<a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf" class="usa-link--external" target="_blank" rel="noopener" >2017</a>.</p>
+2025
+2024, 
+2023, 
+2022,
+2021,
+2020,
+2019,
+2018,
+2017.</p>
 
 <h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
 <p>The Interagency Council on Statistical Policy (ICSP), in its role advising and assisting the U.S. Chief Statistician on challenges and opportunities facing the U.S. Federal statistical system, produces reports and publications, as needed, to address such challenges and opportunities. Some example products include:</p>
