@@ -31,7 +31,7 @@ skip: true
 
 <h3 class="font-serif-lg">Information Collection</h3>
 
-<p>The <a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/federal-collection-information/" class="usa-link--external" target="_blank" rel="noopener" >Office of Information and Regulatory Affairs</a> in the Office of Management and Budget issues government-wide guidance to implement the information collection requirements of the <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35&edition=prelim" class="usa-link--external" target="_blank">Paperwork Reduction Act.</a> These include regulations on Controlling Paperwork Burdens on the Public and much more.</p>
+<p>The Office of Information and Regulatory Affairs in the Office of Management and Budget issues government-wide guidance to implement the information collection requirements of the <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35&edition=prelim" class="usa-link--external" target="_blank">Paperwork Reduction Act.</a> These include regulations on Controlling Paperwork Burdens on the Public and much more.</p>
 
 <p>Statistical Policy Directive No. 2: Standards and Guidelines for Statistical Surveys establishes practices required across the survey lifecycle, with an emphasis on the planning and collection phases. Supplemental materials include:
 <ul class="usa-list">
