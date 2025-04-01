@@ -7,7 +7,7 @@ tagline_title: Fiscal Year 2023 News
 ---
 
 <ul class="usa-list">
-  <li>On September 27, 2023, OMB published the <a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/pfei_schedule_release_dates_2024.pdf" target="_blank" class="usa-link--external">2024 schedule of release dates</a> for Principal Federal Economic Indicators. For more information on this and OMB Statistical Policy Directive No. 3, see the <a href="{{site.baseurl}}/policies/">Policies</a> page.
+  <li>On September 27, 2023, OMB published the 2024 schedule of release dates for Principal Federal Economic Indicators. For more information on this and OMB Statistical Policy Directive No. 3, see the <a href="{{site.baseurl}}/policies/">Policies</a> page.
   </li>
 
   <li>On August 18, 2023, OMB published a Notice of Proposed Rulemaking on the Fundamental Responsibilities of Statistical Agencies and Units, or the “Trust Regulation.” This marks a key milestone in the implementation of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act). For more information, read the <a href="{{site.baseurl}}/assets/files/Trust Reg News Update for StatsPolicy.gov.pdf">announcement</a> from the Chief Statistician of the United States.</li>
