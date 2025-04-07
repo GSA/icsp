@@ -12,15 +12,15 @@
   },
   "dependencies": {
     "@uswds/uswds": "3.8.0",
-    "netlify-cms": "^2.10.102"
+    "netlify-cms": "^2.10.102",
+    "undici": "^7.7.0"
   },
   "devDependencies": {
-    "pa11y-ci": "^2.4.0",
+    "pa11y-ci": "^3.1.0",
     "rimraf": "^3.0.2"
-  
   },
   "overrides": {
     "immer": "9.0.6",
-    "trim":">=0.0.3"
+    "trim": ">=0.0.3"
   }
 }
