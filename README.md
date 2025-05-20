@@ -1,7 +1,7 @@
 <!--
   Federalist recommends you use Continuous Integration to automatically test
   and validate any new changes to your site. CircleCI is free for open source
-  projcets. You should replace this badge with your own.
+  projects. You should replace this badge with your own.
 
   https://circleci.com/
 -->
@@ -58,7 +58,7 @@ datafile: collections
 ---
 ```
 
-The reference to `datafile` referers to the name of the file in `_data/collections.yml` and loops through the values. Feel free to modify this as needed.
+The reference to `datafile` referrers to the name of the file in `_data/collections.yml` and loops through the values. Feel free to modify this as needed.
 
 ✅  There are two different kinds of `pages`, one does not have a side bar navigation, and the other uses `_includes/sidenav.html`. You can enable this option by adding `sidenav: true` to your page front matter.
 
