@@ -12,7 +12,7 @@ title: Search
   var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
   params = { affiliate: "{{site.searchgov.affiliate}}", access_key: "{{site.searchgov.access_key}}", query: urlParams.get('query') }
   var query = params["query"];
-  console.log('the query is ' + query);
+  console.log('The query put is ' + query);
 
   Object.keys(params).forEach(key => searchEndpoint.searchParams.append(key, params[key]))
 
