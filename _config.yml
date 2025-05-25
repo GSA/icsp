@@ -192,6 +192,9 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap # See additional instructions for url parameter above.
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-redirect-from
+  
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
