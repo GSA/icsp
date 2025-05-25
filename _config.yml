@@ -192,7 +192,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap # See additional instructions for url parameter above.
   - jekyll-seo-tag
-  - jekyll-redirect-from
+
   
 
 ############################################################
