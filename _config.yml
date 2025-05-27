@@ -163,8 +163,8 @@ searchgov:
   access_key: fea6UIlgAHtdsoRN-uyCgY-EEFqZbdMPWGDSCNhzPjA=
 
   # this renders the results within the page instead of sending to user to search.gov
-  #inline: true
-  inline: false
+  inline: true
+  #inline: false
 
   # This allows Search.gov to present relevant type-ahead search suggestions in your website's search box.
   # If you do not want to present search suggestions, set this value to false.
@@ -234,10 +234,10 @@ pagination:
     after: 2
   # Optional, the default file extension for generated pages (e.g html, json, xml).
   # Internally this is set to html by default
-  extension: html
+  #extension: html
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
-  indexpage: "index.html"
+  #indexpage: "index.html"
 
 exclude:
   - package.json
