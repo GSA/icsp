@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "4.3.3"
 gem "webrick", ">= 1.8.2"
-gem "sprockets", "~> 3.7"
+gem "sprockets", "~> 4.2"
 gem "kramdown-parser-gfm", "~> 1.1.0"
 
 group :jekyll_plugins do
