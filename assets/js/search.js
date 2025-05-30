@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+    console.log("search.js loaded");
     var searchResults = document.getElementById("search-results");
     var pathParts = window.location.pathname.split("/payment-accuracy/");
     if (pathParts.length === 2) {
@@ -9,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
     console.log("pathPartsffa in statspolicy is : "+pathPartsCoffa);
     if(pathPartsCoffa.length === 2) {
         var formElement = document.getElementById("search_form");
-        formElement.action = pathPartsCoffa[0] + '/statspolicy/search/';
+        formElement.action = pathPartsCoffa[0] + '/search/';
     }
     if (searchResults !== null) {
         var searchgovParams = document.getElementById("searchgov-params");
