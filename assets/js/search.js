@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    console.log("search.js loaded");
+    console.log("search.js loaded from assets-js");
     var searchResults = document.getElementById("search-results");
     var pathParts = window.location.pathname.split("/payment-accuracy/");
     if (pathParts.length === 2) {
@@ -45,6 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
             })
             .then(function (posts) {
                 totalResults = posts.web.total;
+                console.log("Total results: " + totalResults);
                 document.getElementById("search-params").innerHTML =
                     urlParams.get("query");
                 document.getElementById("search-keyword").innerHTML =
