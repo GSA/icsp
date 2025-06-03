@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    console.log("search.js loaded from assets-js");
+    //console.log("search.js loaded from assets-js");
     var searchResults = document.getElementById("search-results");
     var pathParts = window.location.pathname.split("/payment-accuracy/");
     if (pathParts.length === 2) {
@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
         formElement.action = pathParts[0] + '/payment-accuracy/search/';
     }
     var pathPartsCoffa = window.location.pathname.split("/statspolicy/");
-    console.log("pathPartsffa in statspolicy is : "+pathPartsCoffa);
+    //console.log("pathPartsffa in statspolicy is : "+pathPartsCoffa);
     if(pathPartsCoffa.length === 2) {
         var formElement = document.getElementById("search_form");
         formElement.action = pathPartsCoffa[0] + '/search/';
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
             })
             .then(function (posts) {
                 totalResults = posts.web.total;
-                console.log("Total results: " + totalResults);
+                //console.log("Total results: " + totalResults);
                 document.getElementById("search-params").innerHTML =
                     urlParams.get("query");
                 document.getElementById("search-keyword").innerHTML =
