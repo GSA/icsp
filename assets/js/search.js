@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+    var searchResults = document.getElementById("search-results");
     if (searchResults !== null) {
         var searchgovParams = document.getElementById("searchgov-params");
         var currentURL = new URL(window.location.href);
