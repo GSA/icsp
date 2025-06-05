@@ -1,17 +1,4 @@
 document.addEventListener("DOMContentLoaded", function () {
-    //console.log("search.js loaded from assets-js");
-    var searchResults = document.getElementById("search-results");
-    var pathParts = window.location.pathname.split("/payment-accuracy/");
-    if (pathParts.length === 2) {
-        var formElement = document.getElementById("search_form");
-        formElement.action = pathParts[0] + '/payment-accuracy/search/';
-    }
-    var pathPartsCoffa = window.location.pathname.split("/statspolicy/");
-    //console.log("pathPartsffa in statspolicy is : "+pathPartsCoffa);
-    if(pathPartsCoffa.length === 2) {
-        var formElement = document.getElementById("search_form");
-        formElement.action = pathPartsCoffa[0] + '/search/';
-    }
     if (searchResults !== null) {
         var searchgovParams = document.getElementById("searchgov-params");
         var currentURL = new URL(window.location.href);
@@ -98,26 +85,6 @@ document.addEventListener("DOMContentLoaded", function () {
             append == true ? previous + content : content;
     }
 
-    // function update_pager() {
-    //     var pager = document.getElementById("pager");
-    //     var pagerLinks = "";
-
-    //     pager.innerHTML = "";
-    //     if (page > 1) {
-    //         pagerLinks += '<a href="' + getLinkToPage(page - 1) + '" aria-label="Previous page"><< Prev</a>';
-    //     }
-    //     pagerLinks +=
-    //         '<span class="margin-2">Page ' +
-    //         page +
-    //         " of " +
-    //         Math.ceil(totalResults / resultsPerPage) +
-    //         "</span>";
-    //     if (totalResults > (page * resultsPerPage)) {
-    //         pagerLinks += '<a href="' + getLinkToPage(parseInt(page) + 1) + '" aria-label="Next page">Next >></a>';
-    //     }
-    //     pagerLinks += '<div class="usa-footer__contact-info grid-row grid-gap"><div class="grid-col-auto"><p class="margin-top-0">Powered by Search.gov</p></div></div>';
-    //     pager.innerHTML = pagerLinks;
-    // }
 
     function update_pager() {
         var page = urlParams.get("page") ?? 1;
