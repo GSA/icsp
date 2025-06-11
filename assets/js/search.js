@@ -19,6 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         };
         searchResults.setAttribute("start", offset + 1);
 
+        
         var inputElement = document.getElementById("extended-search-field-small");
         inputElement.value = urlParams.get("query");
         inputElement.focus();
