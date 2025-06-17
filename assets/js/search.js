@@ -36,9 +36,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 totalResults = posts.web.total;
                 //console.log("Total results: " + totalResults);
                 document.getElementById("search-params").innerHTML =
-                    urlParams.get("query");
+                    encodeHTML(urlParams.get("query"));
                 document.getElementById("search-keyword").innerHTML =
-                    urlParams.get("query");
+                    encodeHTML(urlParams.get("query"));
                 document.getElementById("results-count").innerHTML = totalResults;
 
                 if (posts.web.results.length > 0) {
@@ -137,5 +137,12 @@ document.addEventListener("DOMContentLoaded", function () {
             searchParams.append("page", pageNumber);
         }
         return currentURL.toString();
+    }
+    function encodeHTML(str) {
+    return str.replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
     }
 });
