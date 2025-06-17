@@ -35,10 +35,10 @@ document.addEventListener("DOMContentLoaded", function () {
             .then(function (posts) {
                 totalResults = posts.web.total;
                 //console.log("Total results: " + totalResults);
-                document.getElementById("search-params").textContent =
-                    urlParams.get("query");
-                document.getElementById("search-keyword").textContent =
-                    urlParams.get("query");
+                document.getElementById("search-params").innerHTML =
+                    encodeHTML(urlParams.get("query"));
+                document.getElementById("search-keyword").innerHTML =
+                    encodeHTML(urlParams.get("query"));
                 document.getElementById("results-count").innerHTML = totalResults;
 
                 if (posts.web.results.length > 0) {
@@ -106,14 +106,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
 		var start = Math.max(2, page - 3);
 		for (var i = start; i < page; i++) {
-			pagerLinks += '<a href="' + encodeHTML(getLinkToPage(i)) + '" aria-label="Page ' + encodeHTML(i) + '" class="pager-button">' + encodeHTML(i) + '</a>';
+			pagerLinks += '<a href="' + getLinkToPage(i) + '" aria-label="Page ' + i + '" class="pager-button">' + i + '</a>';
 		}
 
-		pagerLinks += '<span class="margin-2, pager-button-current">Page ' + encodeHTML(page) + " of " + encodeHTML(totalPages) + "</span>";
+		pagerLinks += '<span class="margin-2, pager-button-current">Page ' + page + " of " + totalPages + "</span>";
         
 		var end = Math.min((totalPages - 1), ((1*page) + 3));
 		for (var j = (1*page) + 1; j <= end; j++) {
-			pagerLinks += '<a href="' + encodeHTML(getLinkToPage(j)) + '" aria-label="Page ' + encodeHTML(j) + '" class="pager-button">' + encodeHTML(j) + '</a>';
+			pagerLinks += '<a href="' + getLinkToPage(j) + '" aria-label="Page ' + j + '" class="pager-button">' + j + '</a>';
 		}
 
 		if (totalPages > 5 && page < totalPages - 4) {
@@ -124,9 +124,9 @@ document.addEventListener("DOMContentLoaded", function () {
             pagerLinks += '<a href="' + getLinkToPage(totalPages) + '" aria-label="Last page" class="pager-button">Last</a>';
         }		
 
-        pagerLinks += '<div class="usa-footer__contact-info grid-row grid-gap"><div class="grid-col-auto"><p class="margin-top-0">Powered by <strong>' + encodeHTML("Search.gov") + '</strong></p></div></div>';
-
-        pager.innerHTML = encodeHTML(pagerLinks);
+        pagerLinks += '<div class="usa-footer__contact-info grid-row grid-gap"><div class="grid-col-auto"><p class="margin-top-0">Powered by <strong>Search.gov</strong></p></div></div>';
+        
+        pager.innerHTML = pagerLinks;
     }
 
     function getLinkToPage(pageNumber) {
@@ -139,10 +139,10 @@ document.addEventListener("DOMContentLoaded", function () {
         return currentURL.toString();
     }
     function encodeHTML(str) {
-        return str.replace(/&/g, "&amp;")
-                  .replace(/</g, "&lt;")
-                  .replace(/>/g, "&gt;")
-                  .replace(/"/g, "&quot;")
-                  .replace(/'/g, "&#039;");
+    return str.replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
     }
 });
