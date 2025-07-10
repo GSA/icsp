@@ -1,0 +1,22 @@
+
+{% if include.menu %}
+  {% case include.menu %}
+    {% when "about_navigation" %}
+      {% assign nav = site.about_navigation %}
+    {% when "group_navigation" %}
+      {% assign nav = site.group_navigation %}
+    {% when "resource_navigation" %}
+      {% assign nav = site.resource_navigation %}
+    {% when "events_navigation" %}
+      {% assign nav = site.events_navigation %}
+  {% endcase %}
+<aside id="sidenav" class="grid-col-12 usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+  <nav role="navigation" aria-label="Side navigation">
+    <ul class="usa-sidenav" role="menu">
+    {% for nav_item in nav %}
+      {% include navitem.html nav_item = nav_item %}
+    {% endfor %}
+    </ul>
+  </nav>
+</aside>
+{% endif %}
