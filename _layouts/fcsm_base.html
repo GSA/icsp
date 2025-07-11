@@ -1,0 +1,23 @@
+---
+layout: base
+---
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+{% include fcsm/meta.html %}
+
+<body>
+  {% include fcsm/header.html %}
+
+  {% include fcsm/menu.html primary_navigation=site.stats_fcsm_navigation %}
+
+  {{ content }}
+
+  {% include fcsm/footer.html %}
+
+  {% include fcsm/scripts.html %}
+</body>
+
+</html>
