@@ -161,6 +161,33 @@ stats_fcsm_navigation:
     url: /fcsm/events/
   - name: Groups Overview
     url: /fcsm/groups/
+  - name: Back to StatsPolicy
+    url: /
+about_navigation:
+  - name: About FCSM
+    url: /fcsm/about/
+  - name: Charter
+    collapsible: true
+    int_url: /about/charter/
+    children:
+      - name: Background
+        url: /about/charter/#background
+      - name: Mission of the FCSM
+        url: /about/charter/#mission
+      - name: FCSM Activities
+        url: /about/charter/#activities
+      - name: Membership
+        url: /about/charter/#membership
+      - name: Subcommittees and Interest Groups
+        url: /about/charter/#subcommittees
+      - name: FCSM Products
+        url: /about/charter/#products
+      - name: Authority
+        url: /about/charter/#authority
+      - name: Signatures of ICSP Members
+        url: /about/charter/#signatures
+  - name: Members
+    url: /about/members/
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup
@@ -184,6 +211,23 @@ searchgov:
   # If you do not want to present search suggestions, set this value to false.
   suggestions: true
 
+searchgov_fcsm:
+  # Only change this if you're using a CNAME. Learn more here: https://search.gov/manual/cname.html
+  endpoint: https://search.usa.gov
+
+  # Replace this with your search.gov account.
+  affiliate: fcsm_gov
+
+  # Replace this with your access key.
+  access_key: BzW79eEDXU_NREd6lxgPPOkRapZsZdwcF43VjL_X33c=
+
+  # This renders the results within the page instead of sending to user to search.gov.
+  inline: true
+  #inline: false
+
+  # This allows Search.gov to present relevant type-ahead search suggestions in your website's search box.
+  # If you do not want to present search suggestions, set this value to false.
+  suggestions: true
 ##########################################################################################
 # The values below here are more advanced and should only be
 # changed if you know what they do

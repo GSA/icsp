@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: fcsm_base
 ---
 
 {% comment %}
@@ -19,12 +19,12 @@ This template is for a single page that does not have a date associated with it.
   <div class="grid-container">
     <div class="grid-row grid-gap margin-top-6">
       {% if page.sidenav %}
-        {% include sidenav.html menu=page.sidenav %}
-        <div id="content" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-      {% else %}
+      {% include fcsm/sidenav.html menu=page.sidenav %}
+      <div id="content" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+        {% else %}
         <div id="content" class="usa-layout-docs__main desktop:grid-col-12 usa-prose"></div>
-      {% endif %}
-          {{ content }}
+        {% endif %}
+        {{ content }}
       </div>
     </div>
   </div>
