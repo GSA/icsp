@@ -1,5 +1,5 @@
 ---
-permalink: statspolicy/fcsm/about/
+permalink: /fcsm/about/
 title: About FCSM
 layout: page
 sidenav: about_navigation
