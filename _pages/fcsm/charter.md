@@ -1,6 +1,6 @@
 ---
-permalink: /about/charter/
-layout: page
+permalink: /fcsm/about/charter/
+layout: fcsm_page
 title: Office of Management and Budget Charter of the Federal Committee on Statistical Methodology
 sidenav: about_navigation
 ---

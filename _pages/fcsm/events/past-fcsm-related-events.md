@@ -1,7 +1,7 @@
 ---
-permalink: /events/past-fcsm-related-events/
+permalink: /fcsm/events/past-fcsm-related-events/
 title: Events
-layout: page
+layout: fcsm_page
 sidenav: events_navigation
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Statistical Policy Working Papers
-layout: page
+layout: fcsm_page
 sidenav: resource_navigation
 ---
 

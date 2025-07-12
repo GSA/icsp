@@ -1,7 +1,7 @@
 ---
-permalink: /about/members/
+permalink: /fcsm/about/members/
 title: Members
-layout: page
+layout: fcsm_page
 sidenav: about_navigation
 ---
 <div class="grid-row grid-gap">
