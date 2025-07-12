@@ -1,6 +1,6 @@
 ---
 title: Research and Policy Conference Resources and Proceedings
-layout: page
+layout: fcsm_page
 sidenav: events_navigation
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Geospatial Interest Group (GIG)
 subtitle: Presentations
-layout: page
+layout: fcsm_page
 sidenav: events_navigation
 ---
 

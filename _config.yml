@@ -163,36 +163,87 @@ stats_fcsm_navigation:
     url: /fcsm/groups/
   - name: Back to StatsPolicy
     url: /
+
 about_navigation:
   - name: About FCSM
     url: /fcsm/about/
   - name: Charter
     collapsible: true
-    int_url: /about/charter/
+    int_url: /fcsm/about/charter/
     children:
       - name: Background
-        url: /about/charter/#background
+        url: /fcsm/about/charter/#background
       - name: Mission of the FCSM
-        url: /about/charter/#mission
+        url: /fcsm/about/charter/#mission
       - name: FCSM Activities
-        url: /about/charter/#activities
+        url: /fcsm/about/charter/#activities
       - name: Membership
-        url: /about/charter/#membership
+        url: /fcsm/about/charter/#membership
       - name: Subcommittees and Interest Groups
-        url: /about/charter/#subcommittees
+        url: /fcsm/about/charter/#subcommittees
       - name: FCSM Products
         url: /about/charter/#products
       - name: Authority
-        url: /about/charter/#authority
+        url: /fcsm/about/charter/#authority
       - name: Signatures of ICSP Members
-        url: /about/charter/#signatures
+        url: /fcsm/about/charter/#signatures
   - name: Members
-    url: /about/members/
+    url: /fcsm/about/members/
+
+events_navigation:
+  - name: FCSM Research and Policy Conferences
+    url: /fcsm/events/fcsm-research-conferences/
+  - name: Past FCSM Statistical Policy Seminars
+    url: /fcsm/events/fcsm-conference-seminar-programs-presentations/
+  - name: Recordings of CDAC Meetings and Workshops
+    url: /fcsm/events/cdac-meetings/
+  - name: GASP Presentations
+    url: /fcsm/events/gasp-presentations/
+  - name: GIG Presentations
+    url: /fcsm/events/gig-presentations/
+
+group_navigation:
+  - name: Groups Overview
+    url: /fcsm/groups/
+  - name: Interest Groups
+    collapsible: true
+    children:
+      - name: Innovating Data Collection Interest Group
+        url: /fcsm/groups/idcig/
+      - name: Confidentiality and Data Access Committee (CDAC)
+        url: /fcsm/groups/cdac/
+      - name: Data Science for Federal Statistics (DSFS) Interest Group
+        url: /fcsm/groups/dsfs/
+      - name: Geospatial Interest Group (GIG)
+        url: /fcsm/groups/gig/
+      # - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group
+      #   url: /groups/sogisc-ig/
+  - name: Subcommittees
+    collapsible: true
+    children:
+      - name: Federal Statistical System Research Subcommittee
+        url: /fcsm/groups/fssr-subcommittee/
+      - name: Integrated Data Quality Subcommittee
+        url: /fcsm/groups/data-quality/
+      - name: Subcommittee on Updating Statistical Methods for Safeguarding Protected Data
+        url: /fcsm/groups/data-safeguards/
+      - name: Nonresponse Bias Working Group
+        url: /fcsm/groups/nonresponse-bias/
+      # - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Subcommittee
+      #   url: /groups/sogisc/
+
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
+
+resource_navigation:
+  - name: Resources Summary
+    url: /fcsm/resources/
+  - name: /fcsm/Statistical Policy Working Papers
+    url: /fcsm/resources/statistical-policy-working-papers/
+
 searchgov:
   # You should not change this.
   endpoint: https://search.usa.gov

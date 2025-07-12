@@ -1,6 +1,6 @@
 ---
 title: Groups Overview
-layout: page
+layout: fcsm_page
 sidenav: group_navigation
 ---
 <p>The work of the FCSM is conducted through various groups:  interest groups, subcommittees, and conference program committee.</p>
