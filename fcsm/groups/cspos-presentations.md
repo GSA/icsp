@@ -1,9 +1,9 @@
 ---
 title: Data Science for Federal Statistics (DSFS)
 subtitle: Presentations
-layout: page
+layout: fcsm_page
 sidenav: group_navigation
-permalink: /groups/dsfs-presentations/
+permalink: /FCSM/groups/dsfs-presentations/
 ---
 
 <p>The DSFS interest group holds seminars throughout the year. Recorded seminars (if available) and slides will be posted to this web page. <a href="{{site.baseurl}}/groups/dsfs/">Contact</a> the DSFS Chairs if you want to add content to the page.</p>

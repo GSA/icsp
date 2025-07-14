@@ -1,6 +1,6 @@
 ---
 title: "CDAC: Resources for Confidentiality and Data Access Information"
-layout: fcsm_page
+layout: page
 sidenav: group_navigation
 ---
 <p><strong>CDAC Methodology and Other Reports</strong></p>

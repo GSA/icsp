@@ -1,7 +1,7 @@
 ---
 
 title: Nonresponse Bias Subcommittee
-layout: fcsm_page
+layout: page
 sidenav: group_navigation
 ---
 

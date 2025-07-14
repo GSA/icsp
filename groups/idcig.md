@@ -1,9 +1,9 @@
 ---
 title: Innovating Data Collection Interest Group
-layout: fcsm_page
+layout: page
 sidenav: group_navigation
 ---
-<p>The Innovating Data Collection Interest Group brings together federal agencies to discuss research and production activities related to using information to inform data collection decisions. Examples of topics relevant to this interest group include adaptive or responsive survey design, survey paradata, interviewer monitoring, program evaluation, and participant recruiting options. Federal agencies have begun to experiment with various innovative data collection strategies and survey designs, and the research in this area has grown. However, information about these activities is dispersed and often difficult for survey practitioners to find. </p>
+<p>HIIIIIIIIIIIIIIIiiThe Innovating Data Collection Interest Group brings together federal agencies to discuss research and production activities related to using information to inform data collection decisions. Examples of topics relevant to this interest group include adaptive or responsive survey design, survey paradata, interviewer monitoring, program evaluation, and participant recruiting options. Federal agencies have begun to experiment with various innovative data collection strategies and survey designs, and the research in this area has grown. However, information about these activities is dispersed and often difficult for survey practitioners to find. </p>
 <p>This interest group is intended to provide a vehicle to share information about the use of innovative data collection techniques, strategic data collection management efforts in Federal surveys, and other relevant topics. </p>
 
 <p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>

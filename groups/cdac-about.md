@@ -1,6 +1,6 @@
 ---
 title: About CDAC
-layout: fcsm_page
+layout: page
 sidenav: group_navigation
 ---
 <p><strong>Background:</strong></p>

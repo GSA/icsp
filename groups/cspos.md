@@ -1,8 +1,8 @@
 ---
 title: Data Science for Federal Statistics (DSFS)
-layout: fcsm_page
+layout: page
 sidenav: group_navigation
-permalink: /FCSM/groups/dsfs/
+permalink: /groups/dsfs/
 ---
 <p>The purpose of this interest group (previously, the Computational Statistics and the Production of
 Official Statistics Interest Group) is to share information on data science methods and uses across

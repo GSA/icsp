@@ -1,6 +1,6 @@
 ---
 title: Confidentiality and Data Access Committee (CDAC)
-layout: fcsm_page
+layout: page
 sidenav: group_navigation
 ---
 

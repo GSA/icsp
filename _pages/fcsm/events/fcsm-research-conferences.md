@@ -8,7 +8,7 @@ sidenav: events_navigation
 
 <ul class="fcsm-research-links">
   <li>
-    <p><a class="fcsm-main-links" href="{{site.baseurl}}/fcsm/events/2024-fcsm-conference">2024 FCSM Research and Policy Conference</a><br />
+    <p><a class="fcsm-main-links" href="{{site.baseurl}}/FCSM/events/2024-fcsm-conference">2024 FCSM Research and Policy Conference</a><br />
     October 22-24, 2024</p>
   </li>
  <!--  <li>
