@@ -64,6 +64,7 @@ twitter: 18F
 # USPS    - Postal Service
 # SBA     - Small Business Administration
 # SSA     - Social Security Administration
+# SSA     - Social Security Administration
 #
 #################################################################
 dap:
@@ -80,9 +81,6 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-    # Add the FCSM site navigation here as a separate top-level item:
-  - name: FCSM
-    url: /fcsm/
   - name: About Us
     url: /about/
     children:
@@ -102,6 +100,8 @@ primary_navigation:
     url: /policies/
   - name: Products
     url: /products/
+  - name: FCSM #FCSM menu
+    url: /FCSM/
 
 strategic_priorities_nav:
   - name: Strategic Priorities

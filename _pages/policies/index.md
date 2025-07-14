@@ -1,7 +1,7 @@
 ---
 title: Policies
 tagline_title: Laws, Policies, and Guidance Relevant to the U.S. Federal Statistical System
-layout: fcsm_page
+layout: page
 permalink: /policies/
 skip: true
 ---
