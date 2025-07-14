@@ -1,6 +1,6 @@
 ---
 title: Sexual Orientation, Gender Identity, and Sex Characteristics Interest Group
-layout: fcsm_page
+layout: page
 sidenav: group_navigation
 published: false
 ---

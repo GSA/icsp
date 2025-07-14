@@ -1,13 +1,12 @@
 ---
 title: Data Science for Federal Statistics (DSFS)
-subtitle: Government Advances in Statistical Programming (GASP)
-layout: fcsm_page
+subtitle: Presentations
+layout: page
 sidenav: group_navigation
-permalink: /FCSM/groups/dsfs-gasp/
+permalink: /groups/dsfs-presentations/
 ---
-<p>The major product from the FCSM DSFS group is the premier conference Government Advances in Statistical Programming (GASP!). GASP! Is an annual event with the first one starting in the fall of 2018. It attracts speakers and attendees from government, academia, and industry. Presentations showcase the innovative applications and problems being addressed in the government. The 2023 GASP! Conference is planned for May or June.</p>
 
-<p>Video presentations can be <a class="usa-link--external" href="https://www.youtube.com/playlist?list=PLqsWXJV2Utrf6Yq7fhef8p4piM8M-ZTK3" target="_blank">found on YouTube</a>.</p>
+<p>The DSFS interest group holds seminars throughout the year. Recorded seminars (if available) and slides will be posted to this web page. <a href="{{site.baseurl}}/groups/dsfs/">Contact</a> the DSFS Chairs if you want to add content to the page.</p>
 
 <ul>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/20181024_GASP_Program.pdf" target="_blank">20181024_GASP_Program.pdf</a></li>
@@ -33,6 +32,7 @@ permalink: /FCSM/groups/dsfs-gasp/
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Finlay.pdf" target="_blank">Finlay</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Flynn.pdf" target="_blank">Flynn</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Gates.pdf" target="_blank">Gates</a></li>
+ <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Gray.pdf" target="_blank"> Gray</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Harris.pdf" target="_blank">Harris</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Hashemipour.pdf" target="_blank">Hashemipour</a></li>
  <li><a href="{{site.baseurl}}/assets/files/docs/gasp/Holt.pdf" target="_blank">Holt</a></li>

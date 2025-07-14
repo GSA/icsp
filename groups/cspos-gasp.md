@@ -1,9 +1,9 @@
 ---
 title: Data Science for Federal Statistics (DSFS)
 subtitle: Government Advances in Statistical Programming (GASP)
-layout: fcsm_page
+layout: page
 sidenav: group_navigation
-permalink: /FCSM/groups/dsfs-gasp/
+permalink: /groups/dsfs-gasp/
 ---
 <p>The major product from the FCSM DSFS group is the premier conference Government Advances in Statistical Programming (GASP!). GASP! Is an annual event with the first one starting in the fall of 2018. It attracts speakers and attendees from government, academia, and industry. Presentations showcase the innovative applications and problems being addressed in the government. The 2023 GASP! Conference is planned for May or June.</p>
 
