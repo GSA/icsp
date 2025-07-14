@@ -1,6 +1,6 @@
 ---
 title:  Products
-layout: fcsm_page
+layout: page
 permalink: /products/
 skip: true
 tagline_title: U.S. Federal Statistical System-Wide Products

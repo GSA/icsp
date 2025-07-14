@@ -15,36 +15,50 @@ manage your navigation system
       <button class="usa-nav__close">
         <img src="{{site.baseurl}}/assets/img/close.svg" alt="close" />
       </button>
+      {%- comment -%}
+      Find the nav item whose URL is the longest prefix matching the current page URL
+      {%- endcomment -%}
+      {% assign best_match = "" %}
+      {% assign best_length = 0 %}
+
+      {% for nav_item in include.primary_navigation %}
+      {% assign nav_url = nav_item.url %}
+      {% assign nav_length = nav_url | size %}
+      {% assign page_start = page.url | slice: 0, nav_length %}
+
+      {% if page_start == nav_url and nav_length > best_length %}
+      {% assign best_match = nav_url %}
+      {% assign best_length = nav_length %}
+      {% endif %}
+      {% endfor %}
+
+      {%- comment -%}
+      Render the navigation, adding 'usa-current' only to the best matching item
+      {%- endcomment -%}
       <ul class="usa-nav__primary usa-accordion">
-        {% for nav_item in include.primary_navigation %} {% unless
-        nav_item.children %} {% assign basedir = page.url | remove_first: '/' |
-        split: '/' | first | lstrip %} {% assign linkdir = nav_item.url |
-        replace: "/", "" | lstrip %}
+        {% for nav_item in include.primary_navigation %}
+        {% assign is_current = false %}
+        {% if nav_item.url == best_match %}
+        {% assign is_current = true %}
+        {% endif %}
         <li class="usa-nav__primary-item">
-          <a class="usa-nav__link font-sans-sm{% if basedir == linkdir %} usa-current{% endif %}"
-            href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name | escape }}</span></a>
-        </li>
-        {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index %}
-        <li class="usa-nav__primary-item">
-          <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="{{ nav_id }}">
+          <a class="usa-nav__link font-sans-sm{% if is_current %} usa-current{% endif %}"
+            href="{{ nav_item.url | prepend: site.baseurl }}">
             <span>{{ nav_item.name | escape }}</span>
-          </button>
-          <ul id="{{ nav_id }}" class="usa-nav__submenu">
-            {% for subnav_item in nav_item.children %}
-            <li class="usa-nav__submenu-item">
-              <a href="{{ subnav_item.url | prepend: site.baseurl }}" class="font-sans-sm">{{ subnav_item.name | escape
-                }}</a>
-            </li>
-            {% endfor %}
-          </ul>
+          </a>
         </li>
-        {% endunless %} {% endfor %}
+        {% endfor %}
       </ul>
+
+
+
       <div class="usa-nav__secondary margin-bottom-3">
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary_navigation %}
           <li class="usa-nav__secondary-item">
-            <a href="{{ nav_item.url | prepend: site.baseurl }}">{{ nav_item.name | escape }}</a>
+            <a href="{{ nav_item.url | prepend: site.baseurl }}">
+              {{ nav_item.name | escape }}
+            </a>
           </li>
           {% endfor %}
         </ul>
