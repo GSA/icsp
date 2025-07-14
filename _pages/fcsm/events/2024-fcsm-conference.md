@@ -1,5 +1,5 @@
 ---
-permalink: /fcsm/events/2024-fcsm-conference/
+permalink: /FCSM/events/2024-fcsm-conference/
 title: Federal Committee on Statistical Methodology 2024 Research and Policy Conference
 layout: fcsm_conference
 sidenav: events_navigation

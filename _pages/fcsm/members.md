@@ -1,5 +1,5 @@
 ---
-permalink: /fcsm/about/members/
+permalink: /FCSM/about/members/
 title: Members
 layout: fcsm_page
 sidenav: about_navigation

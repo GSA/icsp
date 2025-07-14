@@ -152,83 +152,83 @@ announcements_nav:
 # Add the FCSM site navigation here as a separate top-level item:
 stats_fcsm_navigation:
   - name: Home
-    url: /fcsm/
+    url: /FCSM/
   - name: About FCSM
-    url: /fcsm/about/
+    url: /FCSM/about/
   - name: Resources
-    url: /fcsm/resources/
+    url: /FCSM/resources/
   - name: Events and Proceedings
-    url: /fcsm/events/
+    url: /FCSM/events/
   - name: Groups Overview
-    url: /fcsm/groups/
+    url: /FCSM/groups/
   - name: Back to StatsPolicy
     url: /
 
 about_navigation:
   - name: About FCSM
-    url: /fcsm/about/
+    url: /FCSM/about/
   - name: Charter
     collapsible: true
-    int_url: /fcsm/about/charter/
+    int_url: /FCSM/about/charter/
     children:
       - name: Background
-        url: /fcsm/about/charter/#background
+        url: /FCSM/about/charter/#background
       - name: Mission of the FCSM
-        url: /fcsm/about/charter/#mission
+        url: /FCSM/about/charter/#mission
       - name: FCSM Activities
-        url: /fcsm/about/charter/#activities
+        url: /FCSM/about/charter/#activities
       - name: Membership
-        url: /fcsm/about/charter/#membership
+        url: /FCSM/about/charter/#membership
       - name: Subcommittees and Interest Groups
-        url: /fcsm/about/charter/#subcommittees
+        url: /FCSM/about/charter/#subcommittees
       - name: FCSM Products
         url: /about/charter/#products
       - name: Authority
-        url: /fcsm/about/charter/#authority
+        url: /FCSM/about/charter/#authority
       - name: Signatures of ICSP Members
-        url: /fcsm/about/charter/#signatures
+        url: /FCSM/about/charter/#signatures
   - name: Members
-    url: /fcsm/about/members/
+    url: /FCSM/about/members/
 
 events_navigation:
   - name: FCSM Research and Policy Conferences
-    url: /fcsm/events/fcsm-research-conferences/
+    url: /FCSM/events/FCSM-research-conferences/
   - name: Past FCSM Statistical Policy Seminars
-    url: /fcsm/events/fcsm-conference-seminar-programs-presentations/
+    url: /FCSM/events/FCSM-conference-seminar-programs-presentations/
   - name: Recordings of CDAC Meetings and Workshops
-    url: /fcsm/events/cdac-meetings/
+    url: /FCSM/events/cdac-meetings/
   - name: GASP Presentations
-    url: /fcsm/events/gasp-presentations/
+    url: /FCSM/events/gasp-presentations/
   - name: GIG Presentations
-    url: /fcsm/events/gig-presentations/
+    url: /FCSM/events/gig-presentations/
 
 group_navigation:
   - name: Groups Overview
-    url: /fcsm/groups/
+    url: /FCSM/groups/
   - name: Interest Groups
     collapsible: true
     children:
       - name: Innovating Data Collection Interest Group
-        url: /fcsm/groups/idcig/
+        url: /FCSM/groups/idcig/
       - name: Confidentiality and Data Access Committee (CDAC)
-        url: /fcsm/groups/cdac/
+        url: /FCSM/groups/cdac/
       - name: Data Science for Federal Statistics (DSFS) Interest Group
-        url: /fcsm/groups/dsfs/
+        url: /FCSM/groups/dsfs/
       - name: Geospatial Interest Group (GIG)
-        url: /fcsm/groups/gig/
+        url: /FCSM/groups/gig/
       # - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group
       #   url: /groups/sogisc-ig/
   - name: Subcommittees
     collapsible: true
     children:
       - name: Federal Statistical System Research Subcommittee
-        url: /fcsm/groups/fssr-subcommittee/
+        url: /FCSM/groups/fssr-subcommittee/
       - name: Integrated Data Quality Subcommittee
-        url: /fcsm/groups/data-quality/
+        url: /FCSM/groups/data-quality/
       - name: Subcommittee on Updating Statistical Methods for Safeguarding Protected Data
-        url: /fcsm/groups/data-safeguards/
+        url: /FCSM/groups/data-safeguards/
       - name: Nonresponse Bias Working Group
-        url: /fcsm/groups/nonresponse-bias/
+        url: /FCSM/groups/nonresponse-bias/
       # - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Subcommittee
       #   url: /groups/sogisc/
 
@@ -240,9 +240,9 @@ group_navigation:
 
 resource_navigation:
   - name: Resources Summary
-    url: /fcsm/resources/
-  - name: /fcsm/Statistical Policy Working Papers
-    url: /fcsm/resources/statistical-policy-working-papers/
+    url: /FCSM/resources/
+  - name: /FCSM/Statistical Policy Working Papers
+    url: /FCSM/resources/statistical-policy-working-papers/
 
 searchgov:
   # You should not change this.
