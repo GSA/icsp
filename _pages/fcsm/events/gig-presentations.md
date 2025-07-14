@@ -1,4 +1,5 @@
 ---
+permalink: /FCSM/events/gig-presentations/
 title: Geospatial Interest Group (GIG)
 subtitle: Presentations
 layout: fcsm_page

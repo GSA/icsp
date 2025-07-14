@@ -1,4 +1,5 @@
 ---
+permalink: /FCSM/events/cdac-meetings/
 title: CDAC Meetings
 layout: fcsm_page
 sidenav: events_navigation
