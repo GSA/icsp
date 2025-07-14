@@ -1,4 +1,5 @@
 ---
+permalink: /FCSM/groups/
 title: Groups Overview
 layout: fcsm_page
 sidenav: group_navigation

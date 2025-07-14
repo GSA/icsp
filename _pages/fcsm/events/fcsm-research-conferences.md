@@ -1,4 +1,5 @@
 ---
+permalink: /FCSM/events/fcsm-research-conferences/
 title: Research and Policy Conference Resources and Proceedings
 layout: fcsm_page
 sidenav: events_navigation

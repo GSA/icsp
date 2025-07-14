@@ -1,4 +1,5 @@
 ---
+permalink: /FCSM/events/gasp-presentations/
 title: GASP Presentations
 layout: fcsm_page
 sidenav: events_navigation
