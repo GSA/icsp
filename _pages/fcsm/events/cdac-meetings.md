@@ -1,6 +1,6 @@
 ---
 title: CDAC Meetings
-layout: page
+layout: fcsm_page
 sidenav: events_navigation
 ---
 <p>The Confidentiality and Data Access Committee (CDAC) is an FCSM interest group focusing on issues related to statistical disclosure limitation (de-identification) and controlled access to confidential data. CDAC's membership primarily includes federal employees from across government who manage their agencies' Disclosure Review Boards and tiered-data access programs. CDAC serves as an information-sharing forum to foster collaboration on current research activities, to explore new research ideas, and to provide assistance to agencies across government on confidentiality and data access issues</p>
