@@ -1,5 +1,5 @@
 ---
-permalink: /fcsm/about/
+permalink: /FCSM/about/
 title: About FCSM
 layout: fcsm_page
 sidenav: about_navigation

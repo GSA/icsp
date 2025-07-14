@@ -1,5 +1,5 @@
 ---
-permalink: /fcsm/resources/
+permalink: /FCSM/resources/
 title: Resources Summary
 layout: fcsm_page
 ---

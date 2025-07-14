@@ -1,5 +1,5 @@
 ---
-permalink: /fcsm/events/past-fcsm-related-events/
+permalink: /FCSM/events/past-fcsm-related-events/
 title: Events
 layout: fcsm_page
 sidenav: events_navigation
