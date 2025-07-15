@@ -8,7 +8,7 @@ sidenav: group_navigation
 
 <p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>
 
-<p><a href="{{site.baseurl}}/assets/files/docs/FCSM Innovating Data Collection Interest Group Charter_signed.pdf"><strong>Charter</strong></a></p>
+<p><a href="{{site.baseurl}}/assets/fcsm/files/docs/FCSM Innovating Data Collection Interest Group Charter_signed.pdf"><strong>Charter</strong></a></p>
 <p><strong>Contacts:</strong> </p>
 <ul>
   <li>Stephanie Coffey (Co-chair), U.S. Census Bureau, <a href="mailto:stephanie.coffey@census.gov">stephanie.coffey@census.gov</a> </li>

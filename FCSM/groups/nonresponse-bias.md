@@ -16,7 +16,7 @@ sidenav: group_navigation
 <li>Monitor the impact of the FCSM best practices and guidelines on nonresponse bias analysis and reporting of federal surveys.</li>
 </ol>
 
-<p>In February of 2020, the Subcommittee completed the first objective with the publication of “<a href="{{site.baseurl}}/assets/files/docs/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf">A Systematic Review of Nonresponse Bias Studies in Federally Sponsored Surveys</a>”. The report summarizes more than 160 NRB studies and discusses four dimensions of NRB research:</p>
+<p>In February of 2020, the Subcommittee completed the first objective with the publication of “<a href="{{site.baseurl}}/assets/fcsm/files/docs/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf">A Systematic Review of Nonresponse Bias Studies in Federally Sponsored Surveys</a>”. The report summarizes more than 160 NRB studies and discusses four dimensions of NRB research:</p>
 
 <ol>
 <li>General survey characteristics, including agency sponsorship, response rates, type of survey, and mode of data collection;</li>
@@ -25,6 +25,6 @@ sidenav: group_navigation
 <li>NRB adjustment procedures.</li>
 </ol>
 
-<p>In June 2023, the Subcommittee completed the second objective with publication of “<a href="{{site.baseurl}}/assets/files/docs/FCSM NRBA Report 062623.pdf">Best Practices for Nonresponse Bias Reporting</a>”. The Subcommittee is also working with the FCSM to create a mechanism for collecting future nonresponse bias studies and monitoring the use and impact of the FCSM NRB best practices and guidelines.</p>
+<p>In June 2023, the Subcommittee completed the second objective with publication of “<a href="{{site.baseurl}}/assets/fcsm/files/docs/FCSM NRBA Report 062623.pdf">Best Practices for Nonresponse Bias Reporting</a>”. The Subcommittee is also working with the FCSM to create a mechanism for collecting future nonresponse bias studies and monitoring the use and impact of the FCSM NRB best practices and guidelines.</p>
 
-<a href="{{site.baseurl}}/assets/files/docs/nrb-charter.pdf">Charter</a>
+<a href="{{site.baseurl}}/assets/fcsm/files/docs/nrb-charter.pdf">Charter</a>
