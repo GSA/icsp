@@ -12,7 +12,7 @@ layout: fcsm_page
   <li class="tablet:grid-col-6 usa-card">
     <div class="usa-card__container radius-md border-2px border-base-lightest shadow-1">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/resources/statistical-policy-working-papers">Statistical Policy Working Papers</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/FCSM/resources/statistical-policy-working-papers">Statistical Policy Working Papers</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Prepared by FCSM members or FCSM subcommittees. These working papers have been seen and approved by the U.S. Chief Statistician at the U.S. Office of Management and Budget (OMB).</p>
