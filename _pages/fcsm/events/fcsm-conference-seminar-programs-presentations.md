@@ -1,4 +1,5 @@
 ---
+permalink: /FCSM/events/fcsm-conference-seminar-programs-presentations/
 title: FCSM Statistical Policy Seminar Programs and Presentations
 layout: fcsm_page
 sidenav: events_navigation

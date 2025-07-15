@@ -241,7 +241,7 @@ group_navigation:
 resource_navigation:
   - name: Resources Summary
     url: /FCSM/resources/
-  - name: /FCSM/Statistical Policy Working Papers
+  - name: FCSM/Statistical Policy Working Papers
     url: /FCSM/resources/statistical-policy-working-papers/
 
 searchgov:
