@@ -605,7 +605,7 @@ dfn {
 }
 
 .usa-link--external::after {
-    background-image: url("../fcsm/img/usa-icons/launch.svg");
+    background-image: url("../fcsm/uswds/img/usa-icons/launch.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 1.75ex 1.75ex;
@@ -624,7 +624,7 @@ dfn {
     .usa-link--external::after {
         background: none;
         background-color: currentColor;
-        mask-image: url("../fcsm/img/usa-icons/launch.svg"), linear-gradient(transparent, transparent);
+        mask-image: url("../fcsm/uswds/img/usa-icons/launch.svg"), linear-gradient(transparent, transparent);
         mask-position: center center;
         mask-repeat: no-repeat;
         mask-size: 1.75ex 1.75ex
@@ -650,7 +650,7 @@ dfn {
 }
 
 .usa-link--external.usa-link--alt::after {
-    background-image: url("../fcsm/img/usa-icons-bg/launch--white.svg");
+    background-image: url("../fcsm/uswds/img/usa-icons-bg/launch--white.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 1.75ex 1.75ex;
@@ -669,7 +669,7 @@ dfn {
     .usa-link--external.usa-link--alt::after {
         background: none;
         background-color: currentColor;
-        mask-image: url("../fcsm/img/usa-icons/launch.svg"), linear-gradient(transparent, transparent);
+        mask-image: url("../fcsm/uswds/img/usa-icons/launch.svg"), linear-gradient(transparent, transparent);
         mask-position: center center;
         mask-repeat: no-repeat;
         mask-size: 1.75ex 1.75ex
