@@ -6,7 +6,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms2",
@@ -15,7 +15,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms3",
@@ -24,7 +24,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms4",
@@ -33,7 +33,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms5",
@@ -42,7 +42,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms6",
@@ -51,7 +51,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms7",
@@ -60,7 +60,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms8",
@@ -69,7 +69,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms9",
@@ -78,7 +78,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms10",
@@ -87,7 +87,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms11",
@@ -96,7 +96,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms12",
@@ -105,7 +105,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms13",
@@ -114,7 +114,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms14",
@@ -123,7 +123,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms15",
@@ -132,7 +132,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms16",
@@ -141,7 +141,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms17",
@@ -150,7 +150,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms18",
@@ -159,7 +159,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms19",
@@ -168,7 +168,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
     {
         name: "ms20",
@@ -177,7 +177,7 @@ var chatMessages = [
         align: "left",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/7.jpg"
+        img: "assets/fcsm/img/author-image/7.jpg"
     },
     {
         name: "ms21",
@@ -186,7 +186,7 @@ var chatMessages = [
         align: "right",
         showTime: true,
         time: "19:58",
-        img: "assets/img/author-image/8.jpg"
+        img: "assets/fcsm/img/author-image/8.jpg"
     },
 ];
 var chatDelay = 0;
@@ -196,7 +196,7 @@ function onRowAdded() {
         scrollTop: $('.chat-container').prop('scrollHeight')
     });
 };
-$.each(chatMessages, function(index, obj) {
+$.each(chatMessages, function (index, obj) {
     chatDelay = chatDelay + 1000;
     chatDelay2 = chatDelay + obj.delay;
     chatDelay3 = chatDelay2 + 10;
@@ -208,7 +208,7 @@ $.each(chatMessages, function(index, obj) {
     if (obj.showTime == true) {
         chatTimeString = "<span class='message-time'>" + obj.time + "</span>";
     }
-    $(".chat-message-list").append("<li class='message-" + obj.align + " " + obj.name + "' hidden><div class='sp-" + obj.name + "'><span class='spinme-" + obj.align + "'><div class='spinner'><div class='bounce1'></div><div class='bounce2'></div><div class='bounce3'></div></div></span></div><div class='messageinner-" + obj.name + "' hidden><img src='" + obj.img +"'><span class='message-text'>" + obj.msg + chatTimeString + "</span></div></li>");
+    $(".chat-message-list").append("<li class='message-" + obj.align + " " + obj.name + "' hidden><div class='sp-" + obj.name + "'><span class='spinme-" + obj.align + "'><div class='spinner'><div class='bounce1'></div><div class='bounce2'></div><div class='bounce3'></div></div></span></div><div class='messageinner-" + obj.name + "' hidden><img src='" + obj.img + "'><span class='message-text'>" + obj.msg + chatTimeString + "</span></div></li>");
 
     $(msgname).delay(chatDelay).fadeIn();
     $(spinner).delay(chatDelay2).hide(1);

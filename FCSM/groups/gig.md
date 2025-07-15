@@ -7,7 +7,7 @@ sidenav: group_navigation
 
 <p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>
 
-<p><a href="{{site.baseurl}}/assets/files/docs/Geospatial Interest Group Charter_signed.pdf"><strong>Charter</strong></a></p>
+<p><a href="{{site.baseurl}}/assets/fcsm/files/docs/Geospatial Interest Group Charter_signed.pdf"><strong>Charter</strong></a></p>
 <p><a href="{{site.baseurl}}/groups/gig-events/"><strong>Events</strong></a></p>
 <p><a href="{{site.baseurl}}/groups/gig-presentations/"><strong>Presentations</strong></a></p>
 <p><a href="{{site.baseurl}}/groups/gig-resources/"><strong>GIG Resources</strong></a></p>

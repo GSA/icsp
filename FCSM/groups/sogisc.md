@@ -8,27 +8,27 @@ published: false
 
 <p>The SOGISC Subcommittee advises the FCSM and the Interagency Council on Statistical Policy (ICSP) on SOGISC measurement issues, provides technical assistance as needed across Federal agencies on SOGISC measurement issues, and oversees meetings of the FCSM <a href="{{site.baseurl}}/groups/sogisc-ig/">Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group</a>.</p>
 
-<p><a href="{{site.baseurl}}/assets/files/docs/SOGISC Subcommittee Charter FINAL 2024.01.26 signed.pdf">SOGISC Subcommittee Charter</a></p>
+<p><a href="{{site.baseurl}}/assets/fcsm/files/docs/SOGISC Subcommittee Charter FINAL 2024.01.26 signed.pdf">SOGISC Subcommittee Charter</a></p>
 
 <ul>
   <li>Contact: Jennifer Ortman (U.S. Census Bureau), <a href="mailto:jennifer.m.ortman@census.gov">jennifer.m.ortman@census.gov</a> or Karen Parker (NIH), <a href="mailto:Klparker@mail.nih.gov">Klparker@mail.nih.gov</a></li>
 </ul>
 <ul>
-  <li style="padding-bottom: 20px;" ><a href="{{site.baseurl}}/assets/files/docs/FCSM 21 01 062221.pdf" target="_blank"> Why Do Federal Agencies Ask About Sexual Orientation and Gender Identity (SOGI) on Surveys? (2021)</a> Some federal surveys collect data on the characteristics and well-being of sexual and gender minority (SGM) populations. Inclusion of questions about sexual orientation (SO) and gender identity (GI) on federal surveys allows for better understanding of SGM populations relative to the general or other population groups, including economic, housing, health, and other differences. These insights can lead to potential resources and interventions needed to better serve the community. Further, these data meet critical needs to understand trends within larger population groups.  This FCSM brief describes what we have learned to date from federal surveys and federal efforts to develop effective survey questions.</li>
+  <li style="padding-bottom: 20px;" ><a href="{{site.baseurl}}/assets/fcsm/files/docs/FCSM 21 01 062221.pdf" target="_blank"> Why Do Federal Agencies Ask About Sexual Orientation and Gender Identity (SOGI) on Surveys? (2021)</a> Some federal surveys collect data on the characteristics and well-being of sexual and gender minority (SGM) populations. Inclusion of questions about sexual orientation (SO) and gender identity (GI) on federal surveys allows for better understanding of SGM populations relative to the general or other population groups, including economic, housing, health, and other differences. These insights can lead to potential resources and interventions needed to better serve the community. Further, these data meet critical needs to understand trends within larger population groups.  This FCSM brief describes what we have learned to date from federal surveys and federal efforts to develop effective survey questions.</li>
 
-  <li style="padding-bottom: 20px;" ><a href="{{site.baseurl}}/assets/files/docs/FCSM_SOGI_Terminology_FY20_Report_FINAL.pdf" target="_blank">Updates of Terminology of Sexual Orientation and Gender Identity Survey Measures (2020)</a>
+  <li style="padding-bottom: 20px;" ><a href="{{site.baseurl}}/assets/fcsm/files/docs/FCSM_SOGI_Terminology_FY20_Report_FINAL.pdf" target="_blank">Updates of Terminology of Sexual Orientation and Gender Identity Survey Measures (2020)</a>
       In support of the need for further research on the terminology and ordering of response options for sexual orientation and gender identity (SOGI) questions, this paper highlights insights identified in recent literature reviewed about response option terminology and associated methodological implications. The paper contributes to the broader discussion of measuring SOGI in surveys and identifies possible future research avenues for documenting best practices for SOGI measurement.</li>
 
-  <li style="padding-bottom: 20px;"><a href="{{site.baseurl}}/assets/files/docs/SOGI_Research_Agenda_Final_Report_20161020.pdf" target="_blank">Toward a Research Agenda for Measuring Sexual Orientation and Gender Identity in Federal Surveys: Findings, Recommendations, and Steps (2016)</a>
+  <li style="padding-bottom: 20px;"><a href="{{site.baseurl}}/assets/fcsm/files/docs/SOGI_Research_Agenda_Final_Report_20161020.pdf" target="_blank">Toward a Research Agenda for Measuring Sexual Orientation and Gender Identity in Federal Surveys: Findings, Recommendations, and Steps (2016)</a>
   This is the third working paper authored by the Federal Interagency Working Group on Improving Measurement of Sexual Orientation and Gender Identity (SOGI). It proposes a research agenda to address unresolved conceptual and methodological topics that currently impede robust survey measurement in this area.</li>
 
-  <li style="padding-bottom: 20px;"><a href="{{site.baseurl}}/assets/files/docs/Evaluations_of_SOGI_Questions_20160923.pdf" target="_blank">Evaluations of Sexual Orientation and Gender Identity Survey Measures: What Have We Learned?(2016) </a>
+  <li style="padding-bottom: 20px;"><a href="{{site.baseurl}}/assets/fcsm/files/docs/Evaluations_of_SOGI_Questions_20160923.pdf" target="_blank">Evaluations of Sexual Orientation and Gender Identity Survey Measures: What Have We Learned?(2016) </a>
   This is the second working paper authored by the Federal Interagency Working Group on Improving Measurement of Sexual Orientation and Gender Identity (SOGI). This paper reviews evaluations of questionnaire measurement.</li>
 
-  <li style="padding-bottom: 20px;"><a href="{{site.baseurl}}/assets/files/docs/current_measures_20160812.pdf" target="_blank">Current Measures of Sexual Orientation and Gender Identity in Federal Surveys (2016) </a>
+  <li style="padding-bottom: 20px;"><a href="{{site.baseurl}}/assets/fcsm/files/docs/current_measures_20160812.pdf" target="_blank">Current Measures of Sexual Orientation and Gender Identity in Federal Surveys (2016) </a>
   This is the first working paper in a series authored by the Federal Interagency Working Group on Improving Measurement of Sexual Orientation and Gender Identity (SOGI). It describes how the concepts of sexual orientation and gender identity are currently measured in U.S. Federal surveys.</li>
 
-  <li style="padding-bottom: 20px;"><a href="{{site.baseurl}}/assets/files/docs/MRFHS_StatisticalPolicyWorkingPaper201408.pdf" target="_blank">Improved Measurement of Household Relationships in Federal Surveys: Measuring Same-Sex Co-Residential Relationships (2014)</a>
+  <li style="padding-bottom: 20px;"><a href="{{site.baseurl}}/assets/fcsm/files/docs/MRFHS_StatisticalPolicyWorkingPaper201408.pdf" target="_blank">Improved Measurement of Household Relationships in Federal Surveys: Measuring Same-Sex Co-Residential Relationships (2014)</a>
 This working paper summarizes the initial work of the Interagency Working Group on Measuring Relationships in Federal Household Surveys, which has focused on the measurement of same-sex married and unmarried couples living in the same household. It addresses the measurement of household relationships, the use of these data, as well as the development and initial testing of new measures for household relationships in Federal surveys.</li>
 </ul>
 
@@ -42,7 +42,7 @@ This working paper summarizes the initial work of the Interagency Working Group 
 
 <p>Healthy People identifies public health priorities to help individuals, organizations, and communities across the United States improve health and well-being. Healthy People 2030, the initiative's fifth iteration, builds on knowledge gained over the first four decades.</p>
 
-<p><a class="usa-link--external" href="{{site.baseurl}}/assets/files/docs/SOGI_Best_Practices.pdf"><strong>Recommendations on Best Practices for the Collection of Sexual Orientation and Gender Identity Data on Federal Statistical Surveys</strong></a></p>
+<p><a class="usa-link--external" href="{{site.baseurl}}/assets/fcsm/files/docs/SOGI_Best_Practices.pdf"><strong>Recommendations on Best Practices for the Collection of Sexual Orientation and Gender Identity Data on Federal Statistical Surveys</strong></a></p>
 
 <p>The Office of Management and Budget issued this report in January 2023. The report highlights the importance of continual learning, offers considerations for including SOGI items on surveys, provides example approaches for collecting and reporting this information, offers guidance on how to safeguard SOGI data, and concludes with a summary of challenges that need further research.</p>
 

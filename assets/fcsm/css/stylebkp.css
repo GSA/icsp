@@ -1,6 +1,6 @@
 /*
 Error: Invalid CSS after "    }": expected selector or at-rule, was "}"
-        on line 4446 of /Library/WebServer/Documents/icsp/fcsm/assets/css/style.scss
+        on line 4446 of /Library/WebServer/Documents/icsp/fcsm/assets/fcsm/css/style.scss
 
 4441:         height: 100%;
 4442:         z-index: -1;
@@ -15,7 +15,7 @@ Error: Invalid CSS after "    }": expected selector or at-rule, was "}"
 4451:         color: $white-color;
 
 Backtrace:
-/Library/WebServer/Documents/icsp/fcsm/assets/css/style.scss:4446
+/Library/WebServer/Documents/icsp/fcsm/assets/fcsm/css/style.scss:4446
 /Applications/Adobe Dreamweaver 2021/Adobe Dreamweaver 2021.app/Contents/Resources/gems/rubygems/gems/sass-3.7.4/lib/sass/scss/parser.rb:1308:in `expected'
 /Applications/Adobe Dreamweaver 2021/Adobe Dreamweaver 2021.app/Contents/Resources/gems/rubygems/gems/sass-3.7.4/lib/sass/scss/parser.rb:1238:in `expected'
 /Applications/Adobe Dreamweaver 2021/Adobe Dreamweaver 2021.app/Contents/Resources/gems/rubygems/gems/sass-3.7.4/lib/sass/scss/parser.rb:42:in `parse'
@@ -30,6 +30,7 @@ Backtrace:
 /Applications/Adobe Dreamweaver 2021/Adobe Dreamweaver 2021.app/Contents/Resources/gems/bin/sass:34:in `<main>'
 */
 body:before {
-  white-space: pre;
-  font-family: monospace;
-  content: "Error: Invalid CSS after \"    }\": expected selector or at-rule, was \"}\"\A         on line 4446 of /Library/WebServer/Documents/icsp/fcsm/assets/css/style.scss\A \A 4441:         height: 100%;\A 4442:         z-index: -1;\A 4443:         \A 4444:         };\A 4445:     }\A 4446: }\A 4447: .page-title-content {\A 4448:     text-align: center;\A 4449: \A 4450:     h2 {\A 4451:         color: $white-color;"; }
+        white-space: pre;
+        font-family: monospace;
+        content: "Error: Invalid CSS after \"    }\": expected selector or at-rule, was \"}\"\A         on line 4446 of /Library/WebServer/Documents/icsp/fcsm/assets/fcsm/css/style.scss\A \A 4441:         height: 100%;\A 4442:         z-index: -1;\A 4443:         \A 4444:         };\A 4445:     }\A 4446: }\A 4447: .page-title-content {\A 4448:     text-align: center;\A 4449: \A 4450:     h2 {\A 4451:         color: $white-color;";
+}
