@@ -27,6 +27,7 @@ jobs:
       - name: Install ruby.
         uses: ruby/setup-ruby@v1
         with:
+          ruby-version: '3.1.3'
           bundler-cache: true
       - name: Add Linux platform to Gemfile.lock
         run: bundle lock --add-platform x86_64-linux
