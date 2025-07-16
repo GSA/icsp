@@ -56,11 +56,6 @@ jobs:
 
       - name: Run pa11y-ci
         run: npm run pa11y-ci:sitemap
-        env:
-          PA11Y_CI_CHROME_LAUNCH_CONFIG: '{ "args": ["--no-sandbox", "--disable-setuid-sandbox"] }'
-          LANG: en_US.UTF-8
-          LANGUAGE: en_US
-          LC_ALL: en_US.UTF-8
 
       - name: Run htmlproofer
         run: npm run htmlproofer
