@@ -28,7 +28,8 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
-
+      - name: Add Linux platform to Gemfile.lock
+        run: bundle lock --add-platform x86_64-linux
       - name: Install node.js.
         uses: actions/setup-node@v2
         with:
