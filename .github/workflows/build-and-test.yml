@@ -43,12 +43,11 @@ jobs:
           npm install puppeteer --force
           npm install
 
-      - name: Run pa11y-ci (no sandbox)
+      - name: Run pa11y-ci
         run: |
-          npx pa11y-ci --sitemap http://localhost:4000/sitemap.xml \
-                 --sitemap-exclude "/*.pdf" \
-                 --sitemap-exclude "/admin" \
-                 --chrome-launch-config '{ "args": ["--no-sandbox", "--disable-setuid-sandbox"] }'
+          export PUPPETEER_EXECUTABLE_PATH=$(npx puppeteer browsers | jq -r '.chromium.executablePath')
+          export PA11Y_CI_CHROME_LAUNCH_CONFIG='{ "args": ["--no-sandbox", "--disable-setuid-sandbox"] }'
+          npm run pa11y-ci:sitemap
 
       - name: Run htmlproofer.
         run: npm run htmlproofer
