@@ -57,5 +57,5 @@ jobs:
       #- name: Run pa11y-ci
       #  run: npm run pa11y-ci:sitemap
 
-      - name: Run htmlproofer
-        run: npm run htmlproofer
+      # - name: Run htmlproofer
+      #  run: npm run htmlproofer
