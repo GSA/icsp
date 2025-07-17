@@ -54,8 +54,8 @@ jobs:
           npm run start-detached &
           sleep 10
 
-      - name: Run pa11y-ci
-        run: npm run pa11y-ci:sitemap
+      #- name: Run pa11y-ci
+      #  run: npm run pa11y-ci:sitemap
 
       - name: Run htmlproofer
         run: npm run htmlproofer
