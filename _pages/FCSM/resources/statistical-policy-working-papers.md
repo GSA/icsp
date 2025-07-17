@@ -1,5 +1,5 @@
 ---
-permalink: /FCSM/events/statistical-policy-working-papers/
+permalink: /FCSM/resources/statistical-policy-working-papers/
 title: Statistical Policy Working Papers
 layout: fcsm_page
 sidenav: resource_navigation
