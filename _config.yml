@@ -289,7 +289,7 @@ collections:
     output: true
     permalink: /:path/
   members:
-    output: false
+    output: true
   news:
     output: false
   agencies:
