@@ -11,9 +11,9 @@ sidenav: group_navigation
 <p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>
 
 <ul>
-  <li><a href="{{site.baseurl}}/groups/cdac-about">About CDAC</a></li>
-  <li><a href="{{site.baseurl}}/groups/cdac-resources">Resources for Confidentiality and Data Access</a></li>
-  <li><a href="{{site.baseurl}}/resources/2017-workshop">2017 Workshop on New Advances in Disclosure Limitation (September 27, 2017)</a></li>
+  <li><a href="{{site.baseurl}}/FCSM/groups/cdac-about">About CDAC</a></li>
+  <li><a href="{{site.baseurl}}/FCSM/groups/cdac-resources">Resources for Confidentiality and Data Access</a></li>
+  <li><a href="{{site.baseurl}}/FCSM/resources/2017-workshop">2017 Workshop on New Advances in Disclosure Limitation (September 27, 2017)</a></li>
 </ul>
 
 <p>Contact:</p>
