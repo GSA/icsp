@@ -1,6 +1,6 @@
 ---
 title: "CDAC: 2017 Workshop on New Advances in Disclosure Limitation Final Report"
-layout: page
+layout: fcsm_page
 ---
 
 <div class="fcsm-workshop-container">
