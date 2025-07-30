@@ -100,8 +100,8 @@ primary_navigation:
     url: /policies/
   - name: Products
     url: /products/
-  #- name: FCSM #FCSM menu
-  #  url: /FCSM/
+  - name: FCSM #FCSM menu
+    url: /FCSM/
 
 strategic_priorities_nav:
   - name: Strategic Priorities
@@ -211,7 +211,7 @@ group_navigation:
       - name: Innovating Data Collection Interest Group
         url: /FCSM/groups/idcig/
       - name: Confidentiality and Data Access Committee (CDAC)
-        url: /FCSM/groups/cdac/
+        url: /FCSM/groups/cdac-meetings/
       - name: Data Science for Federal Statistics (DSFS) Interest Group
         url: /FCSM/groups/dsfs/
       - name: Geospatial Interest Group (GIG)

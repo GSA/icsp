@@ -1,5 +1,5 @@
 ---
-permalink: /FCSM/events/cdac-meetings/
+permalink: /FCSM/groups/cdac-meetings/
 title: Confidentiality and Data Access Committee (CDAC)
 layout: fcsm_page
 sidenav: group_navigation
