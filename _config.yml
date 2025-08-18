@@ -161,7 +161,7 @@ stats_fcsm_navigation:
     url: /FCSM/events/
   - name: Groups Overview
     url: /FCSM/groups/
-  - name: Back to StatsPolicy
+  - name: Back to StatsPolicy.Gov
     url: /
 
 about_navigation:
