@@ -29,20 +29,6 @@ skip: true
 
 <p><a href="https://www.whitehouse.gov/wp-content/uploads/2025/01/M-25-05-Phase-2-Implementation-of-the-Foundations-for-Evidence-Based-Policymaking-Act-of-2018-Open-Government-Data-Access-and-Management-Guidance.pdf" class="usa-link--external" target="_blank" rel="noopener" >M-25-05, Phase 2 Implementation of the Foundations for Evidence-Based Policymaking Act of 2018: Open Data Access and Management</a> outlines a systematic approach to open data that will better facilitate data access, subject to appropriate safeguards for privacy, confidentiality, and security.</p>
 
-<h3 class="font-serif-lg">Information Collection</h3>
-
-<p>The Office of Information and Regulatory Affairs in the Office of Management and Budget issues government-wide guidance to implement the information collection requirements of the <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title44/chapter35&edition=prelim" class="usa-link--external" target="_blank">Paperwork Reduction Act.</a> These include regulations on Controlling Paperwork Burdens on the Public and much more.</p>
-
-<p>Statistical Policy Directive No. 2: Standards and Guidelines for Statistical Surveys establishes practices required across the survey lifecycle, with an emphasis on the planning and collection phases. Supplemental materials include:
-<ul class="usa-list">
-  <li><a href="https://www.govinfo.gov/content/pkg/FR-2006-09-22/pdf/06-8044.pdf" class="usa-link--external" target="_blank" rel="noopener" >Federal Register Notice</a></li>
-  <li><a href="https://www.gpo.gov/fdsys/pkg/FR-2016-10-12/pdf/2016-24607.pdf" class="usa-link--external" target="_blank" rel="noopener" >Addendum: Standards and Guidelines for Cognitive Interviews</a></li>
-  <li>Guidance on Agency Survey and Statistical Information Collections</li>
-</ul>
-</p>
-
-<p>Minimizing Household Surveys during the 2020 Census of Population, and similar memorandum issued in prior decades, places a moratorium on new information collections during the decennial census, given its unique constitutional requirements and overall importance to the nation.</p>
-
 <h3 class="font-serif-lg">Confidentiality, Data Access, and Data Sharing</h3>
 
 <p>The <a href="https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title44%2Fchapter35%2Fsubchapter3&edition=prelim" class="usa-link--external" target="_blank" rel="noopener" >Confidential Information Protection and Statistical Efficiency Act</a> (CIPSEA), as amended by CIPSEA 2018, establishes a uniform policy to protect the confidentiality of data gathered for statistical purposes and evidence building.
