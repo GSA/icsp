@@ -23,7 +23,8 @@ email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to StatsPolicy.gov, the home of the U.S. Federal statistical system. StatsPolicy.gov brings together important information about our interwoven Federal statistical system, including our members, priorities, and activities across the Federal Government.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.statspolicy.gov" 
+url:
+  "https://www.statspolicy.gov"
   # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
@@ -63,6 +64,7 @@ twitter: 18F
 # USPS    - Postal Service
 # SBA     - Small Business Administration
 # SSA     - Social Security Administration
+# SSA     - Social Security Administration
 #
 #################################################################
 dap:
@@ -98,8 +100,9 @@ primary_navigation:
     url: /policies/
   - name: Products
     url: /products/
+  - name: FCSM #FCSM menu
+    url: /FCSM/
 
-    
 strategic_priorities_nav:
   - name: Strategic Priorities
     url: /strategic-priorities/
@@ -146,13 +149,102 @@ announcements_nav:
   - name: Community News
     url: /announcements/
 
+# Add the FCSM site navigation here as a separate top-level item:
+stats_fcsm_navigation:
+  - name: Home
+    url: /FCSM/
+  - name: About FCSM
+    url: /FCSM/about/
+  - name: Resources
+    url: /FCSM/resources/
+  - name: Events and Proceedings
+    url: /FCSM/events/
+  - name: Groups Overview
+    url: /FCSM/groups/
+  - name: Back to StatsPolicy.Gov Home
+    url: /
+
+about_navigation:
+  - name: About FCSM
+    url: /FCSM/about/
+  - name: Charter
+    collapsible: true
+    int_url: /FCSM/about/charter/
+    children:
+      - name: Background
+        url: /FCSM/about/charter/#background
+      - name: Mission of the FCSM
+        url: /FCSM/about/charter/#mission
+      - name: FCSM Activities
+        url: /FCSM/about/charter/#activities
+      - name: Membership
+        url: /FCSM/about/charter/#membership
+      - name: Subcommittees and Interest Groups
+        url: /FCSM/about/charter/#subcommittees
+      - name: FCSM Products
+        url: /FCSM/about/charter/#products
+      - name: Authority
+        url: /FCSM/about/charter/#authority
+      - name: Signatures of ICSP Members
+        url: /FCSM/about/charter/#signatures
+  - name: Members
+    url: /FCSM/about/members/
+
+events_navigation:
+  - name: FCSM Research and Policy Conferences
+    url: /FCSM/events/fcsm-research-conferences/
+  - name: Past FCSM Statistical Policy Seminars
+    url: /FCSM/events/fcsm-conference-seminar-programs-presentations/
+  - name: Recordings of CDAC Meetings and Workshops
+    url: /FCSM/events/cdac-meetings/
+  - name: GASP Presentations
+    url: /FCSM/events/gasp-presentations/
+  - name: GIG Presentations
+    url: /FCSM/events/gig-presentations/
+
+group_navigation:
+  - name: Groups Overview
+    url: /FCSM/groups/
+  - name: Interest Groups
+    collapsible: true
+    children:
+      - name: Innovating Data Collection Interest Group
+        url: /FCSM/groups/idcig/
+      - name: Confidentiality and Data Access Committee (CDAC)
+        url: /FCSM/groups/cdac-meetings/
+      - name: Data Science for Federal Statistics (DSFS) Interest Group
+        url: /FCSM/groups/dsfs/
+      - name: Geospatial Interest Group (GIG)
+        url: /FCSM/groups/gig/
+      # - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group
+      #   url: /groups/sogisc-ig/
+  - name: Subcommittees
+    collapsible: true
+    children:
+      - name: Federal Statistical System Research Subcommittee
+        url: /FCSM/groups/fssr-subcommittee/
+      - name: Integrated Data Quality Subcommittee
+        url: /FCSM/groups/data-quality/
+      - name: Subcommittee on Updating Statistical Methods for Safeguarding Protected Data
+        url: /FCSM/groups/data-safeguards/
+      - name: Nonresponse Bias Working Group
+        url: /FCSM/groups/nonresponse-bias/
+      # - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Subcommittee
+      #   url: /groups/sogisc/
+
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
-searchgov:
 
+resource_navigation:
+  - name: Resources Summary
+    url: /FCSM/resources/
+  - name: FCSM/Statistical Policy Working Papers
+    url: /FCSM/resources/statistical-policy-working-papers/
+
+searchgov:
   # You should not change this.
   endpoint: https://search.usa.gov
 
@@ -170,6 +262,23 @@ searchgov:
   # If you do not want to present search suggestions, set this value to false.
   suggestions: true
 
+searchgov_fcsm:
+  # Only change this if you're using a CNAME. Learn more here: https://search.gov/manual/cname.html
+  endpoint: https://search.usa.gov
+
+  # Replace this with your search.gov account.
+  affiliate: fcsm_gov
+
+  # Replace this with your access key.
+  access_key: BzW79eEDXU_NREd6lxgPPOkRapZsZdwcF43VjL_X33c=
+
+  # This renders the results within the page instead of sending to user to search.gov.
+  inline: true
+  #inline: false
+
+  # This allows Search.gov to present relevant type-ahead search suggestions in your website's search box.
+  # If you do not want to present search suggestions, set this value to false.
+  suggestions: true
 ##########################################################################################
 # The values below here are more advanced and should only be
 # changed if you know what they do
@@ -180,7 +289,7 @@ collections:
     output: true
     permalink: /:path/
   members:
-    output: false
+    output: true
   news:
     output: false
   agencies:
@@ -193,8 +302,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap # See additional instructions for url parameter above.
   - jekyll-seo-tag
-
-  
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
