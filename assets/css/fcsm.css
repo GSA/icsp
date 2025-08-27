@@ -603,7 +603,9 @@ dfn {
     right: auto;
     content: "External, opens in a new tab."
 }
-
+#search-results li b a {
+text-decoration:underline;
+}
 .usa-link--external::after {
     background-image: url("../fcsm/uswds/img/usa-icons/launch.svg");
     background-repeat: no-repeat;
