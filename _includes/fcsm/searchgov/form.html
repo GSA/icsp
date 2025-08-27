@@ -7,7 +7,7 @@ This will redirect the results to /search template which will handle the js load
 <form id="search_form" class="usa-search usa-search--small" action="{{site.baseurl}}/fcsm/search" accept-charset="UTF-8"
   method="get">
   {% else %}
-  <form id="search_form" class="usa-search usa-search--small" action="{{include.searchgov_fcsm.endpoint}}/search"
+  <form id="search_form" class="usa-search usa-search--small" action="{{include.searchgov_fcsm.endpoint}}/fcsm/search"
     accept-charset="UTF-8" method="get">
     {% endif %}
 
