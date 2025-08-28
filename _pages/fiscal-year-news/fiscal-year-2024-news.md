@@ -8,6 +8,9 @@ tagline_title: Fiscal Year 2024 News
 
 <ul class="usa-list">
   <li>
+    On Friday, October 11, 2024, OMB published the Fundamental Responsibilities of Statistical Agencies and Units Final Rule. This final rule, known as the Trust Regulation, sets forth requirements for recognized statistical agencies and units to carry out their four fundamental responsibilities, as articulated in the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act). It also sets forth requirements for all other agencies to "enable, support, and facilitate" the recognized statistical agencies and units in carrying out their responsibilities. For more information, read the announcement from the Chief Statistician of the United States. BUT remove the sentence about "For more information, read the announcement from the chief Statistician of the US.
+  </li>
+  <li>
     On September 27, 2024, OMB published the 2025 schedule of release dates for Principal Federal Economic Indicators. For more information on this and OMB Statistical Policy Directive No. 3, see the <a href="https://www.statspolicy.gov/policies/" target="_blank" rel="noopener" class="usa-link--external">Policies</a> page.
   </li>
   <li>

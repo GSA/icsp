@@ -1,5 +1,5 @@
 ---
-permalink: /FCSM/groups/cdac-meetings/
+permalink: /FCSM/groups/cdac/
 title: Confidentiality and Data Access Committee (CDAC)
 layout: fcsm_page
 sidenav: group_navigation
@@ -19,7 +19,6 @@ sidenav: group_navigation
 <p>Contact:</p>
 <ul>
   <li>Michael Hawes, Census, <a href="mailto:michael.b.hawes@census.gov">michael.b.hawes@census.gov</a></li>
-  <li>Ellen Galantucci (FCSM Liaison) at <a href="mailto:egalantucci@va.gov">egalantucci@va.gov</a></li>
 </ul>
 
 <p><strong>Recording of CDAC Meetings and Workshops:</strong></p>
