@@ -38,7 +38,7 @@ manage your navigation system
       <ul class="usa-nav__primary usa-accordion">
         {% for nav_item in include.primary_navigation %}
         {% assign is_current = false %}
-        {% if nav_item.url == best_match %}
+        {% if nav_item.url == best_match and nav_item.name != "Back to StatsPolicy.Gov Home" %}
         {% assign is_current = true %}
         {% endif %}
         <li class="usa-nav__primary-item">
@@ -62,7 +62,7 @@ manage your navigation system
           </li>
           {% endfor %}
         </ul>
-        {% include fcsm/searchgov/form.html searchgov_fcsm=site.searchgov_fcsm %}
+        {% include fcsm/searchgov/form.html searchgov=site.searchgov %}
       </div>
     </div>
   </nav>

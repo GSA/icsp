@@ -19,10 +19,10 @@ title: Search Results
   var offset = (page - 1) * resultsPerPage;
   var totalResults = 0;
 
-  var searchEndpoint = new URL("{{site.searchgov_fcsm.endpoint}}/api/v2/search/i14y");
+  var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
   params = {
-    affiliate: "{{site.searchgov_fcsm.affiliate}}",
-    access_key: "{{site.searchgov_fcsm.access_key}}",
+    affiliate: "{{site.searchgov.affiliate}}",
+    access_key: "{{site.searchgov.access_key}}",
     query: urlParams.get('query'),
     offset: offset
   }
@@ -158,9 +158,9 @@ title: Search Results
 </script>
 
 <section class="usa-graphic-list grid-container">
-  {% if site.searchgov_fcsm %}
-  <div class="display-none" id="searchgov-params" data-endpoint="{{site.searchgov_fcsm.endpoint}}" ,
-    data-affiliate="{{site.searchgov_fcsm.affiliate}}" , data-access-key="{{site.searchgov_fcsm.access_key}}"></div>
+  {% if site.searchgov %}
+  <div class="display-none" id="searchgov-params" data-endpoint="{{site.searchgov.endpoint}}" ,
+    data-affiliate="{{site.searchgov.affiliate}}" , data-access-key="{{site.searchgov.access_key}}"></div>
 
   <div id="results-header" class="display-none">
     <span id="results-count"></span> results for "<span id="search-keyword" class="text-bold"></span>"
@@ -175,7 +175,7 @@ title: Search Results
     <p>
   </div>
   <div id="pager" class="text-center margin-top-5"></div>
-  {% if site.searchgov_fcsm.affiliate == "federalist-uswds-example" %}
+  {% if site.searchgov.affiliate == "federalist-uswds-example" %}
   <div class="usa-alert usa-alert--info">
     <div class="usa-alert__body">
       This is an example. You will need to configure your site with search.gov to see the correct search results. To do
