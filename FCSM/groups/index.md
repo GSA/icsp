@@ -12,10 +12,10 @@ sidenav: group_navigation
 <p>Membership: generally open to all interested federal employees </p>
 
 <ul>
-	<li><a href="{{site.baseurl}}/groups/idcig/">Innovating Data Collection Interest Group</a></li>
-  <li><a href="{{site.baseurl}}/groups/cdac/">Confidentiality and Data Access Committee (CDAC)</a></li>
-  <li><a href="{{site.baseurl}}/groups/dsfs/">Data Science for Federal Statistics (DSFS) Interest Group</a></li>
-	<li><a href="{{site.baseurl}}/groups/gig/">Geospatial Interest Group (GIG)</a></li>
+	<li><a href="{{site.baseurl}}/FCSM/groups/idcig/">Innovating Data Collection Interest Group</a></li>
+  <li><a href="{{site.baseurl}}/FCSM/groups/cdac/">Confidentiality and Data Access Committee (CDAC)</a></li>
+  <li><a href="{{site.baseurl}}/FCSM/groups/dsfs/">Data Science for Federal Statistics (DSFS) Interest Group</a></li>
+	<li><a href="{{site.baseurl}}/FCSM/groups/gig/">Geospatial Interest Group (GIG)</a></li>
   <!-- <li><a href="{{site.baseurl}}/groups/sogisc-ig/">Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group</a></li> -->
 </ul>
 
@@ -27,8 +27,8 @@ sidenav: group_navigation
 
 <ul>
   <li><a href="{{site.baseurl}}/groups/fssr-subcommittee/">Federal Statistical System Research Subcommittee</a></li>
-  <li><a href="{{site.baseurl}}/groups/data-quality/">Integrated Data Quality Subcommittee</a></li>
+  <li><a href="{{site.baseurl}}/FCSM/groups/data-quality/">Integrated Data Quality Subcommittee</a></li>
   <li><a href="{{site.baseurl}}/groups/data-safeguards">Subcommittee on Updating Statistical Methods for Safeguarding Protected Data</a></li>
-  <li><a href="{{site.baseurl}}/groups/nonresponse-bias">Nonresponse Bias Working Group</a></li>
+  <li><a href="{{site.baseurl}}/FCSM/groups/nonresponse-bias">Nonresponse Bias Working Group</a></li>
   <!-- <li><a href="{{site.baseurl}}/groups/sogisc">Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Subcommittee</a></li> -->
 </ul>
