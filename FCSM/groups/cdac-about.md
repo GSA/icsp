@@ -31,5 +31,5 @@ sidenav: group_navigation
 <p><strong>Committee's Officers:</strong></p>
 <ul>
 
-<li>Chair: Michael Hawes, U.S. Department of Education, <a href="mailto:michael.hawes@ed.gov">michael.hawes@ed.gov</a></li>
+<li>Chair: Michael Hawes, U.S. Census Bureau, <a href="mailto:michael.b.hawes@census.gov">michael.b.hawes@census.gov</a></li>
 </ul>
