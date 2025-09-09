@@ -26,9 +26,9 @@ sidenav: group_navigation
 <p>Membership: Determined by the FCSM</p>
 
 <ul>
-  <li><a href="{{site.baseurl}}/groups/fssr-subcommittee/">Federal Statistical System Research Subcommittee</a></li>
+  <li><a href="{{site.baseurl}}/FCSM/groups/fssr-subcommittee/">Federal Statistical System Research Subcommittee</a></li>
   <li><a href="{{site.baseurl}}/FCSM/groups/data-quality/">Integrated Data Quality Subcommittee</a></li>
-  <li><a href="{{site.baseurl}}/groups/data-safeguards">Subcommittee on Updating Statistical Methods for Safeguarding Protected Data</a></li>
+  <li><a href="{{site.baseurl}}/FCSM/groups/data-safeguards">Subcommittee on Updating Statistical Methods for Safeguarding Protected Data</a></li>
   <li><a href="{{site.baseurl}}/FCSM/groups/nonresponse-bias">Nonresponse Bias Working Group</a></li>
   <!-- <li><a href="{{site.baseurl}}/groups/sogisc">Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Subcommittee</a></li> -->
 </ul>
