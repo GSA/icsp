@@ -2,18 +2,18 @@
 This will redirect the results to /search template which will handle the js loading
 {% endcomment %}
 
-{% if include.searchgov_fcsm %}
-{% if include.searchgov_fcsm.inline == true %}
+{% if include.searchgov %}
+{% if include.searchgov.inline == true %}
 <form id="search_form" class="usa-search usa-search--small" action="{{site.baseurl}}/fcsm/search" accept-charset="UTF-8"
   method="get">
   {% else %}
-  <form id="search_form" class="usa-search usa-search--small" action="{{include.searchgov_fcsm.endpoint}}/search"
+  <form id="search_form" class="usa-search usa-search--small" action="{{include.searchgov.endpoint}}/fcsm/search"
     accept-charset="UTF-8" method="get">
     {% endif %}
 
 
     <input name="utf8" type="hidden" value="&#x2713;" />
-    <input name="affiliate" type="hidden" value="{{include.searchgov_fcsm.affiliate}}" />
+    <input name="affiliate" type="hidden" value="{{include.searchgov.affiliate}}" />
 
     <div role="search">
       <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
