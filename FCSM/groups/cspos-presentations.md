@@ -6,7 +6,7 @@ sidenav: group_navigation
 permalink: /FCSM/groups/dsfs-presentations/
 ---
 
-<p>The DSFS interest group holds seminars throughout the year. Recorded seminars (if available) and slides will be posted to this web page. <a href="{{site.baseurl}}/groups/dsfs/">Contact</a> the DSFS Chairs if you want to add content to the page.</p>
+<p>The DSFS interest group holds seminars throughout the year. Recorded seminars (if available) and slides will be posted to this web page. <a href="{{site.baseurl}}/FSCM/groups/dsfs/">Contact</a> the DSFS Chairs if you want to add content to the page.</p>
 
 <ul>
  <li><a href="{{site.baseurl}}/assets/fcsm/files/docs/gasp/20181024_GASP_Program.pdf" target="_blank">20181024_GASP_Program.pdf</a></li>
