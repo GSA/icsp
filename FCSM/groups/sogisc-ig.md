@@ -7,7 +7,7 @@ published: false
 
 <p>The Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Interest Group provides ongoing opportunities for federal employees interested in statistical methods or data quality related to measuring sexual orientation, gender identity, and sex characteristics (SOGISC) to interact, exchange information, and explore issues related to this topic.</p>
 
-<p>The <a href="{{site.baseurl}}/groups/sogisc">SOGISC Subcommittee</a> coordinates and manages meetings of the SOGISC Interest Group.</p>
+<p>The <a href="{{site.baseurl}}/FCSM/groups/sogisc">SOGISC Subcommittee</a> coordinates and manages meetings of the SOGISC Interest Group.</p>
 
 <p>Please contact the group chair(s) if you are a federal employee and interested in participating.</p>
 
