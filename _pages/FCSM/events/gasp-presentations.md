@@ -4,11 +4,14 @@ title: GASP Presentations
 layout: fcsm_page
 sidenav: events_navigation
 ---
-<p>The major product from the FCSM Data Science for Federal Statistics (DSFS) group is the premier conference Government Advances in Statistical Programming (GASP!). GASP! Is an annual event with the first one starting in the fall of 2018. It attracts speakers and attendees from government, academia, and industry. Presentations showcase the innovative applications and problems being addressed in the government. </p>
+<p>The major product from the FCSM Data Science for Federal Statistics (DSFS) interest group is the Government Advances in Statistical Programming (GASP!) conference. GASP! attracts speakers and attendees from government, academia, and industry. Presentations showcase innovative data science applications that address tough government problems. </p>
 
-<p>Presentations for 2018 and 2019 conferences can be <a class="usa-link--external" href="https://www.youtube.com/playlist?list=PLqsWXJV2Utrf6Yq7fhef8p4piM8M-ZTK3" target="_blank">found on YouTube</a>.</p>
+<p>Past Conference Programs with Links to Presentations</p>
 
 <ul>
+ <li><a href="{{site.baseurl}}/assets/fcsm/files/docs/gasp/GASP2025_Program.pdf" target="_blank">GASP! 2025 Conference Program</a></li>
+ <li><a href="{{site.baseurl}}/assets/fcsm/files/docs/gasp/GASP2023_Program.pdf" target="_blank">GASP! 2023 Conference Program</a></li>
+ <li><a href="{{site.baseurl}}/assets/fcsm/files/docs/gasp/GASP2020_Program.pdf" target="_blank">GASP! 2020 Conference Program</a></li>
  <li><a href="{{site.baseurl}}/assets/fcsm/files/docs/gasp/20181024_GASP_Program.pdf" target="_blank">20181024_GASP_Program.pdf</a></li>
  <li><a href="{{site.baseurl}}/assets/fcsm/files/docs/gasp/20190923_GASP_Program.pdf" target="_blank">20190923_GASP_Program.pdf</a></li>
  <li><a href="{{site.baseurl}}/assets/fcsm/files/docs/gasp/Abernethy.pdf" target="_blank">Abernethy</a></li>
