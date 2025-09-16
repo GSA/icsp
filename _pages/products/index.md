@@ -69,13 +69,13 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li>
     <span>FY 2024:</span>
     <ul>
-      <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_9_evidence_FY2024.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_9_Statistics_FY2024.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2023:</span>
     <ul>
-      <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_15_evidence_FY2023.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_15_Statistics_FY2023.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
     </ul>
   </li>
   <li>
@@ -102,7 +102,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li>
     <span>FY 2017:</span>
     <ul>
-      <li> <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_6_evidence_FY2017.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Strengthening Federal Statistics</a></li>
+      <li> <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_6_statistics_FY2017.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Strengthening Federal Statistics</a></li>
       <li> <a href="https://www.govinfo.gov/content/pkg/BUDGET-2017-PER/pdf/BUDGET-2017-PER-4-3.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Building the Capacity to Produce and Use Evidence</a></li>
       <li> <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_statistical_programs_2017.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
     </ul>
