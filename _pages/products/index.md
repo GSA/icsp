@@ -109,9 +109,9 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   </li>
 </ul>
 
-<p>As the leader and coordinator of the U.S. Federal statistical system, the OMB also leverages a variety of public engagement strategies to communicate with and hear directly from the public, including important stakeholders and communities, as well as to publicly share information on key initiatives, strategic priorities, and other important information about the U.S. Federal statistical system.</p>
+<p>As the leader and coordinator of the U.S. Federal statistical system, OMB also leverages a variety of public engagement strategies to communicate with and hear directly from the public, including important stakeholders and communities, as well as to publicly share information on key initiatives, strategic priorities, and other important information about the U.S. Federal statistical system.</p>
 
-<p>In addition to public briefings, meetings, and events, the OMB aims to transparently provide important information through public announcements.</p>
+<p>In addition to public briefings, meetings, and events, OMB aims to transparently provide important information through public announcements.</p>
 
 <p>In addition, the OMB is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year.
 
