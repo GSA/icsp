@@ -69,26 +69,26 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   <li>
     <span>FY 2024:</span>
     <ul>
-      <li><a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/ap_9_statistics_fy2024.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_9_evidence_FY2024.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2023:</span>
     <ul>
-      <li><a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_15_evidence_FY2023.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2021/2022:</span>
     <ul>
-      <li><a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
+      <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_statistical_programs_2021-2022.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2019/2020:</span>
     <ul>
-      <li><a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Building and Using Evidence to Improve Government Effectiveness</a></li>
-      <li><a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external" target="_blank" rel="noopener"> Report: Statistical Programs of the United States Government</a></li>
+      <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_6_evidence_FY2019.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Building and Using Evidence to Improve Government Effectiveness</a></li>
+      <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_statistical_programs_2019-2020.pdf" class="usa-link--external" target="_blank" rel="noopener"> Report: Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
   <li>
@@ -96,16 +96,15 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
     <ul>
       <li> <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-7-2.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Strengthening Federal Statistics</a></li>
       <li> <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Building and Using Evidence to Improve Government Effectiveness</a></li>
-      <li> <a href="https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/05/statistical-programs-2018.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
+      <li> <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_statistical_programs_2018.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2017:</span>
     <ul>
-      <li> <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/ap_16_statistics.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Strengthening Federal Statistics</a></li>
+      <li> <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_6_evidence_FY2017.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Strengthening Federal Statistics</a></li>
       <li> <a href="https://www.govinfo.gov/content/pkg/BUDGET-2017-PER/pdf/BUDGET-2017-PER-4-3.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Building the Capacity to Produce and Use Evidence</a></li>
-      <li> <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/assets/information_and_regulatory_affairs/statistical-programs-2017.pdf
-      " class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
+      <li> <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_statistical_programs_2017.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
 </ul>
