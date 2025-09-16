@@ -113,7 +113,7 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 
 <p>In addition to public briefings, meetings, and events, OMB aims to transparently provide important information through public announcements.</p>
 
-<p>In addition, the OMB is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year.
+<p>In addition, OMB is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year.
 
 <h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
 <p>The Interagency Council on Statistical Policy (ICSP), in its role advising and assisting the U.S. Chief Statistician on challenges and opportunities facing the U.S. Federal statistical system, produces reports and publications, as needed, to address such challenges and opportunities. Some example products include:</p>
