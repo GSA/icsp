@@ -55,81 +55,66 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
 </ul>
 
 <h3 class="font-serif-lg">Office of Management and Budget and the U.S. Chief Statistician</h3>
-<p>The Office of Management and Budget (OMB) and the U.S. Chief Statistician report on the priorities of the U.S. Federal statistical system and the budgets of statistical agencies, units, and programs through two key publicly available documents: 1) Chapters in the Analytical Perspectives (AP) volume of the President's Budget, and 2) Reports to the Congress on the Statistical Programs of the United States Government (Report). In some years, the U.S. Chief Statistician has contributed to other relevant AP chapters. Highlights of those most relevant to the U.S. Federal statistical system are included below.</p>
+<p>The Office of Management and Budget (OMB) and the U.S. Chief Statistician report on the priorities of the U.S. Federal statistical system and the budgets of statistical agencies, units, and programs through two key publicly available documents: 1) Chapters in the Analytical Perspectives (AP) volume of the President's Budget, and 2) Reports to the Congress on the Statistical Programs of the United States Government (Report). Highlights of those most relevant to the U.S. Federal statistical system are included below.</p>
 <p>These AP Chapters and Reports back to Fiscal Year (FY) 2017 are available below.</p>
 
 <ul class="usa-list">
   <li>
     <span>FY 2025:</span>
     <ul>
-      <li>AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making
-        <ul>
-          <li>Statistical Officials Highlights and Achievements</li>
-        </ul>
+      <li><a href="https://www.govinfo.gov/content/pkg/BUDGET-2025-PER/pdf/BUDGET-2025-PER-3-7.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a>
       </li>
-      <li>Report: <i>Forthcoming</i></li>
     </ul>
   </li>
   <li>
     <span>FY 2024:</span>
     <ul>
-      <li> AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</li>
-      <li>Report: <i>Forthcoming</i></li>
+      <li><a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/ap_9_statistics_fy2024.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2023:</span>
     <ul>
-      <li> AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</li>
-      <!-- <li> Report: <a href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Statistical Programs of the United States Government 2023">Statistical Programs of the United States Government</a></li> -->
+      <li><a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2021/2022:</span>
     <ul>
-      <li> Report: Statistical Programs of the United States Government</li>
+      <li><a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ap_15_statistics_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2019/2020:</span>
     <ul>
-      <li> AP: Strengthening Federal Statistics</li>
-      <li> AP: <a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Building and Using Evidence to Improve Government Effectiveness 2019/2020">Building and Using Evidence to Improve Government Effectiveness</a></li>
-      <li> Report: Statistical Programs of the United States Government</li>
+      <li><a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Building and Using Evidence to Improve Government Effectiveness</a></li>
+      <li><a href="https://www.whitehouse.gov/wp-content/uploads/2018/02/ap_6_evidence-fy2019.pdf" class="usa-link--external" target="_blank" rel="noopener"> Report: Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2018:</span>
     <ul>
-      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-7-2.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Strengthening Federal Statistics 2018">Strengthening Federal Statistics</a></li>
-      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" class="usa-link--external" target="_blank" rel="noopener"  aria-label="Building and Using Evidence to Improve Government Effectiveness 2018">Building and Using Evidence to Improve Government Effectiveness</a></li>
-      <li> Report: Statistical Programs of the United States Government</li>
+      <li> <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-7-2.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Strengthening Federal Statistics</a></li>
+      <li> <a href="https://www.govinfo.gov/content/pkg/BUDGET-2018-PER/pdf/BUDGET-2018-PER-4-2.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Building and Using Evidence to Improve Government Effectiveness</a></li>
+      <li> <a href="https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/05/statistical-programs-2018.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
   <li>
     <span>FY 2017:</span>
     <ul>
-      <li> AP: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/ap_16_statistics.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Strengthening Federal Statistics 2017">Strengthening Federal Statistics</a></li>
-      <li> AP: <a href="https://www.govinfo.gov/content/pkg/BUDGET-2017-PER/pdf/BUDGET-2017-PER-4-3.pdf" class="usa-link--external" target="_blank" rel="noopener" aria-label="Building the Capacity to Produce and Use Evidence 2017">Building the Capacity to Produce and Use Evidence</a></li>
-      <li> Report: Statistical Programs of the United States Government</li>
+      <li> <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/budget/fy2017/assets/ap_16_statistics.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Strengthening Federal Statistics</a></li>
+      <li> <a href="https://www.govinfo.gov/content/pkg/BUDGET-2017-PER/pdf/BUDGET-2017-PER-4-3.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Building the Capacity to Produce and Use Evidence</a></li>
+      <li> <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/assets/information_and_regulatory_affairs/statistical-programs-2017.pdf
+      " class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
 </ul>
 
-<p>As the leader and coordinator of the U.S. Federal statistical system, the U.S. Chief Statistician also leverages a variety of public engagement strategies to communicate with and hear directly from the public, including important stakeholders and communities, as well as to publicly share information on key initiatives, strategic priorities, and other important information about the U.S. Federal statistical system.</p>
+<p>As the leader and coordinator of the U.S. Federal statistical system, the OMB also leverages a variety of public engagement strategies to communicate with and hear directly from the public, including important stakeholders and communities, as well as to publicly share information on key initiatives, strategic priorities, and other important information about the U.S. Federal statistical system.</p>
 
-<p>In addition to public briefings, meetings, and events, the U.S. Chief Statistician aims to transparently provide important information through public announcements.</p>
+<p>In addition to public briefings, meetings, and events, the OMB aims to transparently provide important information through public announcements.</p>
 
-<p>In addition, the U.S. Chief Statistician is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year. Schedules for recent years back to 2017 are linked here: 
-2025
-2024, 
-2023, 
-2022,
-2021,
-2020,
-2019,
-2018,
-2017.</p>
+<p>In addition, the OMB is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year.
 
 <h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
 <p>The Interagency Council on Statistical Policy (ICSP), in its role advising and assisting the U.S. Chief Statistician on challenges and opportunities facing the U.S. Federal statistical system, produces reports and publications, as needed, to address such challenges and opportunities. Some example products include:</p>

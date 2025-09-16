@@ -9,7 +9,7 @@ skip: true
 
 <p>Major laws, policies, and guidance often apply to one or more phases or aspects of the information lifecycle &mdash; planning, data acquisition, providing access, and disseminating the resulting information.</p>
 
-<p><strong>Relevant laws, policies, and guidance are presented below organized according to phases in the information lifecycle:</strong> cross cutting (span the full information lifecycle); information collection; confidentiality, data access, and data sharing; and data dissemination.</p>
+<p><strong>Relevant laws, policies, and guidance are presented below organized according to phases in the information lifecycle:</strong> cross cutting (span the full information lifecycle); confidentiality, data access, and data sharing; and data dissemination.</p>
 
 <h2 class="font-serif-lg">Cross Cutting</h2>
 
@@ -48,16 +48,22 @@ skip: true
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
 <ul class="usa-list">
   <li>Schedule of Release Dates for Principal Federal Economic Indicators: 
-  2025
-  2024, 
-  2023, 
-  2022, 
-  2021, 
-  2020, 
-  2019, 
-  2018, 
-  2017</li>
-  <li>1985 Directive No. 3</li>
+    <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/pfei_schedule_release_dates_cy2025_09202024.pdf">2025</a>, 
+    <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/pfei_schedule_release_dates_2024.pdf">2024</a>, 
+    <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/pfei_schedule_release_dates_2023.pdf">2023</a>, 
+    <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/pfei_schedule_release_dates_2022.pdf">2022</a>, 
+    <a href="https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/09/pfei_schedule_release_dates_2021.pdf">2021</a>, 
+    <a href="https://trumpwhitehouse.archives.gov/wp-content/uploads/2019/09/pfei_schedule_release_dates_2020.pdf">2020</a>, 
+    <a href="https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/09/pfei_schedule_releasedates_2019.pdf">2019</a>, 
+    <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/reports/pei_schedule_release_dates_2018_all_v2.pdf">2018</a>, 
+    <a href="https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/inforeg/inforeg/statpolicy/final_pei_schedule_of_release_dates_2017.a.pdf">2017</a>
+  </li>
+  <li>
+    <a href="https://www.federalregister.gov/documents/2023/08/25/2023-18313/statistical-policy-directive-no-3-compilation-release-and-evaluation-of-principal-federal-economic">1985 Statistical Policy Directive No. 3</a>
+  </li>
+  <li>
+    <a href="https://www.federalregister.gov/documents/2024/02/15/2024-02972/update-of-statistical-policy-directive-no-3-compilation-release-and-evaluation-of-principal-federal">2024 Update of Statistical Policy Directive No. 3</a>
+  </li>
 </ul>
 </p>
 
