@@ -24,7 +24,11 @@
         />
       </div>
       <div class="grid-col-8 padding-right-2">
-        <h3>{{ member.name }}</h3>
+        <h3>
+          {% for person in member.name %}
+            {{ person }}<br />
+          {% endfor %}
+        </h3>
         {% if member.sub-department %}
         <p class="usa-prose-width">
           {{ member.department }}, {{member.sub-department}}
