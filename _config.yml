@@ -86,7 +86,7 @@ primary_navigation:
     children:
       - name: Federal Statistical System
         url: /about/#fss
-      - name: Office of the Chief Statistician of the U.S.
+      - name: Office of Management and Budget
         url: /about/#office-chief
       - name: Interagency Council on Statistical Policy
         url: /about/#icsp
