@@ -83,9 +83,6 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
     <span>FY 2023:</span>
     <ul>
       <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_LeveragingFedStats_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
-      <li>
-        Report: <em>Forthcoming</em>
-      </li>
     </ul>
   </li>
   <li>
