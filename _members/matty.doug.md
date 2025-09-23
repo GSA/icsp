@@ -1,5 +1,5 @@
 ---
 name: Doug Matty*
-department: Department of Defense
-title: DOD
+department: Department of War
+title: DOW
 ---
