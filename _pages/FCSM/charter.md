@@ -138,4 +138,4 @@ sidenav: about_navigation
   </tr>
   </tbody>
 </table>
-<p class="text-base">(Revised December 2017)</p>
+<p class="text-base">(Signed December 2017)</p>
