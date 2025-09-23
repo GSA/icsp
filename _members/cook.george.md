@@ -1,5 +1,5 @@
 ---
-name: Ron Jarmin*
+name: George Cook*
 department: Department of Commerce
 sub-department: Bureau of the Census^
 title: DOC
