@@ -17,7 +17,7 @@ skip: true
 
 <p>The <a href="https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title44%2Fchapter35%2Fsubchapter3&edition=prelim" class="usa-link--external" target="_blank" rel="noopener" >Confidential Information Protection and Statistical Efficiency Act of 2018 (codified at 44 U.S.C. 3561–3583) or CIPSEA 2018</a> (pronounced sip-c), also known as Title III of the Foundations for Evidence-Based Policymaking Act of 2018, reaffirms and expands CIPSEA 2002. Among other things, it codifies the fundamental responsibilities of Federal statistical agencies and units to ensure public trust, and gives statistical agencies and units responsibilities and authorities to facilitate more effective evidence building.</p>
 
-<p>The <a href="https://www.federalregister.gov/public-inspection/2024-23536/fundamental-responsibilities-of-recognized-statistical-agencies-and-units" target="_blank" rel="noopener" class="usa-link--external">Fundamental Responsibilities of Statistical Agencies and Units Final Rule</a>, sets forth requirements for recognized statistical agencies and units to carry out their four fundamental responsibilities, as articulated in Statistical Policy Directive No. 1 and CIPSEA 2018. It also sets forth requirements for all other agencies to “enable, support, and facilitate” the recognized statistical agencies and units in carrying out their responsibilities. See the <a href="https://www.federalregister.gov/documents/2023/08/18/2023-17664/fundamental-responsibilities-of-recognized-statistical-agencies-and-units" target="_blank" rel="noopener" class="usa-link--external">Notice of Proposed Rulemaking</a> for additional explanation of the regulatory text.</p>
+<p>The <a href="https://www.federalregister.gov/public-inspection/2024-23536/fundamental-responsibilities-of-recognized-statistical-agencies-and-units" target="_blank" rel="noopener" class="usa-link--external">Fundamental Responsibilities of Statistical Agencies and Units Final Rule</a> sets forth requirements for recognized statistical agencies and units to carry out their four fundamental responsibilities, as articulated in Statistical Policy Directive No. 1 and CIPSEA 2018. It also sets forth requirements for all other agencies to “enable, support, and facilitate” the recognized statistical agencies and units in carrying out their responsibilities. See the <a href="https://www.federalregister.gov/documents/2023/08/18/2023-17664/fundamental-responsibilities-of-recognized-statistical-agencies-and-units" target="_blank" rel="noopener" class="usa-link--external">Notice of Proposed Rulemaking</a> for additional explanation of the regulatory text.</p>
 
 <p><a href="http://www.gpo.gov/fdsys/pkg/FR-2014-12-02/pdf/2014-28326.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 1: Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units</a>, on which the responsibilities of Federal statistical agencies and units in CIPSEA 2018 are based, affirms the fundamental responsibilities of Federal statistical agencies and units in the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information.</p>
 
@@ -97,17 +97,34 @@ skip: true
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2021-12-21/pdf/2021-27536.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 8: North American Industry Classification System: Classification of Establishments (2022)</a> (NAICS) is a system for classifying establishments (individual business locations) by type of economic activity. NAICS helps ensure that establishment data produced across the Federal statistical system are comparable and can be used together in analysis.
 <ul class="usa-list">
-  <li>Prior Standards</li>
-  <ul class="usa-list">
-    <li>
-      <a href= "{{ site.baseurl }}/assets/files/2016-18774.pdf" class="usa-link--external" target="_blank" rel="noopener">2017</a>, 
-      <a href= "{{ site.baseurl }}/assets/files/2011-20997.pdf" class="usa-link--external" target="_blank" rel="noopener">2012</a>, 
-      <a href= "{{ site.baseurl }}/assets/files/E6-7414.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">2007</a>, 
-      <a href= "{{ site.baseurl }}/assets/files/01-1131.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">2002</a>, 
-      <a href= "{{ site.baseurl }}/assets/files/97-8101.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">1997</a>
-    </li>
-  </ul>
-  <li>More information can be found at: <a href="https://www.census.gov/naics/" class="usa-link--external" target="_blank" rel="noopener">Census NAICS</a></li>
+  <li>
+    <ul class="usa-list">
+      <li>
+        Schedule of Release Dates for Principal Federal Economic<br> 
+        Indicators:
+        <ul class="usa-list">
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_release_dates_cy2026.pdf">2026</a></li>
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2025.pdf">2025</a></li>
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2024.pdf">2024</a></li>
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2023.pdf">2023</a></li>
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2022.pdf">2022</a></li>
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2021.pdf">2021</a></li>
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2020.pdf">2020</a></li>
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_releasedates_2019.pdf">2019</a></li>
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2018.pdf">2018</a></li>
+          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_final_pfei_schedule_of_release_dates_2017.pdf">2017</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    Prior Version
+    <ul class="usa-list">
+      <li>
+        <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_1985 Statistical Policy Directive No 3.pdf">1985</a>
+      </li>
+    </ul>
+  </li>
 </ul>
 </p>
 
@@ -116,7 +133,6 @@ skip: true
   <li>Prior Standards</li>
   <ul class="usa-list">
     <li>
-      <a href="https://www.govinfo.gov/content/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >2018</a>, 
       <a href="https://www.govinfo.gov/content/pkg/FR-2009-01-21/pdf/E9-1094.pdf" class="usa-link--external" target="_blank" rel="noopener" >2010</a>,
       <a href= "{{ site.baseurl }}/assets/files/99-25445.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">2000</a>
     </li>
