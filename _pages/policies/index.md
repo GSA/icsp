@@ -9,7 +9,7 @@ skip: true
 
 <p>Major laws, policies, and guidance often apply to one or more phases or aspects of the information lifecycle &mdash; planning, data acquisition, providing access, and disseminating the resulting information.</p>
 
-<p><strong>Relevant laws, policies, and guidance are presented below organized according to phases in the information lifecycle: cross cutting (span the full information lifecycle); confidentiality, data access, and data sharing; data dissemination; and classification standards.</strong></p>
+<p><strong>Relevant laws, policies, and guidance are presented below organized according to phases in the information lifecycle:</strong> cross cutting (span the full information lifecycle); confidentiality, data access, and data sharing; data dissemination; and classification standards.</p>
 
 <h2 class="font-serif-lg">Cross Cutting</h2>
 
