@@ -1,6 +1,6 @@
 ---
-name: Chris Andall*
-department: National Aeronautics and Space Administration
+name: Chris Andall
+department: National Aeronautics and Space Administration*
 title: NASA
 ---
 
