@@ -1,5 +1,5 @@
 ---
-name: Marc Rosenblum*
-department: Department of Homeland Security
+name: Marc Rosenblum
+department: Department of Homeland Security*
 title: DHS
 ---

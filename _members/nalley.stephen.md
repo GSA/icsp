@@ -1,6 +1,6 @@
 ---
-name: Stephen Nalley*
+name: Stephen Nalley
 department: Department of Energy
-sub-department: Energy Information Administration^
+sub-department: Energy Information Administration^*
 title: DOEn
 ---

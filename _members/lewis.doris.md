@@ -1,5 +1,5 @@
 ---
-name: Doris Lewis*
-department: Nuclear Regulatory Commission
+name: Doris Lewis
+department: Nuclear Regulatory Commission*
 title: NRC
 ---
