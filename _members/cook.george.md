@@ -1,6 +1,6 @@
 ---
-name: George Cook*
-department: Department of Commerce
+name: George Cook
+department: Department of Commerce*
 sub-department: Bureau of the Census^
 title: DOC
 ---

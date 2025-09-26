@@ -1,5 +1,5 @@
 ---
-name: Anna Maria Calcagno*
-department: Small Business Administration
+name: Anna Maria Calcagno
+department: Small Business Administration*
 title: SBA
 ---

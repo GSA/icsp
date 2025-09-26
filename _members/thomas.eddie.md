@@ -1,5 +1,5 @@
 ---
-name: Eddie Thomas*
-department: Department of Veterans Affairs
+name: Eddie Thomas
+department: Department of Veterans Affairs*
 title: VA
 ---
