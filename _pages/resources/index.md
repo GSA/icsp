@@ -21,13 +21,13 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
       The Federal Committee on Statistical Methodology is hosting its <a href= "https://fcsmconf.org/" target="_blank" rel="noopener" class="usa-link--external">2026 conference</a> on January 28-29, 2026 for current federal employees, featuring presentations highlighting innovations and best practices supporting the production of high-quality, relevant, and timely federal statistics.
   </li>
   <li>
-      On January 15, 2025, OMB published the <a href="https://www.govinfo.gov/content/pkg/FR-1999-09-30/pdf/99-25445.pdf"
+      On January 15, 2025, OMB published the <a href="{{ site.baseurl }}/assets/files/OMB_Report_FedStatPrograms_FY2023.pdf"
       target="_blank" rel="noopener" class="usa-link--external">Fiscal Year 2023 Statistical Programs of the U.S. Government</a> 
       report to the Congress outlining the budgets supporting Federal statistical activities. This report
       fulfills the responsibility of OMB to prepare a report on statistical program funding under the Paperwork Reduction
       Act of 1995. This report provides the Congress with a consolidated source for key budget and program information
       about the Federal Statistical System.
-  </li>
+  </li> 
   <li>
       On January 15, 2025, OMB released guidance to agencies on implementation of the Open, Public, Electronic, and
       Necessary (OPEN) Government Data Act, also known as Title II of the Foundations for Evidence-Based Policymaking Act
