@@ -96,7 +96,7 @@ skip: true
 </p>
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2021-12-21/pdf/2021-27536.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 8: North American Industry Classification System: Classification of Establishments (2022)</a> (NAICS) is a system for classifying establishments (individual business locations) by type of economic activity. NAICS helps ensure that establishment data produced across the Federal statistical system are comparable and can be used together in analysis.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>Prior Standards</li>
   <ul class="usa-list">
     <li>
