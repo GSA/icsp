@@ -1,14 +1,14 @@
 ---
-title:  Products
+title:  Resources
 layout: page
 permalink: /products/
 skip: true
-tagline_title: U.S. Federal Statistical System-Wide Products
+tagline_title: U.S. Federal Statistical System-Wide Resources
 ---
 
-<p>The U.S. Federal statistical system collaborates on development of several periodic and one-time reports, 
+<p>The U.S. Federal statistical system collaborates on the development of several periodic and one-time reports, 
 publications, presentations, and other products in an effort to promote understanding of its 
-initiatives, priorities, budgets, and activities. Products on this page are grouped by the entity from which they are published.</p>
+initiatives, priorities, budgets, and activities. The Federal statistical system also collaborates in the development of shared infrastructure, tools, and other resources to support data users across government, academia, businesses, and the general public in data discovery, requesting access to confidential data, and providing secure environments for such data access.  See below for such resources and products — grouped by the entity from which they are developed — as well as community news. Products on this page are grouped by the entity from which they are published.</p>
 
 <h2 class="font-serif-lg" id="community-news">Community News and Upcoming Events</h2>
 
@@ -118,14 +118,34 @@ initiatives, priorities, budgets, and activities. Products on this page are grou
   </li>
 </ul>
 
-<p>As the leader and coordinator of the U.S. Federal statistical system, OMB also leverages a variety of public engagement strategies to communicate with and hear directly from the public, including important stakeholders and communities, as well as to publicly share information on key initiatives, strategic priorities, and other important information about the U.S. Federal statistical system.</p>
-
-<p>In addition to public briefings, meetings, and events, OMB aims to transparently provide important information through public announcements.</p>
+<p>As the leader and coordinator of the U.S. Federal statistical system, OMB also leverages a variety of engagement strategies to communicate with and hear from stakeholders and communities, as well as to publicly share information on key initiatives, strategic priorities, and other important information about the U.S. Federal statistical system.</p>
 
 <p>In addition, OMB is responsible for publishing the schedule of release dates for Principal Federal Economic Indicators each calendar year. This publication is posted no later than September 30th each year for the upcoming calendar year.
 
 <h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
-<p>The Interagency Council on Statistical Policy (ICSP), in its role advising and assisting the U.S. Chief Statistician on challenges and opportunities facing the U.S. Federal statistical system, produces reports and publications, as needed, to address such challenges and opportunities. Some example products include:</p>
+<p>The Interagency Council on Statistical Policy (ICSP), in its role advising and assisting the U.S. Chief Statistician and OMB, develops reports and publications, as well as assists in developing shared infrastructure, tools, and other resources. ICSP members also engage with the community and stakeholders to hear valuable external input and to share the work of the U.S. Federal statistical system.</p>
+
+<p><strong><u>ICSP Example Reports and Publications:</u></strong></p>
+
+<h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
+<p>The Interagency Council on Statistical Policy (ICSP), in its role advising and assisting the U.S. Chief Statistician and OMB, develops reports and publications, as well as assists in developing shared infrastructure, tools, and other resources. ICSP members also engage with the community and stakeholders to hear valuable external input and to share the work of the U.S. Federal statistical system.</p>
+
+<p><strong><u>ICSP Example Reports and Publications:</u></strong></p>
+
+<p><strong>ICSP Cross-System Statistical Infrastructure, Tools, and Other Resources</strong></p>
+<p>The ICSP and OMB work collectively in the development and dissemination of shared infrastructure, tools, and other resources to support data users — across government, academia, businesses, and the general public — in data discovery, requesting access to confidential data, and providing secure environments for such data access. Some key examples are provided below.</p>
+
+<p><strong><img src="{{ site.baseurl }}/assets/img/agency_logos/FSRDC_logo.png" alt="FSRDC Logo" style="height: 1.5em; vertical-align: middle; margin-right: 10px;">Federal Statistical Research Data Centers</strong></p>
+<p>The Federal Statistical Research Data Center (FSRDC) program is a collaborative effort between the Federal statistical system and research institutions. The FSRDC program provides secure environments for approved data users to access federal confidential data assets, while protecting respondent confidentiality. These restricted-access data come from censuses and surveys of businesses and households, linked employer-employee data, and administrative records from federal and state agencies and other sources. Data users apply to access such confidential data through the Standard Application Process, described below. For more information on the FSRDC program, visit the <a href="https://www.census.gov/about/adrm/fsrdc.html" target="_blank" rel="noopener" class="usa-link--external">FSRDC Program Management Office website</a>.</p>
+
+<p><strong><img src="{{ site.baseurl }}/assets/img/agency_logos/SAP.png" alt="SAP Logo" style="height: 1.5em; vertical-align: middle; margin-right: 10px;">Standard Application Process</strong></p>
+<p>The Standard Application Process (SAP) was developed to be a single front door to apply to the nation's statistical agencies and units for access to federal confidential data assets. The <a href="https://www.researchdatagov.org/" target="_blank" rel="noopener" class="usa-link--external">SAP portal</a> includes a searchable catalog of confidential data assets from federal statistical agencies and units, and an application to apply to access confidential data. The SAP was created by OMB and the Federal statistical system, per requirements of the Foundations for Evidence-Based Policymaking Act (Evidence Act)/Confidential Information Protection and Statistical Efficiency Act (CIPSEA) of 2018. For more information, visit the <a href="https://ncses.nsf.gov/initiatives/standard-application-process" target="_blank" rel="noopener" class="usa-link--external">SAP Program Management Office website</a>.</p>
+
+<p><strong><img src="{{ site.baseurl }}/assets/img/agency_logos/NSDS_logo.png" alt="NSDS Logo" style="height: 1.5em; vertical-align: middle; margin-right: 10px;">National Secure Data Service</strong></p>
+<p>The Federal statistical system is building a secure, scalable service – using innovative tools and powerful privacy protections – to further connect people with trusted data and solutions to make smarter decisions and solve real-world problems. A collaborative effort of OMB and the Federal statistical system, the National Secure Data Service (NSDS) serves as a centralized resource for data users to navigate the national data ecosystem. NSDS key features will begin rolling out as they become available, leading up to the launch of NSDS 1.0 in summer 2027. The future, full NSDS 1.0 is envisioned to offer individualized assistance for data users in navigating the data ecosystem, an interactive dashboard documenting how government data are used, innovative tools to better harness the power of data, and a curated set of data skills and evidence-building resources. The NSDS was first introduced by the bipartisan Commission on Evidence-Based Policymaking, followed by recommendations provided by the Advisory Committee on Data for Evidence Building and additional legislative requirements to conduct a NSDS Demonstration. For more information, visit: <a href="https://ncses.nsf.gov/initiatives/national-secure-data-service-demo" target="_blank" rel="noopener" class="usa-link--external">https://ncses.nsf.gov/initiatives/national-secure-data-service-demo</a>.</p>
+
+<p><strong><img src="{{ site.baseurl }}/assets/img/agency_logos/ACDEB.png alt="ACDEB Logo" style="height: 1.5em; vertical-align: middle; margin-right: 10px;">Advisory Committee on Data for Evidence Building</strong></p>
+<p>The Evidence Act implemented approximately half of the recommendations produced by the Commission on Evidence-Based Policymaking (CEP). The CEP was established in 2016 and delivered a report in 2017 to the President and to Congress containing 22 recommendations to encourage: (1) systematic planning for evidence building; (2) high quality data governance; and (3) coordinated support for privacy-protected data sharing. To advise OMB on implementation of some Evidence Act requirements, and to refine other recommendations from the CEP, Congress included a requirement in the Evidence Act to stand up the Advisory Committee on Data for Evidence Building (ACDEB). The ACDEB was tasked to review, analyze, and make recommendations on how to promote the use of Federal data for evidence building. Its duties included advising the U.S. Chief Statistician and ICSP on implementation of Title III of the Evidence Act, known as CIPSEA 2018. The ACDEB delivered its final report to OMB in October 2022. For more information, visit the <a href="https://www.bea.gov/evidence" target="_blank" rel="noopener" class="usa-link--external">ACDEB website</a>.</p>
 
 ICSP Products:
 <ul class="usa-list">
@@ -161,9 +181,3 @@ ICSP Products:
 <p>The Federal Committee on Statistical Methodology (FCSM), in its role advising and assisting the U.S. Chief Statistician and ICSP on technical challenges and opportunities facing the U.S. Federal statistical system, produces technical products, including reports and publications, as needed, to address such challenges and opportunities.</p>
 
 <p>Products of the FCSM are available on the <a href="https://www.statspolicy.gov/FCSM" class="usa-link--external" target="_blank" rel="noopener" >FCSM website.</a></p> -->
-
-<h3 class="font-serif-lg">Related Links</h3>
-<ul class="usa-list" role="list">
-  <!-- <li role="listitem"><a href="https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/" class="usa-link--external" target="_blank" rel="noopener" >Office of Management and Budget - Office of Information and Regulatory Affairs - Programs and Standards</a></li> -->
-  <li role="listitem"><a href="https://www.bea.gov/evidence" class="usa-link--external" target="_blank" rel="noopener" >Advisory Committee on Data for Evidence-Building</a></li>
-</ul>
