@@ -58,8 +58,10 @@ skip: true
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2018.pdf">2018</a>, 
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_final_pfei_schedule_of_release_dates_2017.pdf">2017</a>
   </li>
-  <li>Prior Version</li>
+  <li>Prior Standards</li>
+  <ul class="usa-list">
     <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_1985 Statistical Policy Directive No 3.pdf">1985</a></li>
+  </ul>
 </ul>
 </p>
 
