@@ -46,7 +46,7 @@ skip: true
 <h3 class="font-serif-lg">Data Dissemination</h3>
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators (2024)</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>
     Schedule of Release Dates for Principal Federal Economic<br> 
     Indicators: 
@@ -97,34 +97,17 @@ skip: true
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2021-12-21/pdf/2021-27536.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 8: North American Industry Classification System: Classification of Establishments (2022)</a> (NAICS) is a system for classifying establishments (individual business locations) by type of economic activity. NAICS helps ensure that establishment data produced across the Federal statistical system are comparable and can be used together in analysis.
 <ul class="usa-list">
-  <li>
-    <ul class="usa-list">
-      <li>
-        Schedule of Release Dates for Principal Federal Economic<br> 
-        Indicators:
-        <ul class="usa-list">
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_release_dates_cy2026.pdf">2026</a></li>
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2025.pdf">2025</a></li>
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2024.pdf">2024</a></li>
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2023.pdf">2023</a></li>
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2022.pdf">2022</a></li>
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2021.pdf">2021</a></li>
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2020.pdf">2020</a></li>
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_releasedates_2019.pdf">2019</a></li>
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2018.pdf">2018</a></li>
-          <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_final_pfei_schedule_of_release_dates_2017.pdf">2017</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>
-    Prior Version
-    <ul class="usa-list">
-      <li>
-        <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_1985 Statistical Policy Directive No 3.pdf">1985</a>
-      </li>
-    </ul>
-  </li>
+  <li>Prior Standards</li>
+  <ul class="usa-list">
+    <li>
+      <a href= "{{ site.baseurl }}/assets/files/2016-18774.pdf" class="usa-link--external" target="_blank" rel="noopener">2017</a>, 
+      <a href= "{{ site.baseurl }}/assets/files/2011-20997.pdf" class="usa-link--external" target="_blank" rel="noopener">2012</a>, 
+      <a href= "{{ site.baseurl }}/assets/files/E6-7414.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">2007</a>, 
+      <a href= "{{ site.baseurl }}/assets/files/01-1131.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">2002</a>, 
+      <a href= "{{ site.baseurl }}/assets/files/97-8101.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">1997</a>
+    </li>
+  </ul>
+  <li>More information can be found at: <a href="https://www.census.gov/naics/" class="usa-link--external" target="_blank" rel="noopener">Census NAICS</a></li>
 </ul>
 </p>
 
