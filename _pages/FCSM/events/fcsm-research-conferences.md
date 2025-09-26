@@ -1,11 +1,11 @@
 ---
 permalink: /FCSM/events/fcsm-research-conferences/
-title: Research and Policy Conference Resources and Proceedings
+title: Research Annual Conference Resources and Proceedings
 layout: fcsm_page
 sidenav: events_navigation
 ---
 
-<h2 class="page-sub-title">Research and Policy Conference Resources and Proceedings</h2>
+<h2 class="page-sub-title">Research Annual Conference Resources and Proceedings</h2>
 
 <ul class="fcsm-research-links">
   <li>
