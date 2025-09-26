@@ -25,7 +25,7 @@ layout: fcsm_page
         <h2 class="usa-card__heading font-family-sans"><a href="https://nces.ed.gov/fcsm/dpt">Data Protection Toolkit</a></h2>
       </header>
       <div class="usa-card__body">
-        <p>Prepared by FCSM members or FCSM subcommittees. These working papers have been seen and approved by the U.S. Chief Statistician at the U.S. Office of Management and Budget (OMB).</p>
+        <p>Prepared by FCSM members or FCSM subcommittees.</p>
       </div>  
     </div>
   </li>
