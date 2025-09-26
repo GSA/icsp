@@ -98,9 +98,15 @@ skip: true
 <ul class="usa-list">
   <li>Prior Standards</li>
   <ul class="usa-list">
-    <li><a href="https://www.govinfo.gov/content/pkg/FR-2016-08-08/pdf/2016-18774.pdf" class="usa-link--external" target="_blank" rel="noopener" >2017</a></li>
+    <li>
+      <a href= "{{ site.baseurl }}/assets/files/2016-18774.pdf" class="usa-link--external" target="_blank" rel="noopener">2017</a>, 
+      <a href= "{{ site.baseurl }}/assets/files/2011-20997.pdf" class="usa-link--external" target="_blank" rel="noopener">2012</a>, 
+      <a href= "{{ site.baseurl }}/assets/files/E6-7414.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">2007</a>, 
+      <a href= "{{ site.baseurl }}/assets/files/01-1131.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">2002</a>, 
+      <a href= "{{ site.baseurl }}/assets/files/97-8101.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">1997</a>
+    </li>
   </ul>
-  <li>More information can be found at: <a href="https://www.census.gov/naics/" class="usa-link--external" target="_blank" rel="noopener" >Census NAICS</a></li>
+  <li>More information can be found at: <a href="https://www.census.gov/naics/" class="usa-link--external" target="_blank" rel="noopener">Census NAICS</a></li>
 </ul>
 </p>
 
