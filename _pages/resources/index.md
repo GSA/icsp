@@ -1,7 +1,7 @@
 ---
 title:  Resources
 layout: page
-permalink: /products/
+permalink: /resources/
 skip: true
 tagline_title: U.S. Federal Statistical System-Wide Resources
 ---
@@ -21,10 +21,8 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
       The Federal Committee on Statistical Methodology is hosting its <a href= "https://fcsmconf.org/" target="_blank" rel="noopener" class="usa-link--external">2026 conference</a> on January 28-29, 2026 for current federal employees, featuring presentations highlighting innovations and best practices supporting the production of high-quality, relevant, and timely federal statistics.
   </li>
   <li>
-      On January 15, 2025, OMB published the 
-      <!-- <a href="https://www.whitehouse.gov/wp-content/uploads/2025/01/FY23-Blue-Book-Statistical-Programs.pdf"
-          target="_blank" rel="noopener" class="usa-link--external">Fiscal Year 2023 Statistical Programs of the U.S. Government</a>  -->
-      Fiscal Year 2023 Statistical Programs of the U.S. Government 
+      On January 15, 2025, OMB published the <a href="https://www.govinfo.gov/content/pkg/FR-1999-09-30/pdf/99-25445.pdf"
+      target="_blank" rel="noopener" class="usa-link--external">Fiscal Year 2023 Statistical Programs of the U.S. Government</a> 
       report to the Congress outlining the budgets supporting Federal statistical activities. This report
       fulfills the responsibility of OMB to prepare a report on statistical program funding under the Paperwork Reduction
       Act of 1995. This report provides the Congress with a consolidated source for key budget and program information
@@ -89,9 +87,10 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
     <span>FY 2023:</span>
     <ul>
       <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_AP_LeveragingFedStats_fy2023.pdf" class="usa-link--external" target="_blank" rel="noopener">AP: Leveraging Federal Statistics to Strengthen Evidence-Based Decision-Making</a></li>
+      <li><a href="{{ site.baseurl }}/assets/files/OMB_Report_FedStatPrograms_FY2023.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li>
     </ul>
   </li>
-  <li>
+  <li> 
     <span>FY 2021/2022:</span>
     <ul>
       <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_Report_FedStatPrograms_FY20212022.pdf" class="usa-link--external" target="_blank" rel="noopener">Report: Statistical Programs of the United States Government</a></li> 
