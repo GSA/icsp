@@ -5,7 +5,7 @@ layout: page
 permalink: /policies/
 skip: true
 ---
-<p>Laws, policies, and guidance help the U.S. Chief Statistician, the Office of Management and Budget the Interagency Council on Statistical Policy (ICSP), and other leaders and members of the Federal statistical system coordinate statistical work across the Federal Government. This ensures the creation of relevant, timely, credible, and cohesive statistical information is created to inform evidence-based decision-making, while protecting the responses of individual data providers.</p>
+<p>Laws, policies, and guidance help the U.S. Chief Statistician, the Office of Management and Budget, the Interagency Council on Statistical Policy (ICSP), and other leaders and members of the Federal statistical system coordinate statistical work across the Federal Government. This ensures the creation of relevant, timely, credible, and cohesive statistical information is created to inform evidence-based decision-making, while protecting the responses of individual data providers.</p>
 
 <p>Major laws, policies, and guidance often apply to one or more phases or aspects of the information lifecycle &mdash; planning, data acquisition, providing access, and disseminating the resulting information.</p>
 
@@ -45,7 +45,7 @@ skip: true
 
 <h3 class="font-serif-lg">Data Dissemination</h3>
 
-<p><a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
+<p><a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators (2024)</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
 <ul class="usa-list">
   <li>Schedule of Release Dates for Principal Federal Economic Indicators: 
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2025.pdf">2025</a>, 
@@ -58,9 +58,8 @@ skip: true
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2018.pdf">2018</a>, 
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_final_pfei_schedule_of_release_dates_2017.pdf">2017</a>
   </li>
-  <li>Prior Version
-    <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_1985 Statistical Policy Directive No 3.pdf">1985</a>
-  </li>
+  <li>Prior Version</li>
+    <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_1985 Statistical Policy Directive No 3.pdf">1985</a></li>
 </ul>
 </p>
 
@@ -93,25 +92,36 @@ skip: true
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2021-12-21/pdf/2021-27536.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 8: North American Industry Classification System: Classification of Establishments (2022)</a> (NAICS) is a system for classifying establishments (individual business locations) by type of economic activity. NAICS helps ensure that establishment data produced across the Federal statistical system are comparable and can be used together in analysis.
 <ul class="usa-list">
-  <li><a href="https://www.govinfo.gov/content/pkg/FR-2016-08-08/pdf/2016-18774.pdf" class="usa-link--external" target="_blank" rel="noopener" >2017</a></li>
+  <li>Prior Standards</li>
+  <ul class="usa-list">
+    <li><a href="https://www.govinfo.gov/content/pkg/FR-2016-08-08/pdf/2016-18774.pdf" class="usa-link--external" target="_blank" rel="noopener" >2017</a></li>
+  </ul>
   <li>More information can be found at: <a href="https://www.census.gov/naics/" class="usa-link--external" target="_blank" rel="noopener" >Census NAICS</a></li>
 </ul>
 </p>
 
 <p><a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 10: Standard Occupational Classification (SOC) System (2018)</a> classifies all occupations in the economy, including private, public, and military occupations, to facilitate comparability across occupational data produced for statistical purposes by Federal agencies.
 <ul class="usa-list">
-  <li>Prior Standards
-    <a href="https://www.govinfo.gov/content/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >2018</a>, <a href="https://www.govinfo.gov/content/pkg/FR-2009-01-21/pdf/E9-1094.pdf" class="usa-link--external" target="_blank" rel="noopener" >2010</a>
-  </li>
+  <li>Prior Standards</li>
+  <ul class="usa-list">
+    <li>
+      <a href="https://www.govinfo.gov/content/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >2018</a>, 
+      <a href="https://www.govinfo.gov/content/pkg/FR-2009-01-21/pdf/E9-1094.pdf" class="usa-link--external" target="_blank" rel="noopener" >2010</a>
+    </li>
+  </ul>
   <li>More information can be found at: <a href="https://www.bls.gov/soc/" class="usa-link--external" target="_blank">BLS SOC 2018</a></li>
 </ul>
 </p>
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2024-03-29/pdf/2024-06469.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity (2024)</a> provides the standards for maintaining, collecting, and presenting race and ethnicity data for all Federal information collection and reporting purposes.
 <ul class="usa-list">
-  <li>Prior Standards
-    <a href="https://www.govinfo.gov/content/pkg/FR-1997-10-30/pdf/97-28653.pdf" class="usa-link--external" target="_blank" rel="noopener" >1997</a>, <a href="https://www2.census.gov/about/ombraceethnicityitwg/1978-statistical-policy-handbook.pdf" class="usa-link--external" target="_blank" rel="noopener" >1977</a>
-  </li>
+  <li>Prior Standards</li>
+  <ul class="usa-list">
+    <li>
+      <a href="https://www.govinfo.gov/content/pkg/FR-1997-10-30/pdf/97-28653.pdf" class="usa-link--external" target="_blank" rel="noopener" >1997</a>, 
+      <a href="https://www2.census.gov/about/ombraceethnicityitwg/1978-statistical-policy-handbook.pdf" class="usa-link--external" target="_blank" rel="noopener" >1977</a>
+    </li>
+  </ul>
   <li>More information can be found at: <a href="https://spd15revision.gov/" class="usa-link--external" target="_blank">spd15revision.gov</a></li>
 </ul>
 </p>
