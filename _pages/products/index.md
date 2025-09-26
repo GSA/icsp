@@ -8,7 +8,7 @@ tagline_title: U.S. Federal Statistical System-Wide Resources
 
 <p>The U.S. Federal statistical system collaborates on the development of several periodic and one-time reports, 
 publications, presentations, and other products in an effort to promote understanding of its 
-initiatives, priorities, budgets, and activities. The Federal statistical system also collaborates in the development of shared infrastructure, tools, and other resources to support data users across government, academia, businesses, and the general public in data discovery, requesting access to confidential data, and providing secure environments for such data access.  See below for such resources and products — grouped by the entity from which they are developed — as well as community news. Products on this page are grouped by the entity from which they are published.</p>
+initiatives, priorities, budgets, and activities. The Federal statistical system also collaborates in the development of shared infrastructure, tools, and other resources to support data users across government, academia, businesses, and the general public in data discovery, requesting access to confidential data, and providing secure environments for such data access.  See below for such resources and products — grouped by the entity from which they are developed — as well as community news.</p>
 
 <h2 class="font-serif-lg" id="community-news">Community News and Upcoming Events</h2>
 
@@ -125,8 +125,6 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
 <h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
 <p>The Interagency Council on Statistical Policy (ICSP), in its role advising and assisting the U.S. Chief Statistician and OMB, develops reports and publications, as well as assists in developing shared infrastructure, tools, and other resources. ICSP members also engage with the community and stakeholders to hear valuable external input and to share the work of the U.S. Federal statistical system.</p>
 
-<p><strong><u>ICSP Example Reports and Publications:</u></strong></p>
-
 <p><strong>ICSP Cross-System Statistical Infrastructure, Tools, and Other Resources</strong></p>
 <p>The ICSP and OMB work collectively in the development and dissemination of shared infrastructure, tools, and other resources to support data users — across government, academia, businesses, and the general public — in data discovery, requesting access to confidential data, and providing secure environments for such data access. Some key examples are provided below.</p>
 
@@ -142,7 +140,7 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
 <p><strong><img src="{{ site.baseurl }}/assets/img/agency_logos/ACDEB.png" alt="ACDEB Logo" style="height: 1.5em; vertical-align: middle; margin-right: 10px;">Advisory Committee on Data for Evidence Building</strong></p>
 <p>The Evidence Act implemented approximately half of the recommendations produced by the Commission on Evidence-Based Policymaking (CEP). The CEP was established in 2016 and delivered a report in 2017 to the President and to Congress containing 22 recommendations to encourage: (1) systematic planning for evidence building; (2) high quality data governance; and (3) coordinated support for privacy-protected data sharing. To advise OMB on implementation of some Evidence Act requirements, and to refine other recommendations from the CEP, Congress included a requirement in the Evidence Act to stand up the Advisory Committee on Data for Evidence Building (ACDEB). The ACDEB was tasked to review, analyze, and make recommendations on how to promote the use of Federal data for evidence building. Its duties included advising the U.S. Chief Statistician and ICSP on implementation of Title III of the Evidence Act, known as CIPSEA 2018. The ACDEB delivered its final report to OMB in October 2022. For more information, visit the <a href="https://www.bea.gov/evidence" target="_blank" rel="noopener" class="usa-link--external">ACDEB website</a>.</p>
 
-ICSP Products:
+<strong>ICSP Example Reports and Publications:</strong>
 <ul class="usa-list">
   <li>
     <span>2023:</span>
