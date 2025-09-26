@@ -1,6 +1,6 @@
 ---
 permalink: /FCSM/events/fcsm-research-conferences/
-title: Research Annual Conference Resources and Proceedings
+title: Research Annual Conference Recordings and Proceedings
 layout: fcsm_page
 sidenav: events_navigation
 ---
