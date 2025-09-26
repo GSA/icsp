@@ -117,7 +117,8 @@ skip: true
   <ul class="usa-list">
     <li>
       <a href="https://www.govinfo.gov/content/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >2018</a>, 
-      <a href="https://www.govinfo.gov/content/pkg/FR-2009-01-21/pdf/E9-1094.pdf" class="usa-link--external" target="_blank" rel="noopener" >2010</a>
+      <a href="https://www.govinfo.gov/content/pkg/FR-2009-01-21/pdf/E9-1094.pdf" class="usa-link--external" target="_blank" rel="noopener" >2010</a>,
+      <a href= "{{ site.baseurl }}/assets/files/99-25445.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">2000</a>
     </li>
   </ul>
   <li>More information can be found at: <a href="https://www.bls.gov/soc/" class="usa-link--external" target="_blank">BLS SOC 2018</a></li>

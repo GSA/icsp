@@ -1,6 +1,6 @@
 ---
-name: Joe Parsons*
+name: Joe Parsons
 department: Department of Agriculture
-sub-department: National Agricultural Statistics Service^
+sub-department: National Agricultural Statistics Service^*
 title: USDA
 ---

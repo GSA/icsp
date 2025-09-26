@@ -99,7 +99,7 @@ primary_navigation:
   - name: Policies
     url: /policies/
   - name: Resources
-    url: /products/
+    url: /resources/
   - name: FCSM #FCSM menu
     url: /FCSM/
 
