@@ -9,7 +9,7 @@ skip: true
 
 <p>Major laws, policies, and guidance often apply to one or more phases or aspects of the information lifecycle &mdash; planning, data acquisition, providing access, and disseminating the resulting information.</p>
 
-<p><strong>Relevant laws, policies, and guidance are presented below organized according to phases in the information lifecycle: cross cutting (span the full information lifecycle); confidentiality, data access, and data sharing; data dissemination; and classification standards.</p>
+<p><strong>Relevant laws, policies, and guidance are presented below organized according to phases in the information lifecycle: cross cutting (span the full information lifecycle); confidentiality, data access, and data sharing; data dissemination; and classification standards.</strong></p>
 
 <h2 class="font-serif-lg">Cross Cutting</h2>
 
@@ -112,6 +112,6 @@ skip: true
   <li>Prior Standards
     <a href="https://www.govinfo.gov/content/pkg/FR-1997-10-30/pdf/97-28653.pdf" class="usa-link--external" target="_blank" rel="noopener" >1997</a>, <a href="https://www2.census.gov/about/ombraceethnicityitwg/1978-statistical-policy-handbook.pdf" class="usa-link--external" target="_blank" rel="noopener" >1977</a>
   </li>
-  <li>More information can be found at: <a href="spd15revision.gov" class="usa-link--external" target="_blank">spd15revision.gov</a></li>
+  <li>More information can be found at: <a href="https://spd15revision.gov/" class="usa-link--external" target="_blank">spd15revision.gov</a></li>
 </ul>
 </p>
