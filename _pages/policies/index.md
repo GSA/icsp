@@ -77,7 +77,7 @@ skip: true
 <h3 class="font-serif-lg">Classification Standards</h3>
 
 <p>Under <a href="https://www.federalregister.gov/documents/2021/07/16/2021-15159/2020-standards-for-delineating-core-based-statistical-areas/" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 7: Metropolitan Statistical Areas</a>, OMB delineates Metropolitan Statistical Areas, Metropolitan Divisions, Micropolitan Statistical Areas, Combined Statistical Areas, and New England City and Town Areas for use in Federal statistical activities. OMB issues periodic updates of the areas between decennial censuses based on Census Bureau data.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>
     <span><a href="https://www.govinfo.gov/content/pkg/FR-2021-07-16/pdf/2021-15159.pdf" class="usa-link--external" target="_blank" rel="noopener" >2020 Standards for Delineating Core Based Statistical Areas</a></span>
     <ul class="usa-list">
@@ -85,7 +85,7 @@ skip: true
     </ul>
   </li>
 </ul>
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>
     <span>Historical Core Based Statistical Area Bulletins</span>
     <ul class="usa-list">
@@ -112,7 +112,7 @@ skip: true
 </p>
 
 <p><a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 10: Standard Occupational Classification (SOC) System (2018)</a> classifies all occupations in the economy, including private, public, and military occupations, to facilitate comparability across occupational data produced for statistical purposes by Federal agencies.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>Prior Standards</li>
   <ul class="usa-list">
     <li>
@@ -125,7 +125,7 @@ skip: true
 </p>
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2024-03-29/pdf/2024-06469.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity (2024)</a> provides the standards for maintaining, collecting, and presenting race and ethnicity data for all Federal information collection and reporting purposes.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>Prior Standards</li>
   <ul class="usa-list">
     <li>
