@@ -1,6 +1,6 @@
 ---
 name: Brian Moyer
-department: Department of Health and Human Services*
-sub-department: National Center for Health Statistics^
+department: Department of Health and Human Services
+sub-department: National Center for Health Statistics^*
 title: DOH
 ---
