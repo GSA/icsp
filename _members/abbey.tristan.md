@@ -1,6 +1,5 @@
 ---
-name: Stephen Nalley
-department: Department of Energy
+name: Tristan Abbey
 sub-department: Energy Information Administration^*
 title: DOEn
 ---
