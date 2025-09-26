@@ -47,7 +47,9 @@ skip: true
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators (2024)</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
 <ul class="usa-list">
-  <li>Schedule of Release Dates for Principal Federal Economic Indicators: 
+  <li>
+    Schedule of Release Dates for Principal Federal Economic<br>
+    Indicators: 
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2025.pdf">2025</a>, 
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2024.pdf">2024</a>, 
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2023.pdf">2023</a>, 
@@ -58,7 +60,7 @@ skip: true
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_pfei_schedule_of_release_dates_2018.pdf">2018</a>, 
     <a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_final_pfei_schedule_of_release_dates_2017.pdf">2017</a>
   </li>
-  <li>Prior Standards</li>
+  <li>Prior Version</li>
   <ul class="usa-list">
     <li><a href="{{ site.baseurl }}/assets/fcsm/files/docs/OMB_1985 Statistical Policy Directive No 3.pdf">1985</a></li>
   </ul>
