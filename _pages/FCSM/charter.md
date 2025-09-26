@@ -67,7 +67,7 @@ sidenav: about_navigation
   </li>
 </ol>
 
-<h2 id="signatures"><b>VII. Signatures of ICSP Members</b></h2>
+<h2 id="signatures"><b>VII. December 2017 Charter Signatures</b></h2>
 <table border="0" cellpadding="0" cellspacing="0" aria-label="signatures">
   <thead>  
   <tr>

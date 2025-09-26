@@ -4,4 +4,4 @@ title: Events and Proceedings
 layout: fcsm_page
 sidenav: events_navigation
 ---
-<p>The FCSM organizes events to facilitate discussion and sharing about issues affecting federal statistical programs, and to promote cooperative research across agencies.  The proceedings from these events, available below, disseminate information on statistical or survey methods and practices. </p>
+<p>The FCSM organizes events to facilitate discussion and sharing about issues affecting federal statistical programs, and to promote cooperative research across agencies.  The proceedings from these events, available by clicking on the left tabs, disseminate information on statistical or survey methods and practices. </p>

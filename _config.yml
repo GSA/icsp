@@ -191,7 +191,7 @@ about_navigation:
     url: /FCSM/about/members/
 
 events_navigation:
-  - name: FCSM Research and Policy Conferences
+  - name: FCSM Annual Conference Resources and Proceedings
     url: /FCSM/events/fcsm-research-conferences/
   - name: Past FCSM Statistical Policy Seminars
     url: /FCSM/events/fcsm-conference-seminar-programs-presentations/
@@ -225,9 +225,9 @@ group_navigation:
         url: /FCSM/groups/fssr-subcommittee/
       - name: Integrated Data Quality Subcommittee
         url: /FCSM/groups/data-quality/
-      - name: Subcommittee on Updating Statistical Methods for Safeguarding Protected Data
+      - name: Updating Statistical Methods for Safeguarding Protected Data Subcommittee
         url: /FCSM/groups/data-safeguards/
-      - name: Nonresponse Bias Working Group
+      - name: Nonresponse Bias Subcommittee
         url: /FCSM/groups/nonresponse-bias/
       # - name: Sexual Orientation, Gender Identity, and Sex Characteristics (SOGISC) Subcommittee
       #   url: /groups/sogisc/
