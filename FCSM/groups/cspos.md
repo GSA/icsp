@@ -27,9 +27,8 @@ languages such a R and Python.</li>
 
 <p><strong><a href="{{site.baseurl}}/assets/fcsm/files/docs/DSFS_Charter_Signed.pdf">Charter</a></strong></p>
 <p><strong><a href="{{site.baseurl}}/FCSM/groups/dsfs-resources/">DSFS Resources</a></strong></p>
-<p><strong><a href="{{site.baseurl}}/FCSM/groups/dsfs-gasp/">Government Advances in Statistical Programming (GASP)</a></strong></p>
+<p><strong><a href="{{site.baseurl}}/FCSM/events/gasp-presentations/">Government Advances in Statistical Programming (GASP)</a></strong></p>
 <p><strong><a href="{{site.baseurl}}/FCSM/groups/dsfs-presentations/">DSFS Presentations</a></strong></p>
-<p><strong><a href="{{site.baseurl}}/assets/fcsm/files/docs/GASP-2023-program-with-abstracts-2023-06-13.pdf">GASP 2023 Conference (June 14-15) Agenda</a></strong></p>
 
 <p><strong>Contacts:</strong></p>
 <ul>

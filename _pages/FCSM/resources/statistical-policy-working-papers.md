@@ -7,9 +7,9 @@ sidenav: resource_navigation
 
 <h2 class="page-sub-title">Overview</h2>
 
-<p>Statistical Policy Working Papers are prepared by FCSM members or FCSM subcommittees. These working papers have been seen and approved by the Chief Statistician at the U.S. Office of Management and Budget (OMB). Like other FCSM products, these papers convey the insights and best practices garnered from FCSM members, their agencies across the federal statistical system.</p>
+<p>Statistical Policy Working Papers are prepared by FCSM members or FCSM subcommittees. Like other FCSM products, these papers convey the insights and best practices garnered from FCSM members, their agencies across the Federal statistical system.</p>
 
-<p>These Statistical Policy Working Papers are not Statistical Policy Directives. Statistical Policy Directives are issued by OMB and serve as minimum requirements for Federal principal statistical agencies when they engage in statistical activities.</p>
+<p>These Statistical Policy Working Papers are not OMB Statistical Policy Directives. Statistical Policy Directives are issued by OMB and serve as minimum requirements for Federal statistical agencies and programs when they engage in statistical activities.</p>
 
 <h3 class="page-sub-heading">DATA QUALITY FRAMEWORK</h3>
 <ul>

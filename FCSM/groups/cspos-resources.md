@@ -4,7 +4,7 @@ layout: fcsm_page
 sidenav: group_navigation
 permalink: /FCSM/groups/dsfs-resources/
 ---
-<p>On this page, the Data Science for Federal Statistics Interest Group provides resources of interest to the Computational Statistics community. These might be white papers, links, tools, contact lists, meeting minutes, etc.). Keep checking back for new content.</p>
+<p>On this page, the Data Science for Federal Statistics Interest Group provides resources of interest to the Computational Statistics community. These might be white papers, links, tools, contact lists, meeting minutes, etc.). Check back for new content.</p>
 
 <h3>Contact: </h3>
 <ul>
