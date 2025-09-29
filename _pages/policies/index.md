@@ -17,7 +17,7 @@ skip: true
 
 <p>The <a href="https://uscode.house.gov/view.xhtml?path=%2Fprelim%40title44%2Fchapter35%2Fsubchapter3&edition=prelim" class="usa-link--external" target="_blank" rel="noopener" >Confidential Information Protection and Statistical Efficiency Act of 2018 (codified at 44 U.S.C. 3561–3583) or CIPSEA 2018</a> (pronounced sip-c), also known as Title III of the Foundations for Evidence-Based Policymaking Act of 2018, reaffirms and expands CIPSEA 2002. Among other things, it codifies the fundamental responsibilities of Federal statistical agencies and units to ensure public trust, and gives statistical agencies and units responsibilities and authorities to facilitate more effective evidence building.</p>
 
-<p>The <a href="https://www.federalregister.gov/public-inspection/2024-23536/fundamental-responsibilities-of-recognized-statistical-agencies-and-units" target="_blank" rel="noopener" class="usa-link--external">Fundamental Responsibilities of Statistical Agencies and Units Final Rule</a>, sets forth requirements for recognized statistical agencies and units to carry out their four fundamental responsibilities, as articulated in Statistical Policy Directive No. 1 and CIPSEA 2018. It also sets forth requirements for all other agencies to “enable, support, and facilitate” the recognized statistical agencies and units in carrying out their responsibilities. See the <a href="https://www.federalregister.gov/documents/2023/08/18/2023-17664/fundamental-responsibilities-of-recognized-statistical-agencies-and-units" target="_blank" rel="noopener" class="usa-link--external">Notice of Proposed Rulemaking</a> for additional explanation of the regulatory text.</p>
+<p>The <a href="https://www.federalregister.gov/public-inspection/2024-23536/fundamental-responsibilities-of-recognized-statistical-agencies-and-units" target="_blank" rel="noopener" class="usa-link--external">Fundamental Responsibilities of Statistical Agencies and Units Final Rule</a> sets forth requirements for recognized statistical agencies and units to carry out their four fundamental responsibilities, as articulated in Statistical Policy Directive No. 1 and CIPSEA 2018. It also sets forth requirements for all other agencies to “enable, support, and facilitate” the recognized statistical agencies and units in carrying out their responsibilities. See the <a href="https://www.federalregister.gov/documents/2023/08/18/2023-17664/fundamental-responsibilities-of-recognized-statistical-agencies-and-units" target="_blank" rel="noopener" class="usa-link--external">Notice of Proposed Rulemaking</a> for additional explanation of the regulatory text.</p>
 
 <p><a href="http://www.gpo.gov/fdsys/pkg/FR-2014-12-02/pdf/2014-28326.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 1: Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units</a>, on which the responsibilities of Federal statistical agencies and units in CIPSEA 2018 are based, affirms the fundamental responsibilities of Federal statistical agencies and units in the design, collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical information.</p>
 
@@ -46,7 +46,7 @@ skip: true
 <h3 class="font-serif-lg">Data Dissemination</h3>
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2024-02-15/pdf/2024-02972.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 3: Compilation, Release, and Evaluation of Principal Federal Economic Indicators (2024)</a> provides guidance to Federal agencies on the compilation and release of principal economic indicators.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>
     Schedule of Release Dates for Principal Federal Economic<br> 
     Indicators: 
@@ -77,7 +77,7 @@ skip: true
 <h3 class="font-serif-lg">Classification Standards</h3>
 
 <p>Under <a href="https://www.federalregister.gov/documents/2021/07/16/2021-15159/2020-standards-for-delineating-core-based-statistical-areas/" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 7: Metropolitan Statistical Areas</a>, OMB delineates Metropolitan Statistical Areas, Metropolitan Divisions, Micropolitan Statistical Areas, Combined Statistical Areas, and New England City and Town Areas for use in Federal statistical activities. OMB issues periodic updates of the areas between decennial censuses based on Census Bureau data.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>
     <span><a href="https://www.govinfo.gov/content/pkg/FR-2021-07-16/pdf/2021-15159.pdf" class="usa-link--external" target="_blank" rel="noopener" >2020 Standards for Delineating Core Based Statistical Areas</a></span>
     <ul class="usa-list">
@@ -85,7 +85,7 @@ skip: true
     </ul>
   </li>
 </ul>
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>
     <span>Historical Core Based Statistical Area Bulletins</span>
     <ul class="usa-list">
@@ -96,7 +96,7 @@ skip: true
 </p>
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2021-12-21/pdf/2021-27536.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 8: North American Industry Classification System: Classification of Establishments (2022)</a> (NAICS) is a system for classifying establishments (individual business locations) by type of economic activity. NAICS helps ensure that establishment data produced across the Federal statistical system are comparable and can be used together in analysis.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>Prior Standards</li>
   <ul class="usa-list">
     <li>
@@ -112,11 +112,10 @@ skip: true
 </p>
 
 <p><a href="https://www.gpo.gov/fdsys/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 10: Standard Occupational Classification (SOC) System (2018)</a> classifies all occupations in the economy, including private, public, and military occupations, to facilitate comparability across occupational data produced for statistical purposes by Federal agencies.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>Prior Standards</li>
   <ul class="usa-list">
     <li>
-      <a href="https://www.govinfo.gov/content/pkg/FR-2017-11-28/pdf/2017-25622.pdf" class="usa-link--external" target="_blank" rel="noopener" >2018</a>, 
       <a href="https://www.govinfo.gov/content/pkg/FR-2009-01-21/pdf/E9-1094.pdf" class="usa-link--external" target="_blank" rel="noopener" >2010</a>,
       <a href= "{{ site.baseurl }}/assets/files/99-25445.pdf" class="usa-link--external" class="usa-link--external" target="_blank" rel="noopener">2000</a>
     </li>
@@ -126,7 +125,7 @@ skip: true
 </p>
 
 <p><a href="https://www.govinfo.gov/content/pkg/FR-2024-03-29/pdf/2024-06469.pdf" class="usa-link--external" target="_blank" rel="noopener" >Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity (2024)</a> provides the standards for maintaining, collecting, and presenting race and ethnicity data for all Federal information collection and reporting purposes.
-<ul class="usa-list">
+<ul class="usa-list" style="margin-left: 2em;">
   <li>Prior Standards</li>
   <ul class="usa-list">
     <li>
