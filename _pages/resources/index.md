@@ -15,10 +15,19 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
   <li>
-      On September 26, 2025, OMB published the 2026 schedule of release dates for Principal Federal Economic Indicators. For more information on this and OMB Statistical Policy Directive No. 3, see the <a href= "https://www.statspolicy.gov/policies/" target="_blank" rel="noopener" class="usa-link--external">Policies</a> page.
+      On September 26, 2025, OMB published the 2026 schedule of release dates for Principal Federal
+      Economic Indicators, including GDP, the Employment Situation, and the Consumer Price Index.
+      This schedule promotes transparency and provides a clear expectation of when data are to be
+      released for use by U.S. businesses and the American people. For more information on this and
+      OMB Statistical Policy Directive No. 3, see the <a href= "https://www.statspolicy.gov/policies/" target="_blank" rel="noopener" class="usa-link--external">Policies</a> page.
   </li>
   <li>
-      The Federal Committee on Statistical Methodology is hosting its <a href= "https://fcsmconf.org/" target="_blank" rel="noopener" class="usa-link--external">2026 conference</a> on January 28-29, 2026 for current federal employees, featuring presentations highlighting innovations and best practices supporting the production of high-quality, relevant, and timely federal statistics.
+    The Federal Committee on Statistical Methodology (FCSM) is hosting the 2026 FCSM Conference
+    on January 28-29, 2026 at the Suitland Federal Center in Suitland, MD, for current federal
+    employees. Sponsored by the Census Bureau, Bureau of Labor Statistics, and Bureau of
+    Economic Analysis, this conference will feature presentations highlighting innovations and
+    best practices supporting the production of high-quality, relevant, and timely federal
+    statistics. For more information, see <a href= "https://fcsmconf.org/" target="_blank" rel="noopener" class="usa-link--external">https://fcsmconf.org/</a>.
   </li>
   <li>
       On January 15, 2025, OMB published the <a href="{{ site.baseurl }}/assets/files/OMB_Report_FedStatPrograms_FY2023.pdf"
