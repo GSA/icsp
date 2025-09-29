@@ -15,10 +15,19 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
 <p>Recent updates relevant to the U.S. Federal statistical system:</p>
 <ul class="usa-list">
   <li>
-      On September 26, 2025, OMB published the 2026 schedule of release dates for Principal Federal Economic Indicators. For more information on this and OMB Statistical Policy Directive No. 3, see the <a href= "https://www.statspolicy.gov/policies/" target="_blank" rel="noopener" class="usa-link--external">Policies</a> page.
+      On September 26, 2025, OMB published the 2026 schedule of release dates for Principal Federal
+      Economic Indicators, including GDP, the Employment Situation, and the Consumer Price Index.
+      This schedule promotes transparency and provides a clear expectation of when data are to be
+      released for use by U.S. businesses and the American people. For more information on this and
+      OMB Statistical Policy Directive No. 3, see the <a href= "https://www.statspolicy.gov/policies/" target="_blank" rel="noopener" class="usa-link--external">Policies</a> page.
   </li>
   <li>
-      The Federal Committee on Statistical Methodology is hosting its <a href= "https://fcsmconf.org/" target="_blank" rel="noopener" class="usa-link--external">2026 conference</a> on January 28-29, 2026 for current federal employees, featuring presentations highlighting innovations and best practices supporting the production of high-quality, relevant, and timely federal statistics.
+    The Federal Committee on Statistical Methodology (FCSM) is hosting the 2026 FCSM Conference
+    on January 28-29, 2026 at the Suitland Federal Center in Suitland, MD, for current federal
+    employees. Sponsored by the Census Bureau, Bureau of Labor Statistics, and Bureau of
+    Economic Analysis, this conference will feature presentations highlighting innovations and
+    best practices supporting the production of high-quality, relevant, and timely federal
+    statistics. For more information, see <a href= "https://fcsmconf.org/" target="_blank" rel="noopener" class="usa-link--external">https://fcsmconf.org/</a>.
   </li>
   <li>
       On January 15, 2025, OMB published the <a href="{{ site.baseurl }}/assets/files/OMB_Report_FedStatPrograms_FY2023.pdf"
@@ -130,7 +139,7 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
 <h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
 <p>The Interagency Council on Statistical Policy (ICSP), in its role advising and assisting the U.S. Chief Statistician and OMB, develops reports and publications, as well as assists in developing shared infrastructure, tools, and other resources. ICSP members also engage with the community and stakeholders to hear valuable external input and to share the work of the U.S. Federal statistical system.</p>
 
-<p><strong>ICSP Cross-System Statistical Infrastructure, Tools, and Other Resources</strong></p>
+<p><strong><u>ICSP Cross-System Statistical Infrastructure, Tools, and Other Resources</u></strong></p>
 <p>The ICSP and OMB work collectively in the development and dissemination of shared infrastructure, tools, and other resources to support data users — across government, academia, businesses, and the general public — in data discovery, requesting access to confidential data, and providing secure environments for such data access. Some key examples are provided below.</p>
 
 <p><strong>Federal Statistical Research Data Centers</strong></p>
@@ -145,7 +154,7 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
 <p><strong>Advisory Committee on Data for Evidence Building</strong></p>
 <p>The Evidence Act implemented approximately half of the recommendations produced by the Commission on Evidence-Based Policymaking (CEP). The CEP was established in 2016 and delivered a report in 2017 to the President and to Congress containing 22 recommendations to encourage: (1) systematic planning for evidence building; (2) high quality data governance; and (3) coordinated support for privacy-protected data sharing. To advise OMB on implementation of some Evidence Act requirements, and to refine other recommendations from the CEP, Congress included a requirement in the Evidence Act to stand up the Advisory Committee on Data for Evidence Building (ACDEB). The ACDEB was tasked to review, analyze, and make recommendations on how to promote the use of Federal data for evidence building. Its duties included advising the U.S. Chief Statistician and ICSP on implementation of Title III of the Evidence Act, known as CIPSEA 2018. The ACDEB delivered its final report to OMB in October 2022. For more information, visit the <a href="https://www.bea.gov/evidence" target="_blank" rel="noopener" class="usa-link--external">ACDEB website</a>.</p>
 
-<strong>ICSP Example Reports and Publications:</strong>
+<strong><u>ICSP Example Reports and Publications:</u></strong>
 <ul class="usa-list">
   <li>
     <span>2023:</span>
@@ -172,8 +181,6 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
     </ul>
   </li>
 </ul>
-
-<p>In addition, ICSP members engage with the public and important stakeholder bodies to communicate with and hear directly from the public, as well as to publicly share their perspectives on the work of the U.S. Federal statistical system.</p>
 
 <!-- <h3 class="font-serif-lg">Federal Committee on Statistical Methodology</h3>
 <p>The Federal Committee on Statistical Methodology (FCSM), in its role advising and assisting the U.S. Chief Statistician and ICSP on technical challenges and opportunities facing the U.S. Federal statistical system, produces technical products, including reports and publications, as needed, to address such challenges and opportunities.</p>
