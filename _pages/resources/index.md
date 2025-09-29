@@ -130,10 +130,10 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
 <h3 class="font-serif-lg">Interagency Council on Statistical Policy</h3>
 <p>The Interagency Council on Statistical Policy (ICSP), in its role advising and assisting the U.S. Chief Statistician and OMB, develops reports and publications, as well as assists in developing shared infrastructure, tools, and other resources. ICSP members also engage with the community and stakeholders to hear valuable external input and to share the work of the U.S. Federal statistical system.</p>
 
-<p><strong>ICSP Cross-System Statistical Infrastructure, Tools, and Other Resources</strong></p>
+<p><strong><u>ICSP Cross-System Statistical Infrastructure, Tools, and Other Resources</u></strong></p>
 <p>The ICSP and OMB work collectively in the development and dissemination of shared infrastructure, tools, and other resources to support data users — across government, academia, businesses, and the general public — in data discovery, requesting access to confidential data, and providing secure environments for such data access. Some key examples are provided below.</p>
 
-<p><strong>Federal Statistical Research Data Centers</strong></p>
+<p><strong><u>Federal Statistical Research Data Centers</u></strong></p>
 <p>The Federal Statistical Research Data Center (FSRDC) program is a collaborative effort between the Federal statistical system and research institutions. The FSRDC program provides secure environments for approved data users to access federal confidential data assets, while protecting respondent confidentiality. These restricted-access data come from censuses and surveys of businesses and households, linked employer-employee data, and administrative records from federal and state agencies and other sources. Data users apply to access such confidential data through the Standard Application Process, described below. For more information on the FSRDC program, visit the <a href="https://www.census.gov/about/adrm/fsrdc.html" target="_blank" rel="noopener" class="usa-link--external">FSRDC Program Management Office website</a>.</p>
 
 <p><strong>Standard Application Process</strong></p>
@@ -172,8 +172,6 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
     </ul>
   </li>
 </ul>
-
-<p>In addition, ICSP members engage with the public and important stakeholder bodies to communicate with and hear directly from the public, as well as to publicly share their perspectives on the work of the U.S. Federal statistical system.</p>
 
 <!-- <h3 class="font-serif-lg">Federal Committee on Statistical Methodology</h3>
 <p>The Federal Committee on Statistical Methodology (FCSM), in its role advising and assisting the U.S. Chief Statistician and ICSP on technical challenges and opportunities facing the U.S. Federal statistical system, produces technical products, including reports and publications, as needed, to address such challenges and opportunities.</p>
