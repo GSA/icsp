@@ -142,7 +142,7 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
 <p><strong><u>ICSP Cross-System Statistical Infrastructure, Tools, and Other Resources</u></strong></p>
 <p>The ICSP and OMB work collectively in the development and dissemination of shared infrastructure, tools, and other resources to support data users — across government, academia, businesses, and the general public — in data discovery, requesting access to confidential data, and providing secure environments for such data access. Some key examples are provided below.</p>
 
-<p><strong><u>Federal Statistical Research Data Centers</u></strong></p>
+<p><strong>Federal Statistical Research Data Centers</strong></p>
 <p>The Federal Statistical Research Data Center (FSRDC) program is a collaborative effort between the Federal statistical system and research institutions. The FSRDC program provides secure environments for approved data users to access federal confidential data assets, while protecting respondent confidentiality. These restricted-access data come from censuses and surveys of businesses and households, linked employer-employee data, and administrative records from federal and state agencies and other sources. Data users apply to access such confidential data through the Standard Application Process, described below. For more information on the FSRDC program, visit the <a href="https://www.census.gov/about/adrm/fsrdc.html" target="_blank" rel="noopener" class="usa-link--external">FSRDC Program Management Office website</a>.</p>
 
 <p><strong>Standard Application Process</strong></p>
@@ -154,7 +154,7 @@ initiatives, priorities, budgets, and activities. The Federal statistical system
 <p><strong>Advisory Committee on Data for Evidence Building</strong></p>
 <p>The Evidence Act implemented approximately half of the recommendations produced by the Commission on Evidence-Based Policymaking (CEP). The CEP was established in 2016 and delivered a report in 2017 to the President and to Congress containing 22 recommendations to encourage: (1) systematic planning for evidence building; (2) high quality data governance; and (3) coordinated support for privacy-protected data sharing. To advise OMB on implementation of some Evidence Act requirements, and to refine other recommendations from the CEP, Congress included a requirement in the Evidence Act to stand up the Advisory Committee on Data for Evidence Building (ACDEB). The ACDEB was tasked to review, analyze, and make recommendations on how to promote the use of Federal data for evidence building. Its duties included advising the U.S. Chief Statistician and ICSP on implementation of Title III of the Evidence Act, known as CIPSEA 2018. The ACDEB delivered its final report to OMB in October 2022. For more information, visit the <a href="https://www.bea.gov/evidence" target="_blank" rel="noopener" class="usa-link--external">ACDEB website</a>.</p>
 
-<strong>ICSP Example Reports and Publications:</strong>
+<strong><u>ICSP Example Reports and Publications:</u></strong>
 <ul class="usa-list">
   <li>
     <span>2023:</span>
