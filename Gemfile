@@ -19,6 +19,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 
-gem "html-proofer", "~> 3.18"
+gem "html-proofer", "~> 5.1"
 
 gem 'jekyll-sass-converter', '~> 3.0'
